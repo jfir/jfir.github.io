@@ -64,32 +64,34 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "jbahraoui@gmail.com"
+  #facebook: na
+  github: jfir
+  twitter: jbahraoui
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: jbahraoui
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: "na"
+#  snapchat: na
+#  instagram: na
+#  youtube: user/jbahraoui
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
+#  telephone: +16309512030
+#  steam: na
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: False
+  linkedin: true
+  github: true
   linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "NestQuest.com"  # eg. "NestQuest.com/jfir"
 
 # --- Web Statistics Section --- #
 
@@ -248,5 +250,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
+# Jfir / Jaouad ELBahraoui
 # 2fc73a3a967e97599c9763d05e564189
