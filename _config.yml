@@ -1,26 +1,24 @@
-# --- General options --- #
-
-# Name of website
-title: Jaouad ElBahraoui
-
-# Short description of your site
-description: A virtual proof that I'm awesome
-
-# url is the the website domain URL without a trailing slash
-url: "https://NestQuest.net"
-
-# baseurl should be an empty string
-#baseurl: ""
+# --- General Site options --- #
+title: Jaouad ElBahraoui # Name of website
+description: A virtual proof that I'm awesome # Short description of your site
+url: "https://NestQuest.net" # url is the the website domain URL without a trailing slash
+#baseurl: ""  # baseurl should be an empty string
+permalink: /:title/
+include: ["_pages"]
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://NestQuest.net"
+  Resume: "Resume"
+  Projects: "Projects"
+    - Python: "https://NestQuest.net/beautiful-jekyll/"
+    - R: "https://NestQuest.net/"
+    - Tableau: "https://NestQuest.net/"
+    - SQL: "https://NestQuest.net/"
+  Blog: "Blog"
+  Contact: "Contact"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -49,7 +47,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -91,7 +89,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "NestQuest.com"  # eg. "NestQuest.com/jfir"
+url-pretty: "NestQuest.net"  # eg. "NestQuest.net/jfir"
 
 # --- Web Statistics Section --- #
 
@@ -184,30 +182,14 @@ defaults:
 link-tags: true
 
 # Exclude these files from production site
-exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Dockerfile
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - Vagrantfile
+#exclude: [CHANGELOG.md, CNAME, Dockerfile, Gemfile, Gemfile.lock, LICENSE, README.md, Vagrantfile]
 
 # prose.io config
 prose:
   rooturl: '_posts'
   media: 'img'
-  ignore:
-    - 404.html
-    - LICENSE
-    - feed.xml
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
-    - /img
-    - /js
+  ignore: [404.html, LICENSE, feed.xml, _config.yml,/_layouts, /_includes, /css, /img, /js]
+
   metadata:
     _posts:
       - name: "layout"
@@ -249,6 +231,6 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Jfir / Jaouad ELBahraoui
-# 2fc73a3a967e97599c9763d05e564189
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
