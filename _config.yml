@@ -1,25 +1,27 @@
-# --- General Site options --- #
-title: Jaouad ElBahraoui # Name of website
+
+# --------- General Site options --------- #
+title: Home # Name of website
 description: A virtual proof that I'm awesome # Short description of your site
 url: "https://NestQuest.net" # url is the the website domain URL without a trailing slash
 #baseurl: ""  # baseurl should be an empty string
-permalink: /:title/
-include: ["_pages"]
 
-# --- Navigation bar options --- #
+
+
+# --------- Navigation bar options --------- #
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://NestQuest.net/"
   Blog: "Blog"
-  Projects: "https://NestQuest.net/"
+  Projects: "Projects"
   BI:
-    - Alteryx: "https://NestQuest.net/"
-    - Tableau: "https://NestQuest.net/"
-    - QlikView: "https://NestQuest.net/"
+    - Alteryx: "Alteryx"
+    - Tableau: "Tableau"
+    - QlikView: "QlikView"
   DATASETS: "Datasets"
   Resume: "Resume"
 
+
+# --------- Navigation bar Image --------- #
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -29,7 +31,9 @@ avatar: "/img/Jaouad.jpg"
 # then specify the following parameter
 # title-img: /path/to/image
 
-# --- Background colour/image options --- #
+
+
+# --------- Background colour/image options --------- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
@@ -43,19 +47,20 @@ footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
-# Alternatively, the navbar, footer, and page background can be set to use background images
-# instead of colour
+# Alternatively, the navbar, footer, and page background can be set to use background images instead of colour
 
-# navbar-img: "/img/bgimage.png"
+# navbar-img: "/img/path.jpg"
 # footer-img: "/img/bgimage.png"
-page-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
 
-# --- Footer options --- #
+
+
+# --------- Footer options --------- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Jaouad ElBahraoui
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -90,51 +95,12 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "NestQuest.net"  # eg. "NestQuest.net/jfir"
 
-# --- Web Statistics Section --- #
+#url-pretty: "NestQuest.net"  # eg. "NestQuest.net/jfir"
 
-# Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
 
-# Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
 
-# Google Tag Manager ID
-#gtm: ""
-
-# Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
-# whether or not you want to allow users to opt out of tracking.
-
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
-
-# --- Comments --- #
-
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
-
-# If you want to use JustComments fill with the API Key
-#just-comments: "ABCD-EFGH-IJKL"
-
-# To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
-
-# To use Staticman comments, fill in repository, branch, and endpoint
-staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
-  reCaptcha:
-    # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
-    # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : # Use your own site key, you need to apply for one on Google
-    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
-
-# --- Misc --- #
+# --------- Misc --------- #
 
 # Facebook App ID
 # fb_app_id: ""
@@ -150,14 +116,28 @@ title-separator: "-"
 # Ruby Date Format
 date_format: "%B %-d, %Y"
 
-# --- Don't need to touch anything below here (but you can if you want) --- #
+# --------- Don't need to touch anything below here --------- #
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+#permalink: /:year-:month-:day-:title/
+permalink: /:title/
+include: ["_pages"]
+
+# Exclude these files from production site
+exclude: [changelog.md, LICENSE, README.md, Gemfile, Gemfile.lock, Dockerfile, Vagrantfile]
+
+# prose.io config
+prose:
+  rooturl: '_posts'
+  media: 'img'
+  ignore: [404.html, LICENSE, feed.xml, _config.yml,/_layouts, /_includes, /css, /img, /js]
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
 
 kramdown:
   input: GFM
@@ -182,16 +162,7 @@ defaults:
 # Use tags index page and make tags on each post clickable
 link-tags: true
 
-# Exclude these files from production site
-#exclude: [CHANGELOG.md, CNAME, Dockerfile, Gemfile, Gemfile.lock, LICENSE, README.md, Vagrantfile]
-
-# prose.io config
-prose:
-  rooturl: '_posts'
-  media: 'img'
-  ignore: [404.html, LICENSE, feed.xml, _config.yml,/_layouts, /_includes, /css, /img, /js]
-
-  metadata:
+metadata:
     _posts:
       - name: "layout"
         field:
@@ -229,9 +200,61 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+
+
+
+# --------- Web Statistics Section --------- #
+
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+#gtag: ""
+
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
+
+# Google Tag Manager ID
+#gtm: ""
+
+# Matomo (aka Piwik) Web statistics
+# Uncomment the following section to enable Matomo. The opt-out parameter controls
+# whether or not you want to allow users to opt out of tracking.
+
+#matomo:
+#  site_id: "9"
+#  uri: "demo.wiki.pro"
+#  opt-out: true
+
+# --------- Comments --------- #
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+# disqus: ""
+
+# If you want to use JustComments fill with the API Key
+#just-comments: "ABCD-EFGH-IJKL"
+
+# To use Facebook Comments, fill in a Facebook App ID
+# fb_comment_id: ""
+
+# To use Staticman comments, fill in repository, branch, and endpoint
+staticman:
+  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+  reCaptcha:
+    # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
+    # If you use reCaptcha, you must also set these parameters in staticman.yml
+    siteKey  : # Use your own site key, you need to apply for one on Google
+    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
