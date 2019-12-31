@@ -430,6 +430,8 @@ footer .theme-by {
     float: left;
   }
 }
+
+
 /* --- Post and page headers --- */
 
 .intro-header {
@@ -470,15 +472,15 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 25px;
+  font-size: 20px;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 25px;
+  font-size: 20px;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 25px;
+  font-size: 20px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
