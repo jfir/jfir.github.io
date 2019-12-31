@@ -65,30 +65,29 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
+  telephone: +16309512030
   email: "jbahraoui@gmail.com"
-  #facebook: na
+  linkedin: jbahraoui
   github: jfir
   twitter: jbahraoui
+  youtube: user/jbahraoui
+#  facebook: na
+#  instagram: na
 #  reddit: yourname
-  linkedin: jbahraoui
 #  xing: yourname
 #  stackoverflow: "na"
 #  snapchat: na
-#  instagram: na
-#  youtube: user/jbahraoui
 #  spotify: yourname
-#  telephone: +16309512030
 #  steam: na
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: False
   linkedin: true
   github: true
-  linkedin: true
+  twitter: true
+  facebook: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -119,9 +118,8 @@ date_format: "%B %-d, %Y"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-#permalink: /:year-:month-:day-:title/
 permalink: /:title/
-include: ["_pages"]
+#permalink: /:year-:month-:day-:title/
 
 # Exclude these files from production site
 #exclude: [changelog.md, LICENSE, README.md, Gemfile, Gemfile.lock, Dockerfile, Vagrantfile]
@@ -134,7 +132,7 @@ prose:
 
 # Pagination
 paginate: 6
-paginate_path: /page:num/
+#paginate_path: /page:num/
 
 kramdown:
   input: GFM
@@ -208,9 +206,6 @@ jekyll-archives:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
 
 
 

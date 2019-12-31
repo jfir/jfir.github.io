@@ -6,10 +6,20 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
-facebook:
-  name: "Facebook"
-  baseURL: "https://www.facebook.com/"
-  icon: "fa-facebook"
+telephone:
+  name: "Phone"
+  baseURL: "tel:"
+  icon: "fa-phone"
+
+email:
+  name: "Email me"
+  baseURL: "mailto:"
+  icon: "fa-envelope"
+
+linkedin:
+  name: "LinkedIn"
+  baseURL: "https://linkedin.com/in/"
+  icon: "fa-linkedin"
 
 github:
   name: "GitHub"
@@ -21,20 +31,25 @@ twitter:
   baseURL: "https://twitter.com/"
   icon: "fa-twitter"
 
+youtube:
+  name: "YouTube"
+  baseURL: "https://www.youtube.com/"
+  icon: "fa-youtube"
+
+facebook:
+  name: "Facebook"
+  baseURL: "https://www.facebook.com/"
+  icon: "fa-facebook"
+
+instagram:
+  name: "Instagram"
+  baseURL: "https://www.instagram.com/"
+  icon: "fa-instagram"
+
 reddit:
   name: "Reddit"
   baseURL: "https://reddit.com/u/"
   icon: "fa-reddit"
-
-email:
-  name: "Email me"
-  baseURL: "mailto:"
-  icon: "fa-envelope"
-
-linkedin:
-  name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/"
-  icon: "fa-linkedin"
 
 xing:
   name: "Xing"
@@ -51,25 +66,10 @@ snapchat:
   baseURL: "https://www.snapchat.com/add/"
   icon: "fa-snapchat-ghost"
 
-instagram:
-  name: "Instagram"
-  baseURL: "https://www.instagram.com/"
-  icon: "fa-instagram"
-
-youtube:
-  name: "YouTube"
-  baseURL: "https://www.youtube.com/"
-  icon: "fa-youtube"
-
 spotify:
   name: "Spotify"
   baseURL: "https://open.spotify.com/user/"
   icon: "fa-spotify"
-
-telephone:
-  name: "Phone"
-  baseURL: "tel:"
-  icon: "fa-phone"
 
 rss:
   name: "RSS"
