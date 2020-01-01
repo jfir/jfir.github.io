@@ -12,15 +12,15 @@ use-site-title: true
 <article class="post-preview">
 
 <div class="posts-list">
+          <p class="post-meta">
+            Posted on {{ post.date | date: site.date_format }}
+          </p>
           <a href="{{ post.url | relative_url }}">
               <h3 class="post-title">{{ post.title }}</h3>
           </a>
           	  {% if post.subtitle %}
           	  <h4 class="post-subtitle">{{ post.subtitle }}</h4>
           	  {% endif %}
-          <p class="post-meta">
-            Posted on {{ post.date | date: site.date_format }}
-          </p>
 
     <div class="post-entry-container">
             {% if post.image %}

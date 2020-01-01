@@ -338,6 +338,7 @@ footer .theme-by {
 .post-preview .post-title {
   font-size: 18px;
   margin-top: 0;
+  margin-bottom: 10px;
 }
 .post-preview .post-subtitle {
   margin: 0;
@@ -347,9 +348,9 @@ footer .theme-by {
 .post-preview .post-meta,
 .post-heading .post-meta {
   color: #808080;
-  font-size: 15px;
+  font-size: 12px;
   font-style: italic;
-  margin: 0px 0px 30px 0px;
+  margin: 0px 0px 0px 0px;
 }
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -383,7 +384,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 36px;
+    font-size: 25px;
   }
 }
 
