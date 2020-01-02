@@ -56,7 +56,7 @@ footer-link-col: "#404040"
 # --------- Footer options --------- #
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: Jaouad
+author:
   name: Jaouad ElBahraoui
 
 # Select your active Social Network Links.
