@@ -4,6 +4,7 @@ title: Home # Name of website
 description: Jaouad ElBahraoui # Short description of your site
 url: "https://NestQuest.net" # url is the the website domain URL without a trailing slash
 #baseurl: ""  # baseurl should be an empty string
+future: true
 # --------------------------------------------------------------- #
 
 
