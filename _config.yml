@@ -1,7 +1,7 @@
 
 # --------- General Site options --------- #
 title: Home # Name of website
-description: A virtual proof that I'm awesome # Short description of your site
+description: Jaouad ElBahraoui # Short description of your site
 url: "https://NestQuest.net" # url is the the website domain URL without a trailing slash
 #baseurl: ""  # baseurl should be an empty string
 # --------------------------------------------------------------- #
@@ -56,7 +56,7 @@ footer-link-col: "#404040"
 # --------- Footer options --------- #
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author:
+author: Jaouad
   name: Jaouad ElBahraoui
 
 # Select your active Social Network Links.
@@ -64,7 +64,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
   telephone: +16309512030
   email: "jbahraoui@gmail.com"
   linkedin: jbahraoui
@@ -131,7 +131,7 @@ prose:
   #ignore: [404.html, LICENSE, feed.xml, _config.yml,/_layouts, /_includes, /css, /img, /js]
 
 # Pagination
-paginate: 6
+paginate: 5
 #paginate_path: /page:num/
 
 kramdown:
