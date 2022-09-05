@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Projects
+title: Jaouad ELBahraoui
+subtitle: Projects
 ---
 
 <div class="posts-list">

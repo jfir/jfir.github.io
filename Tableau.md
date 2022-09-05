@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Tableau
+title: Jaouad ELBahraoui
+subtitle: Tableau
 ---
 
 <div class="posts-list">

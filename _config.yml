@@ -11,13 +11,13 @@ future: true
 # --------- Navigation bar options --------- #
 # List of links in the navigation bar
 navbar-links:
-  Blog: "Blog"
-  Projects: "Projects"
-  Alteryx: "Alteryx"
-  Tableau: "Tableau"
-  QlikView: "QlikView"
-  DATASETS: "Datasets"
-  Resume: "Resume"
+    Resume: "Resume"
+    Projects: "Projects"
+    AWS: "AWS"
+    Alteryx: "Alteryx"
+    Tableau: "Tableau"
+    Python: "Python"
+    DATASETS: "Datasets"
 # --------------------------------------------------------------- #
 
 

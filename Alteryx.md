@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Alteryx
+title: Jaouad ELBahraoui
+subtitle: Alteryx
 ---
 
 <div class="posts-list">

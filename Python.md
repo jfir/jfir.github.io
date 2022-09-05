@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Blog
+title: Jaouad ELBahraoui
+subtitle: Python
 ---
 
 <div class="posts-list">
-  {% for post in site.categories.Blog %}
+  {% for post in site.categories.QlikView %}
                <article class="post-preview">
                <a href="{{ post.url | relative_url }}">
                  <h2 class="post-title">{{ post.title }}</h2>
@@ -69,4 +70,3 @@ title: Blog
       {% endif %}
 </ul>
 {% endif %}
-
