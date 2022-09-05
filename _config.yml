@@ -13,10 +13,9 @@ future: true
 navbar-links:
   Blog: "Blog"
   Projects: "Projects"
-  BI:
-    - Alteryx: "Alteryx"
-    - Tableau: "Tableau"
-    - QlikView: "QlikView"
+  Alteryx: "Alteryx"
+  Tableau: "Tableau"
+  QlikView: "QlikView"
   DATASETS: "Datasets"
   Resume: "Resume"
 # --------------------------------------------------------------- #
