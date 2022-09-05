@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jaouad ELBahraoui
-subtitle: AWS for Data Scientists - Easily prepare data, build, train, and deploy ML models
+subtitle: AWS for Data Scientists
 ---
 
 <div class="posts-list">
