@@ -12,7 +12,7 @@ future: true
 # List of links in the navigation bar
 navbar-links:
     Resume: "Resume"
-    Projects: "AI-ML"
+    AI/ML: "AI-ML"
     AWS: "AWS"
     Alteryx: "Alteryx"
     Tableau: "Tableau"
