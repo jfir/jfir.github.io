@@ -7,7 +7,6 @@ subtitle: Best Template ever!
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 image: /img/hello_world.jpeg
 tags: [alteryx, tableau, Python, Analytics]
-bigimg: [{src: "/img/triangle.jpg", desc: "Triangle"}, {src: "/img/sphere.jpg", desc: "Sphere"}, {src: "/img/hexagon.jpg", desc: "Hexagon"}]
 author: JEB
 featured: true
 hidden: false

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Jaouad ELBahraoui
-subtitle: Alteryx
+subtitle: Alteryx - Modern tool for the Data Preparation, Data Blending and Analysis
+bigimg: [{src: "/img/Alteryx.png", desc: "Triangle"}]
 ---
 
 <div class="posts-list">
