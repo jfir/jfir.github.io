@@ -1,5 +1,5 @@
 ---
-categories: Alteryx
+categories: AI-ML
 layout: post
 date: 2022-09-05
 title:  "My Template with Pictures"
