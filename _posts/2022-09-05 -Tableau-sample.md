@@ -1,16 +1,13 @@
 ---
-categories: BI
+categories: bi
 layout: post
 date: 2022-09-05
-title:  "My Template with Pictures"
+title:  My Template with Pictures
 subtitle: Best Template ever!
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 image: /img/hello_world.jpeg
 tags: [alteryx, tableau, Python, Analytics]
 author: JEB
-featured: true
-hidden: false
-rating: 4.5
 ---
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
