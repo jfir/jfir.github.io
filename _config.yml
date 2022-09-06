@@ -11,14 +11,14 @@ future: true
 # --------- Navigation bar options --------- #
 # List of links in the navigation bar
 navbar-links:
-    Projects: "Projects"
-    AI/ML: "AI-ML"
-    AWS: "AWS"
-    Alteryx: "Alteryx"
-    BI: "BI"
-    Python: "Python"
-    DATASETS: "Datasets"
-    About Me: "About Me"
+    Projects: "Portfolio"
+    # AI/ML: "AI-ML"
+    # AWS: "AWS"
+    # Alteryx: "Alteryx"
+    # BI: "BI"
+    # Python: "Python"
+    # DATASETS: "Datasets"
+    About Me: "About"
 # --------------------------------------------------------------- #
 
 
