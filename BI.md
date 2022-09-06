@@ -5,7 +5,7 @@ subtitle: Business Intelligence
 ---
 
 <div class="posts-list">
-  {% for post in site.categories.BI %}
+  {% for post in site.categories.bi %}
                <article class="post-preview">
                <a href="{{ post.url | relative_url }}">
                  <h2 class="post-title">{{ post.title }}</h2>
