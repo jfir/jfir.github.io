@@ -1,5 +1,5 @@
 ---
-categories: AWS
+category: AWS
 layout: post
 date: 2022-09-05
 title:  "My Template with Pictures"
