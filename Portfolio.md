@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Projects
+title: My favorite projects.
 ---
 
 <div class="posts-list">
-  {% for post in site.categories.Projects %}
+  {% for post in site.categories.Portfolio %}
                <article class="post-preview">
                <a href="{{ post.url | relative_url }}">
                  <h2 class="post-title">{{ post.title }}</h2>
