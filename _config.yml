@@ -11,7 +11,7 @@ future: true
 # --------- Navigation bar options --------- #
 # List of links in the navigation bar
 navbar-links:
-    Portfolio: "Portfolio"
+    Portfolio: "Portfolios"
     # AI/ML: "AI-ML"
     # AWS: "AWS"
     # Alteryx: "Alteryx"
