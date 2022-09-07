@@ -22,7 +22,7 @@ author: Jaouad ElBahraoui
 navbar-links:
   About Me: "aboutme"
   Portfolio: "Portfolio"
-  #Author's home: "https://NestQuest.net"
+  Author's home: "https://NestQuest.net"
 
 ################
 # --- Logo --- #
