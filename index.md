@@ -4,7 +4,7 @@ title: Jaouad EL Bahraoui
 subtitle: Aspiring Data Scientist/Data Analyst with a passion for data quality, Analytics, governance, and Business Intelligence.
 ---
 
-<! –– –––––––– Articles ––––––––  -->
+#<! –– –––––––– Articles ––––––––  -->
 <div class="posts-list">
   {% for post in site.posts %}
      {% if post.featured == true %}
@@ -38,7 +38,7 @@ subtitle: Aspiring Data Scientist/Data Analyst with a passion for data quality, 
                 </div>
           </div>
 
-<! –– –––––––– Tags ––––––––  -->
+#<! –– –––––––– Tags ––––––––  -->
 
      {% if post.tags.size > 0 %}
      <div class="blog-tags">
@@ -59,7 +59,7 @@ subtitle: Aspiring Data Scientist/Data Analyst with a passion for data quality, 
 </div>
 
 
-<!–– –––––––– Paginator Control ––––––––  -->
+#<!–– –––––––– Paginator Control ––––––––  -->
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
