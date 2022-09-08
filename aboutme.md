@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Jaouad EL Bahraoui Ph.D, MBA, MIS
+subtitle: Aspiring Data Scientist/Data Analyst with a passion for data quality, Analytics, governance, and Business Intelligence.
 tags: [personal, analysis, finance]
 #cover-img: "assets/img/DS.png"
 thumbnail-img: assets/img/Avatar.jpeg
@@ -9,7 +9,7 @@ show-avatar: true
 social-share: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jaouad EL Bahraoui. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
