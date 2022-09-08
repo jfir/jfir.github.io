@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio
+#title: Portfolio
 subtitle: My favorite projects
 tags: [personal, analysis, finance]
 cover-img: "assets/img/portfolio.jpg"
