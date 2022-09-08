@@ -8,7 +8,7 @@ thumbnail-img: assets/img/Avatar.jpeg
 show-avatar: true
 social-share: false
 ---
-[//]: # (<! –– –––––––– Articles ––––––––  -->)
+
 <div class="posts-list">
   {% for post in site.categories.Portfolio %}
                <article class="post-preview">
@@ -42,7 +42,7 @@ social-share: false
                  </div>
               </div>
 
-[//]: # (<! –– –––––––– Tags ––––––––  -->)
+
               {% if post.tags.size > 0 %}
               <div class="blog-tags">
                    Tags:
