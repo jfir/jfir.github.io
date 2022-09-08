@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Jaouad EL Bahraoui
+layout: Jaouad EL Bahraoui
+#title: Jaouad EL Bahraoui
 #subtitle: Aspiring Data Scientist/Data Analyst with a passion for data quality, Analytics, governance, and Business Intelligence.
 tags: [personal, analysis, finance]
 #cover-img: "assets/img/Avatar.jpeg"
