@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 tags: [personal, analysis, finance]
-cover-img: "assets/img/DS.png"
+#cover-img: "assets/img/DS.png"
 thumbnail-img: assets/img/Avatar.jpeg
 show-avatar: true
 social-share: false
