@@ -1,6 +1,12 @@
 ---
 layout: page
-title: My favorite projects.
+title: Portfolio
+subtitle: My favorite projects
+tags: [personal, analysis, finance]
+cover-img: "img/Avatar.jpeg"
+thumbnail-img: img/Avatar.jpeg
+show-avatar: true
+social-share: false
 ---
 
 <div class="posts-list">
