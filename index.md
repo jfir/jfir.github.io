@@ -3,13 +3,13 @@ layout: home
 title: Jaouad EL Bahraoui
 subtitle: Aspiring Data Scientist/Data Analyst with a passion for data quality, Analytics, governance, and Business Intelligence.
 tags: [personal, analysis, finance]
-#cover-img: "img/Avatar.jpeg"
-thumbnail-img: img/Avatar.jpeg
+#cover-img: "assets/img/Avatar.jpeg"
+thumbnail-img: assets/img/Avatar.jpeg
 show-avatar: true
 social-share: false
 ---
 
-#<! –– –––––––– Articles ––––––––  -->
+[//]: # (<! –– –––––––– Articles ––––––––  -->)
 <div class="posts-list">
   {% for post in site.posts %}
      {% if post.featured == true %}
@@ -43,7 +43,7 @@ social-share: false
                 </div>
           </div>
 
-#<! –– –––––––– Tags ––––––––  -->
+[//]: # (<! –– –––––––– Tags ––––––––  -->)
 
      {% if post.tags.size > 0 %}
      <div class="blog-tags">
@@ -64,7 +64,7 @@ social-share: false
 </div>
 
 
-#<!–– –––––––– Paginator Control ––––––––  -->
+[//]: # (<! –– –––––––– Paginator Control––––––––  -->)
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
   {% if paginator.previous_page %}

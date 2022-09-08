@@ -3,7 +3,7 @@ categories: [ blog, Portfolio]
 layout: post
 title: Flake it till you make it
 subtitle: Excerpt from Soulshaping by Jeff Brown
-image: img/Avatar.jpeg
+image: assets/img/Avatar.jpeg
 ---
 
 There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!

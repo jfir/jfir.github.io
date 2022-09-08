@@ -3,8 +3,8 @@ layout: page
 title: Portfolio
 subtitle: My favorite projects
 tags: [personal, analysis, finance]
-cover-img: "img/Avatar.jpeg"
-thumbnail-img: img/Avatar.jpeg
+cover-img: "assets/img/DS.png"
+thumbnail-img: assets/img/Avatar.jpeg
 show-avatar: true
 social-share: false
 ---
