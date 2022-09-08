@@ -507,13 +507,13 @@ footer .footer-custom-content {
   width: 100%;
 }
 .post-preview .post-image {
-  float: right;
-  margin-left: 0.625rem;
-  height: 12rem;
-  width: 12rem;
+  float: left;
+  margin-right: 3.125rem;
+  height: 8.75rem;
+  width: 8.75rem;
 }
 .post-preview .post-image {
-  filter: grayscale(40%);
+  filter: grayscale(30%);
 }
 .post-preview .post-image:hover {
   filter: grayscale(0%);
