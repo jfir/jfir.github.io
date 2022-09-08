@@ -2,7 +2,7 @@
 layout: page
 title: Portfolio
 subtitle: My favorite projects
-tags: [personal, portfolio, project, AWS, Alteryx, Tableau, Python]
+tags: [personal, portfolio, project, AI, Machine Learning, AWS, Alteryx, Tableau, Python]
 #cover-img: "assets/img/portfolio.jpg"
 thumbnail-img: assets/img/Avatar.jpeg
 show-avatar: true
