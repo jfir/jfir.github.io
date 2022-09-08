@@ -475,7 +475,7 @@ footer .footer-custom-content {
 }
 
 .post-preview .post-title {
-  font-size: 1.875rem;
+  font-size: 1.275rem;
   margin-top: 0;
 }
 .post-preview .post-subtitle {
@@ -519,6 +519,7 @@ footer .footer-custom-content {
   filter: grayscale(0%);
 }
 .post-preview .post-image img {
+  border-radius: 30px;
   max-height: 100%;
   max-width: 100%;
 }
