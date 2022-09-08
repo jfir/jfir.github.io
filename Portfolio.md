@@ -2,13 +2,13 @@
 layout: page
 title: Portfolio
 subtitle: My favorite projects
-tags: [personal, analysis, finance]
+tags: [personal, portfolio, project, AWS, Alteryx, Tableau, Python]
 #cover-img: "assets/img/portfolio.jpg"
 thumbnail-img: assets/img/Avatar.jpeg
 show-avatar: true
 social-share: false
 ---
-
+[//]: # (<! –– –––––––– Articles ––––––––  -->)
 <div class="posts-list">
   {% for post in site.categories.Portfolio %}
                <article class="post-preview">
@@ -42,6 +42,7 @@ social-share: false
                  </div>
               </div>
 
+[//]: # (<! –– –––––––– Tags ––––––––  -->)
               {% if post.tags.size > 0 %}
               <div class="blog-tags">
                    Tags:

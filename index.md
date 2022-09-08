@@ -2,11 +2,11 @@
 layout: home
 #title: Jaouad EL Bahraoui
 #subtitle: Aspiring Data Scientist/Data Analyst with a passion for data quality, Analytics, governance, and Business Intelligence.
-tags: [personal, analysis, finance]
+tags: [personal, portfolio, project, AWS, Alteryx, Tableau, Python]
 #cover-img: "assets/img/Avatar.jpeg"
 thumbnail-img: assets/img/Avatar.jpeg
 show-avatar: true
-social-share: false
+social-share: true
 ---
 
 [//]: # (<! –– –––––––– Articles ––––––––  -->)
