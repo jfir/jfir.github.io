@@ -2,6 +2,11 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+tags: [personal, analysis, finance]
+cover-img: "img/Avatar.jpeg"
+thumbnail-img: img/Avatar.jpeg
+show-avatar: true
+social-share: false
 ---
 
 My name is Inigo Montoya. I have the following qualities:
