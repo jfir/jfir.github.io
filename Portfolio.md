@@ -1,9 +1,9 @@
 ---
 layout: page
-#title: Portfolio
+title: Portfolio
 subtitle: My favorite projects
 tags: [personal, analysis, finance]
-cover-img: "assets/img/portfolio.jpg"
+#cover-img: "assets/img/portfolio.jpg"
 thumbnail-img: assets/img/Avatar.jpeg
 show-avatar: true
 social-share: false
