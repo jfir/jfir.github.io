@@ -32,7 +32,7 @@ I love to travel and explore different cultures.
 {: .box-error}
 **AWS:** In contrary to Traditional ML development, I am fun of how Amazon web services SageMaker, help bring models from concept to production with high accuracy and low costs.
 
-{: .box .alert-success}
+{: .box-success}
 **Dashboards:** Dashboards show the most recent results in an interactive way. By clicking and drilling, you will examine trends and patterns.
 
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> My Experience
