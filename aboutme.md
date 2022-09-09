@@ -35,7 +35,8 @@ I love to travel and explore different cultures.
 
 ### My Experience
 
-<!-- Start timeline Area -->
+### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> My Experience
+{: #puzzle}
 
 
-<!-- End timeline Area -->
+> **2013 - Present**: JPMorgan
