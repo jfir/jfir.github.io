@@ -11,7 +11,7 @@ social-share: false
 
 ### My story
 
-Hi, my name is Jaouad and I work as a data analyst/scientist. I hold a Ph.D. in Biotechnology (Modeling/Data Analytics), an MBA (Business Management, Roosevelt University, Chicago) and an MIS (Business Analytics, Roosevelt University, Chicago).
+Hi, my name is Jaouad (pronounced: Ja-wad) and I work as a data analyst/scientist. I hold a Ph.D. in Biotechnology (Modeling/Data Analytics), an MBA (Business Management, Roosevelt University, Chicago) and an MIS (Business Analytics, Roosevelt University, Chicago).
 
 I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use AWS, SQL, Python, Alteryx, QlikView and Tableau for my data projects.
 
