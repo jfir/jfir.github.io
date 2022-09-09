@@ -10,18 +10,19 @@ social-share: true
 ---
 
 <! –– –––––––– Articles ––––––––  -->
-<div class="posts-list">
+<div class="posts-list" >
   {% for post in site.posts %}
      {% if post.featured == true %}
       <article class="post-preview">
             <a href="{{ post.url | relative_url }}">
-        	  <h2 class="post-title">{{ post.title }}</h2>
+        	  <h3 class="post-title">{{ post.title }}</h3>
         	  {% if post.subtitle %}
-        	  <h3 class="post-subtitle">
+        	  <h4 class="post-subtitle">
         	    {{ post.subtitle }}
-        	  </h3>
+        	  </h4>
         	  {% endif %}
             </a>
+
             <p class="post-meta">
               Posted on {{ post.date | date: site.date_format }}
             </p>

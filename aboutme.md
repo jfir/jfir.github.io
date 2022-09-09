@@ -10,12 +10,9 @@ social-share: false
 ---
 
 ### My story
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 
+Hi, my name is Jaouad and I work as a data analyst/scientist. I hold a Ph.D. in Biotechnology (Modeling/Data Analytics), an MBA (Business Management, Roosevelt University, Chicago) and an MIS (Business Analytics, Roosevelt University, Chicago).
 
-My name is Jaouad EL Bahraoui. I have the following qualities:
+I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use AWS, SQL, Python, Alteryx, QlikView and Tableau for my data projects.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+As a data analyst and data scientist, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs.
