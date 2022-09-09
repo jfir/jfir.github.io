@@ -19,7 +19,7 @@ As a data analyst and data scientist, I am an insanely curious person who always
 
 I love to travel and explore different cultures.
 
-### My story
+### My Focus
 
 {: .box-note}
 **Data analysis:** I am specialized in analyzing data. Results, trends and recommendations are clearly presented in reports or tools.
