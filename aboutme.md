@@ -30,7 +30,7 @@ I love to travel and explore different cultures.
 **Data analysis:** I am specialized in analyzing data. Results, trends and recommendations are clearly presented in reports or tools.
 
 {: .box-error}
-**AWS:** In contrary to Traditional ML development, I am fun of how Amazon web services SageMaker, help bring models from concept to production with high accuracy and low costs.
+**AWS:** In contrary to Traditional ML development, I am fun of how Amazon web services Sage-Maker, help bring models from concept to production with high accuracy and low costs.
 
 {: .box-note}
 **Dashboards:** Dashboards show the most recent results in an interactive way. By clicking and drilling, you will examine trends and patterns.
