@@ -9,7 +9,7 @@ show-avatar: true
 social-share: false
 ---
 
-### <i class="fas fa-puzzle-piece" style="color:rgb(107,79,187); aria-hidden="true"></i> My story
+### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> My story
 {: #puzzle}
 
 Hi, my name is Jaouad (pronounced: Ja-wad) and I work as a data analyst/scientist. I hold a Ph.D. in Biotechnology (Modeling/Data Analytics), an MBA (Business Management, Roosevelt University, Chicago) and an MIS (Business Analytics, Roosevelt University, Chicago).
@@ -20,7 +20,7 @@ As a data analyst and data scientist, I am an insanely curious person who always
 
 I love to travel and explore different cultures.
 
-### <i class="fas fa-puzzle-piece" style="color:rgb(107,79,187); aria-hidden="true"></i> My Focus
+### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> My Focus
 {: #puzzle}
 
 {: .box-warning}
@@ -32,10 +32,10 @@ I love to travel and explore different cultures.
 {: .box-error}
 **AWS:** In contrary to Traditional ML development, I am fun of how Amazon web services SageMaker, help bring models from concept to production with high accuracy and low costs.
 
-{: .box-note}
+{: .alert .alert-success}
 **Dashboards:** Dashboards show the most recent results in an interactive way. By clicking and drilling, you will examine trends and patterns.
 
-### <i class="fas fa-puzzle-piece" style="color:rgb(107,79,187); aria-hidden="true"></i> My Experience
+### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> My Experience
 {: #puzzle}
 
 > **2013 - Present**: JPMorgan
