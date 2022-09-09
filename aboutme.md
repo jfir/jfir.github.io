@@ -17,17 +17,17 @@ I am experienced in machine learning, supervised and unsupervised algorithms and
 
 As a data analyst and data scientist, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs.
 
-Data analysis
-I am specialized in analyzing data. Results, trends and recommendations are clearly presented in reports or tools.
+{: .box-note}
+**Data analysis:** I am specialized in analyzing data. Results, trends and recommendations are clearly presented in reports or tools.
 
-Data analytics
-Get more value from your data with prediction models and machine learning techniques, for example by predicting behavior or targeting the right customer.
+{: .box-warning}
+**Data analytics:** Get more value from your data with prediction models and machine learning techniques, for example by predicting behavior or targeting the right customer.
 
-AWS
-Present your data in an inspiring way by using an infographic rather than a piece of text. I create interactive infographics which can be used internally or publicly.
+{: .box-error}
+**AWS:** Present your data in an inspiring way by using an infographic rather than a piece of text. I create interactive infographics which can be used internally or publicly.
 
-Dashboards
-Dashboards show the most recent results in an interactive way. By clicking and drilling, you will examine trends and patterns.
+{: .box-note}
+**Dashboards:** Dashboards show the most recent results in an interactive way. By clicking and drilling, you will examine trends and patterns.
 
 <!-- Start timeline Area -->
 <section class="timeline pt-80 pb-80">
