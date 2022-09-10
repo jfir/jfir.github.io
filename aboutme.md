@@ -38,12 +38,4 @@ I love to travel and explore different cultures.
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> My Experience
 {: #puzzle}
 
-{% include callout.html content="**2013 - Present**: JPMorgan" type="default" %}
 
-{% include callout.html content="**2013 - Present**: JPMorgan" type="primary" %}
-
-{% include callout.html content="**2013 - Present**: JPMorgan" type="success" %}
-
-{% include callout.html content="**2013 - Present**: JPMorgan" type="info" %}
-
-{% include callout.html content="**2013 - Present**: JPMorgan" type="warning" %}
