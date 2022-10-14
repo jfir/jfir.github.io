@@ -2,7 +2,7 @@
 categories: [ blog, Portfolio]
 layout: post
 title: My Certified Architect in 30 Days
-subtitle: My journey and learnings.
+subtitle: A Journey of Exploration.
 image: assets/img/aws.png
 ---
 
