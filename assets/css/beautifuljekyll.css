@@ -532,7 +532,7 @@ footer .footer-custom-content {
     width: 9rem;
   }
   .post-preview .post-image-short {
-    margin-top: 0;
+    margin-top: 1;
   }
 }
 .post-preview .post-image-small {
