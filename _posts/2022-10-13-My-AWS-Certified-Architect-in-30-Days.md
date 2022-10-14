@@ -3,7 +3,7 @@ layout: post
 categories: [ blog, Portfolio]
 title: My AWS Certified Architect (SAA-C03) with Zero Experience in 30 Days
 subtitle: A Journey of Exploration.
-image: assets/img/aws.png
+image: assets/img/AWS-SAA-CO3.jpeg
 thumbnail-img: assets/img/aws.png
 #cover-img: ["assets/img/AWS-SAA-CO3.jpeg" : "AWS Certified Solutions Architect - Associate (SAA-C03)"]
 tags: [AWS, Cloud, SAA-CO3, Certification]
