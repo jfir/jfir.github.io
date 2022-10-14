@@ -15,10 +15,9 @@ Study and learn all cloud concepts and AWS services: You only need to follow ONE
 
 {: .box-note}
 **120 minutes:** Early Morning, Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
-Coffee Break
-**60 minutes:** Take a Practice Exam.
+**Coffee Break**
+**60 minutes:** Early Afternoon Take a Practice Exam.
 **30 minutes:** Review answers and explanations.
-Lunch Break/Nape
 **30 minutes:** Read the notes covering those services.
 
 ### Next 10 Days
