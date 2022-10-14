@@ -44,7 +44,7 @@ To study and learn all cloud concepts and AWS services I only followed **ONE** c
 >* Book your exam and accommodation.
 
 ### Last 5 Days
-{: .box-warning}
+{: .box-error}
 >* **90 minutes:** Early Morning, take a Practice Exam.
 >* **30 minutes:** Review answers and explanations.
 >* **120 minutes:** Read 2 notes and corresponding FAQ.
