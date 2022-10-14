@@ -11,19 +11,19 @@ STUDY and learn all cloud concepts and AWS services: You only need to follow ONE
 
 ### First 15 Days
 
->**90 minutes:** Early Morning, take a Practice Exam.
->**30 minutes:** Review answers and explanations.
->**120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
->**30 minutes:** Read the notes covering those services.
->**90 minutes:** Take another full Practice Exam.
+>- **90 minutes:** Early Morning, take a Practice Exam.
+>- **30 minutes:** Review answers and explanations.
+>- **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
+>- **30 minutes:** Read the notes covering those services.
+>- **90 minutes:** Take another full Practice Exam.
 
 ### Next 10 Days
 
->**90 minutes:** Early Morning, take a Practice Exam.
->**30 minutes:** Review answers and explanations.
->**120 minutes:** Read 2 notes and corresponding FAQ.
->**30 minutes:** Read the notes covering those services.
->Book your exam and accommodation.
+>- **90 minutes:** Early Morning, take a Practice Exam.
+>- **30 minutes:** Review answers and explanations.
+>- **120 minutes:** Read 2 notes and corresponding FAQ.
+>- **30 minutes:** Read the notes covering those services.
+>- Book your exam and accommodation.
 
 ### Study Material
 
