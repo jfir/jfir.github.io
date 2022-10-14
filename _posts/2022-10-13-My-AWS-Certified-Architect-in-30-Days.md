@@ -26,10 +26,18 @@ STUDY and learn all cloud concepts and AWS services: You only need to follow ONE
 >- **30 minutes:** Read the notes covering those services.
 >- Book your exam and accommodation.
 
+### Last 5 Days
+
+>- **90 minutes:** Early Morning, take a Practice Exam.
+>- **30 minutes:** Review answers and explanations.
+>- **120 minutes:** Read 2 notes and corresponding FAQ.
+>- **30 minutes:** Read the notes covering those services.
+>- Book your exam and accommodation.
+
 ### Study Material
 
-Tutorials Dojo Practice Exams
-AWS Whitepapers
+>- Tutorials Dojo Practice Exams
+>- AWS Whitepapers
 
 Exam Tips For non-native English speakers:
 You can request an extra 30 minutes if you are non-native English speakers.
