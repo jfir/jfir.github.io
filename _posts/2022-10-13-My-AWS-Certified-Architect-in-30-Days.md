@@ -9,7 +9,6 @@ thumbnail-img: assets/img/aws.png
 tags: [AWS, Cloud, SAA-CO3, Certification]
 ---
 
-First 15 days:
 Study and learn all cloud concepts and AWS services: You only need to follow ONE course
 
 ### First 15 Days
