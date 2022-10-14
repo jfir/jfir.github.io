@@ -6,10 +6,10 @@ tags: [personal, portfolio, project, AI, Machine Learning, AWS, Alteryx, Tableau
 #cover-img: "assets/img/Avatar.jpeg"
 thumbnail-img: assets/img/Avatar.jpeg
 show-avatar: true
-social-share: true
+social-share: false
 ---
 
-<! –– –––––––– Articles ––––––––  -->
+<!--- –––––––– Articles ––––––––  --->
 <div class="posts-list" >
   {% for post in site.posts %}
      {% if post.featured == true %}
@@ -22,7 +22,6 @@ social-share: true
                      </h4>
                   {% endif %}
               </a>
-              
               <p class="post-meta">
                 Posted on {{ post.date | date: site.date_format }}
               </p>
@@ -42,9 +41,7 @@ social-share: true
                   {% endif %}
                 </div>
               </div>
-
-              <! –– –––––––– Tags ––––––––  -->
-
+<!--- –––––––– Tags ––––––––  --->
               {% if post.tags.size > 0 %}
                 <div class="blog-tags">
                   Tags:
@@ -62,9 +59,7 @@ social-share: true
       {% endif %}
   {% endfor %}
 </div>
-
-
-<! –– –––––––– Paginator Control––––––––  -->
+<!--- –––––––– Paginator Control ––––––––  --->
   {% if paginator.total_pages > 1 %}
     <ul class="pager main-pager">
       {% if paginator.previous_page %}
