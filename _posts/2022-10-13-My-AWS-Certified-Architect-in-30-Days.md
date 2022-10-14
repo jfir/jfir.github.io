@@ -16,12 +16,12 @@ To study and learn all cloud concepts and AWS services I only followed **ONE** c
 ### Study Material & Resources
 
 {: .box-warning}
->Here is the resources I used to prep for the AWS SAA-C03:
->* Stephane Mareek’s Ultimate AWS Certified Solutions Architect Associate Course
->* Jon Bonso Tutorial Dojo AWS Certified Solutions Architect Associate Practice Exams
->* keenanromain’s AWS-SAA-C02 Study Guide Github Repo
->* AWS FAQ
->* AWS Whitepapers
+Here is the resources I used to prep for the AWS SAA-C03:
+* Stephane Mareek’s Ultimate AWS Certified Solutions Architect Associate Course
+* Jon Bonso Tutorial Dojo AWS Certified Solutions Architect Associate Practice Exams
+* keenanromain’s AWS-SAA-C02 Study Guide Github Repo
+* AWS FAQ
+* AWS Whitepapers
 
 
 ### First 15 Days
