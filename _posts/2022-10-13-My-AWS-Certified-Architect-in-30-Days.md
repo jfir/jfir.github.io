@@ -4,7 +4,7 @@ categories: [ blog, Portfolio]
 title: My AWS Certified Architect (SAA-C03) with Zero Experience in 30 Days
 subtitle: A Journey of Exploration.
 image: assets/img/AWS-SAA-CO3.png
-thumbnail-img: assets/img/aws.png
+thumbnail-img: assets/img/AWS-SAA-CO3.png
 #cover-img: ["assets/img/AWS-SAA-CO3.jpeg" : "AWS Certified Solutions Architect - Associate (SAA-C03)"]
 tags: [AWS, Cloud, SAA-CO3, Certification]
 ---
@@ -14,11 +14,11 @@ Study and learn all cloud concepts and AWS services: You only need to follow ONE
 ### First 15 Days
 
 {: .box-note}
->**120 minutes:** Early Morning, Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
->**Coffee Break**
->**60 minutes:** Early Afternoon Take a Practice Exam.
->**30 minutes:** Review answers and explanations.
->**30 minutes:** Read the notes covering those services.
+* **120 minutes:** Early Morning, Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
+* **Coffee Break**
+* **60 minutes:** Early Afternoon Take a Practice Exam.
+* **30 minutes:** Review answers and explanations.
+* **30 minutes:** Read the notes covering those services.
 
 ### Next 10 Days
 
