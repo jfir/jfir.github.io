@@ -521,7 +521,7 @@ footer .footer-custom-content {
     width: 9rem;
   }
   .post-preview .post-image-short {
-    margin-top: 2;
+    margin-top: 0;
   }
 }
 @media (min-width: 768px) {
