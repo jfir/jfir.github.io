@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Welcome to my Website
 subtitle: A Journey of Exploration, Imagination, and a Place with ❤️ for Machine Learning & Data Visualization.
 tags: [personal, portfolio, project, AI, Machine Learning, AWS, Alteryx, Tableau, Python]
