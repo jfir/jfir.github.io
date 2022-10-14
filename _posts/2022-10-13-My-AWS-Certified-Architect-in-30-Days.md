@@ -15,7 +15,6 @@ Study and learn all cloud concepts and AWS services: You only need to follow ONE
 ### First 15 Days
 
 {: .box-note}
-
 >* **120 minutes:** Early Morning, Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
 >* **Break**
 >* **30 minutes:** Early Evening, Read the notes covering early morning sections.
