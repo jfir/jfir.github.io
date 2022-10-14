@@ -1,7 +1,7 @@
 ---
 categories: [ blog, Portfolio]
 layout: post
-title: My AWS Certified Architect (SAA-C03) With Zero Experience in 30 Days
+title: My AWS Certified Architect (SAA-C03) with Zero Experience in 30 Days
 subtitle: A Journey of Exploration.
 image: assets/img/aws.png
 ---
@@ -25,7 +25,7 @@ STUDY and learn all cloud concepts and AWS services: You only need to follow ONE
 >**30 minutes:** Read the notes covering those services.
 >Book your exam and accommodation.
 
-### Next 20 Days
+### Study Material
 
 Tutorials Dojo Practice Exams
 AWS Whitepapers
