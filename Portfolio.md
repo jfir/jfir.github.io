@@ -11,20 +11,18 @@ social-share: false
 
 <div class="posts-list">
   {% for post in site.categories.Portfolio %}
-               <article class="post-preview">
-               <a href="{{ post.url | relative_url }}">
-                 <h3 class="post-title">{{ post.title }}</h3>
-               {% if post.subtitle %}
-                       <h4 class="post-subtitle">
-                       {{ post.subtitle }}
-                      </h4>
-                 {% endif %}
-               </a>
-
-              <p class="post-meta">
+            <article class="post-preview">
+                  <a href="{{ post.url | relative_url }}">
+                  <h2 class="post-title">{{ post.title }}</h2>
+                        {% if post.subtitle %}
+                        <h4 class="post-subtitle">
+                        {{ post.subtitle }}
+                        </h4>
+                  {% endif %}
+                  </a>
+            <p class="post-meta">
                   Posted on {{ post.date | date: site.date_format }}
-              </p>
-
+            </p>
               <div class="post-entry-container">
                    {% if post.image %}
                          <div class="post-image">
@@ -41,8 +39,6 @@ social-share: false
                      {% endif %}
                  </div>
               </div>
-
-
               {% if post.tags.size > 0 %}
               <div class="blog-tags">
                    Tags:
@@ -62,13 +58,11 @@ social-share: false
 
 {% if paginator.total_pages > 1 %}
 <ul class="pager main-pager">
-
       {% if paginator.previous_page %}
             <li class="previous">
                  <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
             </li>
       {% endif %}
-
       {% if paginator.next_page %}
             <li class="next">
                  <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
