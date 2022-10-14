@@ -14,7 +14,6 @@ I passed the AWS Certified Solutions Architect — Associate exam and I would li
 To study and learn all cloud concepts and AWS services I only followed **ONE** course, **ONE** set of Practice Exams and to save time relied on **ONE** set of notes, I also stiked to a **strict regiment** for passing the exam in 30 days.
 
 ### Study Material & Resources
-
 {: .box-warning}
 >Here is the resources I used to prep for the AWS SAA-C03:
 * Stephane Mareek’s Ultimate AWS Certified Solutions Architect Associate Course
@@ -25,7 +24,6 @@ To study and learn all cloud concepts and AWS services I only followed **ONE** c
 
 
 ### First 15 Days
-
 {: .box-note}
 >* **Early Morning:** 
 >>* **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
@@ -35,7 +33,6 @@ To study and learn all cloud concepts and AWS services I only followed **ONE** c
 >>* **30 minutes:** Review answers and explanations.
 
 ### Next 10 Days
-
 {: .box-note}
 >* **90 minutes:** Early Morning, take a Practice Exam.
 >* **30 minutes:** Review answers and explanations.
