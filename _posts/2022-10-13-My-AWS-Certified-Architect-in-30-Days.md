@@ -36,6 +36,7 @@ Here is the resources I used to prep for the AWS SAA-C03:
 
 ### Next 10 Days
 
+{: .box-note}
 >* **90 minutes:** Early Morning, take a Practice Exam.
 >* **30 minutes:** Review answers and explanations.
 >* **120 minutes:** Read 2 notes and corresponding FAQ.
@@ -43,7 +44,7 @@ Here is the resources I used to prep for the AWS SAA-C03:
 >* Book your exam and accommodation.
 
 ### Last 5 Days
-
+{: .box-warning}
 >* **90 minutes:** Early Morning, take a Practice Exam.
 >* **30 minutes:** Review answers and explanations.
 >* **120 minutes:** Read 2 notes and corresponding FAQ.
@@ -57,8 +58,6 @@ Here is the resources I used to prep for the AWS SAA-C03:
 
 Exam Tips For non-native English speakers:
 You can request an extra 30 minutes if you are non-native English speakers.
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
 ### Conclusion
 
