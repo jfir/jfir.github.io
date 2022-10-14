@@ -9,24 +9,19 @@ thumbnail-img: assets/img/AWS-SAA-CO3.png
 tags: [AWS, Cloud, SAA-CO3, Certification]
 ---
 
-I passed the very tough and difficult AWS Certified Solutions Architect — Associate exam and I’d like to share the preparation steps I did to pass the exam on my first try.
-Study and learn all cloud concepts and AWS services: You only need to follow ONE course
+I passed the AWS Certified Solutions Architect — Associate exam and I would like to share my journey and the preparation steps I did to pass the exam on my first try.
 
-all I am trying to do is share how I passed my exam, what study methods worked for me, and how you can plan out a path to passing the exam in 30 days if you stick to a strict regiment.
-
-I also want to highlight that I took this course and passed with several years of AWS experience already under my belt. Now… that isn’t to say I had a huge leg-up on anyone starting out with no experience.
-
-Most of my experience was just around EC2, S3, and IAM, basic core services that probably only makeup 10–15% of the AWS SAA-C02 exam… but I still did have prior experience to take the certification and I won’t deny that it helped me grasp some topics and concepts perhaps quicker than someone with zero to no experience. That being said, let’s get started…
+To study and learn all cloud concepts and AWS services I only followed **ONE** course, **ONE** set of Practice Exams and to save time relied of **ONE** set of notes, I also stiked to a **strict regiment** to passing the exam in 30 days.
 
 ### Study Material & Resources
 
-The resources I used to prep for the AWS SAA-C03 include (but are not limited to) the following:
+Here is the resources I used to prep for the AWS SAA-C03:
 
-* Stephane Mareek’s Ultimate AWS Certified Solutions Architect Associate Course
-* Jon Bonso Tutorial Dojo AWS Certified Solutions Architect Associate Practice Exams
-* keenanromain’s AWS-SAA-C02 Study Guide Github Repo
-* AWS FAQ
-* AWS Whitepapers
+>* Stephane Mareek’s Ultimate AWS Certified Solutions Architect Associate Course
+>* Jon Bonso Tutorial Dojo AWS Certified Solutions Architect Associate Practice Exams
+>* keenanromain’s AWS-SAA-C02 Study Guide Github Repo
+>* AWS FAQ
+>* AWS Whitepapers
 
 
 ### First 15 Days
@@ -55,7 +50,7 @@ The resources I used to prep for the AWS SAA-C03 include (but are not limited to
 >* **30 minutes:** Read the notes covering those services.
 >* Book your exam and accommodation.
 
-### Study Material
+### Exam Day
 
 >* Tutorials Dojo Practice Exams
 >* AWS Whitepapers
