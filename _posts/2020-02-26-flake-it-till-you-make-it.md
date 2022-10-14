@@ -1,8 +1,8 @@
 ---
 categories: [ blog, Portfolio]
 layout: post
-title: My 30 Days AWS SAA Journey
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: My Certified Architect in 30 Days
+subtitle: My journey and learnings.
 image: assets/img/aws.png
 ---
 
