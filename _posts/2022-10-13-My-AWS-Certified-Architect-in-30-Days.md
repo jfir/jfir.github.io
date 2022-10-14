@@ -1,9 +1,12 @@
 ---
-categories: [ blog, Portfolio]
 layout: post
+categories: [ blog, Portfolio]
 title: My AWS Certified Architect (SAA-C03) with Zero Experience in 30 Days
 subtitle: A Journey of Exploration.
 image: assets/img/aws.png
+thumbnail-img: assets/img/aws.png
+#cover-img: ["assets/img/aws.png" : "Caption of image", "assets/img/aws.png" : "Caption of image"]
+tags: [AWS, Cloud, SAA-CO3, Certification]
 ---
 
 First 15 days:
