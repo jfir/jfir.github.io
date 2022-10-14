@@ -7,7 +7,7 @@ image: assets/img/aws.png
 ---
 
 First 15 days:
-STUDY and learn all cloud concepts and AWS services: You only need to follow ONE course
+Study and learn all cloud concepts and AWS services: You only need to follow ONE course
 
 ### First 15 Days
 
