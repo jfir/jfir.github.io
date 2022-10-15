@@ -16,42 +16,47 @@ To study and learn all cloud concepts and AWS services I only followed **ONE** c
 ### Study Material & Resources
 {: .box-warning}
 >Here is the resources I used to prep for the AWS SAA-C03:
-* Stephane Mareek’s Ultimate AWS Certified Solutions Architect Associate Course
-* Jon Bonso Tutorial Dojo AWS Certified Solutions Architect Associate Practice Exams
-* keenanromain’s AWS-SAA-C02 Study Guide Github Repo
-* AWS FAQ
-* AWS Whitepapers
+* [Stephane Mareek’s Ultimate AWS Certified Solutions Architect Associate Course](http://NestQuest.net)
+* [Jon Bonso Tutorial Dojo AWS Certified Solutions Architect Associate Practice Exams](http://NestQuest.net)
+* [keenanromain’s AWS-SAA-C02 Study Guide Github Repo](http://NestQuest.net)
+* [AWS FAQ](http://NestQuest.net)
+* [AWS Whitepapers](http://NestQuest.net)
 
 
 ### First 15 Days
 {: .box-note}
->* **Early Morning:** 
->>* **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
->* **Early Evening**
->>* **30 minutes:** Read the notes and FAQ covering early morning sections services.
->>* **120 minutes:** Take Bonso Practice Exam.
->>* **30 minutes:** Review answers and explanations.
+* **Early Morning:** 
+    * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
+* **Early Evening**
+    * **30 minutes:** Read the notes and FAQ covering early morning sections services.
+    * **120 minutes:** Take Bonso Practice Exam.
+    * **30 minutes:** Review answers and explanations.
 
 ### Next 10 Days
 {: .box-note}
->* **90 minutes:** Early Morning, take a Practice Exam.
->* **30 minutes:** Review answers and explanations.
->* **120 minutes:** Read 2 notes and corresponding FAQ.
->* **30 minutes:** Read the notes covering those services.
->* Book your exam and accommodation.
+* **Early Morning:** 
+    * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
+* **Early Evening**
+    * **30 minutes:** Read the notes and FAQ covering early morning sections services.
+    * **120 minutes:** Take Bonso Practice Exam.
+    * **30 minutes:** Review answers and explanations.
+
+Book your exam and accommodation.
 
 ### Last 5 Days
 {: .box-error}
->* **90 minutes:** Early Morning, take a Practice Exam.
->* **30 minutes:** Review answers and explanations.
->* **120 minutes:** Read 2 notes and corresponding FAQ.
->* **30 minutes:** Read the notes covering those services.
->* Book your exam and accommodation.
+* **Early Morning:** 
+    * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
+* **Early Evening**
+    * **30 minutes:** Read the notes and FAQ covering early morning sections services.
+    * **120 minutes:** Take Bonso Practice Exam.
+    * **30 minutes:** Review answers and explanations.
+    * Book your exam and accommodation.
 
 ### Exam Day
 
->* Tutorials Dojo Practice Exams
->* AWS Whitepapers
+* Tutorials Dojo Practice Exams
+* AWS Whitepapers
 
 Exam Tips For non-native English speakers:
 You can request an extra 30 minutes if you are non-native English speakers.
