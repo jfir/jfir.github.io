@@ -1,17 +1,23 @@
 ---
 layout: post
-categories: [ blog, Portfolio]
+categories: [ blog, Portfolio] # Catgories where the post should be published to
 title: My AWS Certified Architect (SAA-C03) with Zero Experience in 30 Days
 subtitle: A Journey of Exploration.
-image: assets/img/AWS-SAA-CO3.png
-thumbnail-img: assets/img/AWS-SAA-CO3.png
+image: assets/img/AWS-SAA-CO3.png # Image used in layout page example here portfolio
+thumbnail-img: assets/img/AWS-SAA-CO3.png # Image used in Fron page Blog
 #cover-img: ["assets/img/AWS-SAA-CO3.jpeg" : "AWS Certified Solutions Architect - Associate (SAA-C03)"]
 tags: [AWS, Cloud, SAA-CO3, Certification]
 ---
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
 <!--- -------Introduction-------- --->
 I passed the AWS Certified Solutions Architect — Associate exam and I would like to share my journey and the preparation steps I did to pass the exam on my first try.
 
-To study and learn all cloud concepts and AWS services I only followed **ONE** course, **ONE** set of Practice Exams and to save time relied on **ONE** set of notes, I also stiked to a **strict regiment** for passing the exam in 30 days.
+To study and learn all cloud concepts and AWS services I only followed **ONE** course, **ONE** set of Practice Exams and to save time relied on **ONE** set of notes, and I also stiked to a **strict regiment** for passing the exam in 30 days.
 <!--- -------Introduction-------- --->
 ### Study Material & Resources
 {: .box-warning}
@@ -27,9 +33,9 @@ Here is the resources I used to prep for the AWS SAA-C03:
 
 ### First 15 Days
 {: .box-note}
-* **Early Morning:** 
+* **<o>Early Morning:</o>** 
     * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
-* **Early Evening**
+* **<o>Early Evening</o>**
     * **30 minutes:** Read the notes and FAQ covering early morning sections services.
     * **120 minutes:** Take Bonso Practice Exam.
     * **30 minutes:** Review answers and explanations.
@@ -43,12 +49,12 @@ Here is the resources I used to prep for the AWS SAA-C03:
     * **120 minutes:** Take Bonso Practice Exam.
     * **30 minutes:** Review answers and explanations.
 
-Book your exam and accommodation.
+Booked my exam and accommodation, and requested an extra 30 minutes for non-native English speakers just in case more time is needed.
 
 ### Last 5 Days
 {: .box-error}
 * **Early Morning:** 
-    * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
+    * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (31 Section in Total/27 hours)
 * **Early Evening**
     * **30 minutes:** Read the notes and FAQ covering early morning sections services.
     * **120 minutes:** Take Bonso Practice Exam.
@@ -57,12 +63,9 @@ Book your exam and accommodation.
 
 ### Exam Day
 
-* Tutorials Dojo Practice Exams
-* AWS Whitepapers
+AS I am an early person, I did wakeup early and have a good breakfast, then show up 30 min early to my 8:30 schedule time. The test took me arround 90 min and I passed with a score of XXX
 
-Exam Tips For non-native English speakers:
-You can request an extra 30 minutes if you are non-native English speakers.
 <!--- -------Conclusion-------- --->
 ### Conclusion
 
-Finishing the certification is not the end of the story, in fact, this is just the beginning of my cloud journey. If you are interested, join me on this journey. I didn’t pass the exam with a high score, just barely passed. I still have a lot of things to learn about AWS. The exam motivated me to learn all these latest cloud technologies and the exam result keeps me learning. It is a lifelong learning process!
+Finishing the certification is not the end of my journey, but just the beginning of my goal to land a job with AWS so if you are a manager at AWS and interestd in my profile please contact me. I still have a lot of things to learn to adapt my skill to AWS, but this acomplishement really a good motivation to go for my  AWS Data . It is a lifelong learning process!
