@@ -70,4 +70,4 @@ AS I am an early person, I did wakeup early and have a good breakfast, then show
 
 Finishing the certification is not the end of my journey, but just the beginning of my goal to land a job with AWS so if you are a manager at AWS and interestd in my profile please contact me. I still have a lot of things to learn to adapt my skill to AWS, but this acomplishement is really a good motivation to go for my AWS Certified Machine Learning – Specialty(MLS-C01) Certificate. It is a lifelong learning process! 
 
-“Seek knowledge from the cradle to the grave” Mohamed. PBUH
+“Seek knowledge from the cradle to the grave” ![Alt](assets/img/pbuh.png) 
