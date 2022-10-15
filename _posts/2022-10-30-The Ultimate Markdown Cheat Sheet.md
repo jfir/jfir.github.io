@@ -1,8 +1,8 @@
 ---
 layout: post
-categories: [ blog, Portfolio]
-title: Sample blog post
-subtitle: A Journey of Exploration.
+categories: [ blog]
+title: The Ultimate Markdown for Data Scientist
+subtitle: Write awesome Data Science Articles.
 image: assets/img/python.jpg
 thumbnail-img: assets/img/aws.png
 #cover-img: ["assets/img/aws.png" : "Caption of image", "assets/img/aws.png" : "Caption of image"]
