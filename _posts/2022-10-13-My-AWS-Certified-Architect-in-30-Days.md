@@ -30,7 +30,6 @@ Here is the resources I used to prep for the AWS SAA-C03:
 * [AWS FAQ](http://NestQuest.net)
 * [AWS Whitepapers](http://NestQuest.net)
 
-
 ### First 15 Days
 {: .box-note}
 
@@ -51,7 +50,7 @@ Here is the resources I used to prep for the AWS SAA-C03:
   * **120 minutes:** Take Bonso Practice Exam.
   * **30 minutes:** Review answers and explanations.
 
-Booked my exam and accommodation, and requested an extra 30 minutes for non-native English speakers just in case more time is needed.
+Two days before my 10 days are over I booked my exam, and requested an extra 30 minutes for non-native English speakers just in case more time is needed.
 
 ### Last 5 Days
 {: .box-error}
@@ -66,11 +65,11 @@ Booked my exam and accommodation, and requested an extra 30 minutes for non-nati
 
 ### Exam Day
 
-AS I am an early person, I did wakeup early and have a good breakfast, then show up 30 min early to my 8:30 schedule time. The test took me arround 90 min and I passed with a score of XXX
+AS I am an early person, I did wakeup early and have a good breakfast and start going trough some FAQ, then show up 30 min early to my 8:30 schedule time. The test took me arround 90 min and I passed with a score of XXX
 
 <!--- -------Conclusion-------- --->
 ### Conclusion
 
-Finishing the certification is not the end of my journey, but just the beginning of my goal to land a job with AWS so if you are a manager at AWS and interestd in my profile please contact me. I still have a lot of things to learn to adapt my skill to AWS, but this acomplishement is really a good motivation to go for my AWS Certified Machine Learning – Specialty(MLS-C01) Certificate. It is a lifelong learning process! 
+Finishing the certification is not the end of my journey, but just the beginning of my goal to land a job with AWS so if you are a manager at AWS and interestd in my profile please contact me. I still have a lot of things to learn to adapt my skill to AWS, but this acomplishement is really a good motivation to go for my AWS Certified Machine Learning – Specialty(MLS-C01) Certificate. It is a lifelong learning process!
 
 “Seek knowledge from the cradle to the grave” Mohamed. PBUH

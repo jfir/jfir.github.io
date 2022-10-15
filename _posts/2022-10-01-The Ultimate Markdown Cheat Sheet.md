@@ -1,14 +1,70 @@
 ---
 layout: post
 categories: [ blog]
-title: The Ultimate Markdown for Data Scientist
-subtitle: Write awesome Data Science Articles.
-image: assets/img/python.jpg
-thumbnail-img: assets/img/aws.png
+title: The Ultimate Markdown Towards Data Scientist
+subtitle: Markdown Advanced Tips to Become a Better Data Scientist.
+image: assets/img/md.png
+thumbnail-img: assets/img/md.png
 #cover-img: ["assets/img/aws.png" : "Caption of image", "assets/img/aws.png" : "Caption of image"]
-tags: [project, AI, Machine Learning, AWS, Alteryx, Tableau, Python]
+tags: [Markdown, Python]
 ---
+
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+
+## What is Markdown?
+
+## Markdown basics
+
+## Text formatting with Markdown
+
+Text formatting 
+------------------------------------------------------------
+
+*italic*  or _italic_
+**bold**   __bold__
+`code`
+superscript^2^ and subscript~2~
+
+Headings
+------------------------------------------------------------
+
+# 1st Level Header
+
+## 2nd Level Header
+
+### 3rd Level Header
+
+Lists
+------------------------------------------------------------
+
+*   Bulleted list item 1
+
+*   Item 2
+
+    * Item 2a
+
+    * Item 2b
+
+1.  Numbered list item 1
+
+1.  Item 2. The numbers are incremented automatically in the output.
+
+Links and images
+------------------------------------------------------------
+
+<http://example.com>
+
+[linked phrase](http://example.com)
+
+![optional caption text](path/to/img.png)
+
+Tables 
+------------------------------------------------------------
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
 
 **Here is some bold text**
 
