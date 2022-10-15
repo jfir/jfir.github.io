@@ -31,6 +31,18 @@ superscript^2^ and subscript~2~
 
 Headings
 ------------------------------------------------------------
+##### Code
+
+```
+
+# 1st Level Header
+
+## 2nd Level Header
+
+### 3rd Level Header
+```
+
+##### Result
 
 # 1st Level Header
 
@@ -38,8 +50,10 @@ Headings
 
 ### 3rd Level Header
 
+
 Lists
 ------------------------------------------------------------
+#####Code
 ```
 *   Bulleted list item 1
 *   Item 2
