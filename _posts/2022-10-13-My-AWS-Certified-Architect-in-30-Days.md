@@ -2,7 +2,7 @@
 layout: post
 categories: [ blog, Portfolio] # Catgories where the post should be published to
 title: My AWS Certified Architect (SAA-C03) with Zero Experience in 30 Days
-subtitle: A Journey of Exploration.
+subtitle: :fire: A Journey of Exploration. :fire:
 image: assets/img/AWS-SAA-CO3.png # Image used in layout page example here portfolio
 thumbnail-img: assets/img/AWS-SAA-CO3.png # Image used in Fron page Blog
 #cover-img: ["assets/img/AWS-SAA-CO3.jpeg" : "AWS Certified Solutions Architect - Associate (SAA-C03)"]
