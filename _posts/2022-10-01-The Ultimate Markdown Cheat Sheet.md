@@ -32,7 +32,7 @@ superscript^2^ and subscript~2~
 Headings
 ------------------------------------------------------------
 
-##### Code
+###### Code
 
 ```
 
@@ -43,7 +43,7 @@ Headings
 ### 3rd Level Header
 ```
 
-##### Result
+###### Result
 
 # 1st Level Header
 
@@ -55,7 +55,8 @@ Headings
 Lists
 ------------------------------------------------------------
 
-##### Code
+
+###### Code
 
 ```
 *   Bulleted list item 1
@@ -63,6 +64,7 @@ Lists
   * Item 2a
   * Item 2b
 ```
+
 
 ##### Result
 
@@ -72,12 +74,26 @@ Lists
   * Item 2b
 
 
+###### Code
+
+```
+1.  Numbered list item 1
+
+1.  Item 2. The numbers are incremented automatically in the output.
+```
+
+###### Result
+
 1.  Numbered list item 1
 
 1.  Item 2. The numbers are incremented automatically in the output.
 
-Links and images
+
+Links
 ------------------------------------------------------------
+
+###### Code
+
 
 <http://example.com>
 
@@ -85,17 +101,16 @@ Links and images
 
 ![optional caption text](path/to/img.png)
 
+
 Tables 
 ------------------------------------------------------------
+
+###### Code
 
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
-
-**Here is some bold text**
-
-## Here is a secondary heading
 
 Here's a useless table:
 
@@ -106,16 +121,25 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
+Images
+------------------------------------------------------------
 
 How about a yummy crepe?
+
+###### Code
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 It can also be centered!
 
+###### Code
+
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
+
 Here's a code chunk:
+
+###### Code
 
 ~~~
 var foo = function(x) {
@@ -126,6 +150,8 @@ foo(3)
 
 And here is the same code with syntax highlighting:
 
+###### Code
+
 ```javascript
 var foo = function(x) {
   return(x + 5);
@@ -134,6 +160,8 @@ foo(3)
 ```
 
 And here is the same code yet again but with line numbers:
+
+###### Code
 
 {% highlight javascript linenos %}
 var foo = function(x) {
@@ -147,6 +175,8 @@ You can add notification, warning and error boxes like this:
 
 #### Notification
 
+###### Code
+
 ~~~
 {: .box-note}
 **Note:** This is a notification box.
@@ -157,6 +187,8 @@ You can add notification, warning and error boxes like this:
 
 #### Warning
 
+###### Code
+
 ~~~
 {: .box-warning}
 **Warning:** This is a warning box.
@@ -166,6 +198,8 @@ You can add notification, warning and error boxes like this:
 **Warning:** This is a warning box.
 
 #### Error
+
+###### Code
 
 ~~~
 {: .box-error}
