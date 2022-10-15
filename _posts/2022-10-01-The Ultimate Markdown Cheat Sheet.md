@@ -2,7 +2,7 @@
 layout: post
 categories: [ blog]
 title: The Ultimate Markdown Towards Data Scientist
-subtitle: Markdown Advanced Tips to Become a Better Data Scientist.
+subtitle: Markdown Tips to Become a Better Data Scientist.
 image: assets/img/md.png
 thumbnail-img: assets/img/md.png
 #cover-img: ["assets/img/aws.png" : "Caption of image", "assets/img/aws.png" : "Caption of image"]
@@ -40,14 +40,18 @@ Headings
 
 Lists
 ------------------------------------------------------------
+```
+*   Bulleted list item 1
+*   Item 2
+  * Item 2a
+  * Item 2b
+```
 
 *   Bulleted list item 1
-
 *   Item 2
+  * Item 2a
+  * Item 2b
 
-    * Item 2a
-
-    * Item 2b
 
 1.  Numbered list item 1
 
