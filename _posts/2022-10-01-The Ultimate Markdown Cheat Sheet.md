@@ -8,14 +8,18 @@ thumbnail-img: assets/img/md.png
 #cover-img: ["assets/img/aws.png" : "Caption of image", "assets/img/aws.png" : "Caption of image"]
 tags: [Markdown, Python]
 ---
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+<!--- -------Introduction-------- --->
+This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-## What is Markdown?
-
-## Markdown basics
-
-## Text formatting with Markdown
+>
+>What is Markdown?
+> Markdown basics
+>Text formatting with Markdown
 
 Text formatting 
 ------------------------------------------------------------
@@ -120,10 +124,10 @@ You can add notification, warning and error boxes like this:
 
 ### Notification
 
-'''
+~~~
 {: .box-note}
 **Note:** This is a notification box.
-'''
+~~~
 
 ### Result
 
