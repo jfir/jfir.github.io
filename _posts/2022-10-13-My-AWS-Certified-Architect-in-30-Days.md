@@ -8,14 +8,16 @@ thumbnail-img: assets/img/AWS-SAA-CO3.png
 #cover-img: ["assets/img/AWS-SAA-CO3.jpeg" : "AWS Certified Solutions Architect - Associate (SAA-C03)"]
 tags: [AWS, Cloud, SAA-CO3, Certification]
 ---
-
+<!--- -------Introduction-------- --->
 I passed the AWS Certified Solutions Architect — Associate exam and I would like to share my journey and the preparation steps I did to pass the exam on my first try.
 
 To study and learn all cloud concepts and AWS services I only followed **ONE** course, **ONE** set of Practice Exams and to save time relied on **ONE** set of notes, I also stiked to a **strict regiment** for passing the exam in 30 days.
-
+<!--- -------Introduction-------- --->
 ### Study Material & Resources
 {: .box-warning}
->Here is the resources I used to prep for the AWS SAA-C03:
+
+Here is the resources I used to prep for the AWS SAA-C03:
+
 * [Stephane Mareek’s Ultimate AWS Certified Solutions Architect Associate Course](http://NestQuest.net)
 * [Jon Bonso Tutorial Dojo AWS Certified Solutions Architect Associate Practice Exams](http://NestQuest.net)
 * [keenanromain’s AWS-SAA-C02 Study Guide Github Repo](http://NestQuest.net)
@@ -60,7 +62,7 @@ Book your exam and accommodation.
 
 Exam Tips For non-native English speakers:
 You can request an extra 30 minutes if you are non-native English speakers.
-
+<!--- -------Conclusion-------- --->
 ### Conclusion
 
 Finishing the certification is not the end of the story, in fact, this is just the beginning of my cloud journey. If you are interested, join me on this journey. I didn’t pass the exam with a high score, just barely passed. I still have a lot of things to learn about AWS. The exam motivated me to learn all these latest cloud technologies and the exam result keeps me learning. It is a lifelong learning process!
