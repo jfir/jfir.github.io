@@ -31,6 +31,7 @@ superscript^2^ and subscript~2~
 
 Headings
 ------------------------------------------------------------
+
 ##### Code
 
 ```
@@ -53,13 +54,17 @@ Headings
 
 Lists
 ------------------------------------------------------------
-#####Code
+
+##### Code
+
 ```
 *   Bulleted list item 1
 *   Item 2
   * Item 2a
   * Item 2b
 ```
+
+##### Result
 
 *   Bulleted list item 1
 *   Item 2
