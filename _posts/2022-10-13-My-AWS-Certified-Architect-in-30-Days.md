@@ -8,6 +8,7 @@ thumbnail-img: assets/img/AWS-SAA-CO3.png # Image used in Fron page Blog
 #cover-img: ["assets/img/AWS-SAA-CO3.jpeg" : "AWS Certified Solutions Architect - Associate (SAA-C03)"]
 tags: [AWS, Cloud, SAA-CO3, Certification]
 ---
+
 <style>
 r { color: Red }
 o { color: Orange }
@@ -15,9 +16,11 @@ g { color: Green }
 </style>
 
 <!--- -------Introduction-------- --->
+
 I passed the AWS Certified Solutions Architect — Associate exam and I would like to share my journey and the preparation steps I did to pass the exam on my first try.
 
 To study and learn all cloud concepts and AWS services I only followed **ONE** course, **ONE** set of Practice Exams and to save time relied on **ONE** set of notes, and I also stiked to a **strict regiment** for passing the exam in 30 days.
+
 <!--- -------Introduction-------- --->
 ### Study Material & Resources
 {: .box-warning}
@@ -33,33 +36,36 @@ Here is the resources I used to prep for the AWS SAA-C03:
 
 ### First 15 Days
 {: .box-note}
+
 * **<o>Early Morning:</o>** 
-    * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
+  * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
 * **<o>Early Evening</o>**
-    * **30 minutes:** Read the notes and FAQ covering early morning sections services.
-    * **120 minutes:** Take Bonso Practice Exam.
-    * **30 minutes:** Review answers and explanations.
+  * **30 minutes:** Read the notes and FAQ covering early morning sections services.
+  * **120 minutes:** Take Bonso Practice Exam.
+  * **30 minutes:** Review answers and explanations.
 
 ### Next 10 Days
 {: .box-note}
+
 * **<o>Early Morning:</o>** 
-    * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
+  * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
 * **<o>Early Evening</o>**
-    * **30 minutes:** Read the notes and FAQ covering early morning sections services.
-    * **120 minutes:** Take Bonso Practice Exam.
-    * **30 minutes:** Review answers and explanations.
+  * **30 minutes:** Read the notes and FAQ covering early morning sections services.
+  * **120 minutes:** Take Bonso Practice Exam.
+  * **30 minutes:** Review answers and explanations.
 
 Booked my exam and accommodation, and requested an extra 30 minutes for non-native English speakers just in case more time is needed.
 
 ### Last 5 Days
 {: .box-error}
+
 * **<o>Early Morning:</o>** 
-    * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (31 Section in Total/27 hours)
+  * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (31 Section in Total/27 hours)
 * **<o>Early Evening</o>**
-    * **30 minutes:** Read the notes and FAQ covering early morning sections services.
-    * **120 minutes:** Take Bonso Practice Exam.
-    * **30 minutes:** Review answers and explanations.
-    * Book your exam and accommodation.
+  * **30 minutes:** Read the notes and FAQ covering early morning sections services.
+  * **120 minutes:** Take Bonso Practice Exam.
+  * **30 minutes:** Review answers and explanations.
+  * Book your exam and accommodation.
 
 ### Exam Day
 
