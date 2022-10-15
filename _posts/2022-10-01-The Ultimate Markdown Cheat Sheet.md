@@ -119,27 +119,38 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-## Boxes
+### Boxes
 You can add notification, warning and error boxes like this:
 
-### Notification
+#### Notification
 
+>
 ~~~
 {: .box-note}
 **Note:** This is a notification box.
 ~~~
 
-### Result
-
 {: .box-note}
 **Note:** This is a notification box.
 
-### Warning
+#### Warning
+
+>
+~~~
+{: .box-warning}
+**Warning:** This is a warning box.
+~~~
 
 {: .box-warning}
 **Warning:** This is a warning box.
 
-### Error
+#### Error
+
+>
+~~~
+{: .box-error}
+**Error:** This is an error box.
+~~~
 
 {: .box-error}
 **Error:** This is an error box.
