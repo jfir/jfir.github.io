@@ -42,9 +42,9 @@ Here is the resources I used to prep for the AWS SAA-C03:
 
 ### Next 10 Days
 {: .box-note}
-* **Early Morning:** 
+* **<o>Early Morning:</o>** 
     * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (30 Section in Total/27 hours)
-* **Early Evening**
+* **<o>Early Evening</o>**
     * **30 minutes:** Read the notes and FAQ covering early morning sections services.
     * **120 minutes:** Take Bonso Practice Exam.
     * **30 minutes:** Review answers and explanations.
@@ -53,9 +53,9 @@ Booked my exam and accommodation, and requested an extra 30 minutes for non-nati
 
 ### Last 5 Days
 {: .box-error}
-* **Early Morning:** 
+* **<o>Early Morning:</o>** 
     * **120 minutes:** Cover 1 to 2 sections of Stephane Mareek’s courses. (31 Section in Total/27 hours)
-* **Early Evening**
+* **<o>Early Evening</o>**
     * **30 minutes:** Read the notes and FAQ covering early morning sections services.
     * **120 minutes:** Take Bonso Practice Exam.
     * **30 minutes:** Review answers and explanations.
@@ -70,4 +70,4 @@ AS I am an early person, I did wakeup early and have a good breakfast, then show
 
 Finishing the certification is not the end of my journey, but just the beginning of my goal to land a job with AWS so if you are a manager at AWS and interestd in my profile please contact me. I still have a lot of things to learn to adapt my skill to AWS, but this acomplishement is really a good motivation to go for my AWS Certified Machine Learning – Specialty(MLS-C01) Certificate. It is a lifelong learning process! 
 
-“Seek knowledge from the cradle to the grave” ![Alt](assets/img/pbuh.png) 
+“Seek knowledge from the cradle to the grave” [![Mohammad PBUH](assets/img/pbuh.png)] (http://NestQuest.net/ "PBUH")
