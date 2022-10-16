@@ -15,9 +15,9 @@ g { color: Green }
 b { color: Blue }
 </style>
 <!--- -------Introduction-------- --->
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold
+Markdown is a way of writing rich-text content for the web using Plaintext formatting syntax. Plaintext is just the regular alphabet, with a few familiar symbols, like asterisks ( * ) and backticks ( ` ). Formatting text in Markdown has a very gentle learning curve. It doesn’t do anything fancy like change the font size, color, or type. All you have control over is the display of the text—stuff like making things bold, creating headers, and organizing lists. In this post, you’ll learn all the Markdown’s major commands that will help you create an awesome GitHub README or web page.
 
-Text formatting 
+Bold and Italics
 ------------------------------------------------------------
 
 ###### <b>Code</b>
@@ -45,22 +45,23 @@ Headings
 ###### <b>Code</b>
 
 ```
-
-# 1st Level Header
-
-## 2nd Level Header
-
-### 3rd Level Header
+#Heading 1
+##Heading 2
+###Heading 3
+####Heading 4
+#####Heading 5
+######Heading 6
 ```
 
 
 ###### <b>Result</b>
 
-# 1st Level Header
-
-## 2nd Level Header
-
-### 3rd Level Header
+#Heading 1
+##Heading 2
+###Heading 3
+####Heading 4
+#####Heading 5
+######Heading 6
 
 
 Lists
@@ -147,6 +148,8 @@ It can also be centered!
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
+
+There are two ways to format code in Markdown. You can either use inline code, by putting backticks (`) around parts of a line, or you can use a code block, which some renderers will apply syntax highlighting to.
 
 Here's a <b>Code</b> chunk:
 
