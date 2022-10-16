@@ -12,27 +12,37 @@ tags: [Markdown, Python]
 r { color: Red }
 o { color: Orange }
 g { color: Green }
+b { color: Blue }
 </style>
 <!--- -------Introduction-------- --->
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold
 
->
->What is Markdown?
-> Markdown basics
->Text formatting with Markdown
-
 Text formatting 
 ------------------------------------------------------------
+
+###### <b>Code</b>
+
+```
+*italic*  or _italic_
+**bold**   __bold__
+`code`
+superscript^2^ and subscript~2~
+```
+
+###### <b>Result</b>
 
 *italic*  or _italic_
 **bold**   __bold__
 `code`
 superscript^2^ and subscript~2~
 
+
+
 Headings
 ------------------------------------------------------------
 
-###### Code
+
+###### <b>Code</b>
 
 ```
 
@@ -43,7 +53,8 @@ Headings
 ### 3rd Level Header
 ```
 
-###### Result
+
+###### <b>Result</b>
 
 # 1st Level Header
 
@@ -56,7 +67,7 @@ Lists
 ------------------------------------------------------------
 
 
-###### Code
+###### <b>Code</b>
 
 ```
 *   Bulleted list item 1
@@ -66,7 +77,7 @@ Lists
 ```
 
 
-##### Result
+##### <b>Result</b>
 
 *   Bulleted list item 1
 *   Item 2
@@ -74,7 +85,7 @@ Lists
   * Item 2b
 
 
-###### Code
+###### <b>Code</b>
 
 ```
 1.  Numbered list item 1
@@ -82,7 +93,7 @@ Lists
 1.  Item 2. The numbers are incremented automatically in the output.
 ```
 
-###### Result
+###### <b>Result</b>
 
 1.  Numbered list item 1
 
@@ -92,7 +103,7 @@ Lists
 Links
 ------------------------------------------------------------
 
-###### Code
+###### <b>Code</b>
 
 
 <http://example.com>
@@ -105,7 +116,7 @@ Links
 Tables 
 ------------------------------------------------------------
 
-###### Code
+###### <b>Code</b>
 
 First Header  | Second Header
 ------------- | -------------
@@ -126,20 +137,20 @@ Images
 
 How about a yummy crepe?
 
-###### Code
+###### <b>Code</b>
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
 It can also be centered!
 
-###### Code
+###### <b>Code</b>
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
 
-Here's a code chunk:
+Here's a <b>Code</b> chunk:
 
-###### Code
+###### <b>Code</b>
 
 ~~~
 var foo = function(x) {
@@ -148,9 +159,9 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-And here is the same code with syntax highlighting:
+And here is the same <b>Code</b> with syntax highlighting:
 
-###### Code
+###### <b>Code</b>
 
 ```javascript
 var foo = function(x) {
@@ -159,9 +170,9 @@ var foo = function(x) {
 foo(3)
 ```
 
-And here is the same code yet again but with line numbers:
+And here is the same <b>Code</b> yet again but with line numbers:
 
-###### Code
+###### <b>Code</b>
 
 {% highlight javascript linenos %}
 var foo = function(x) {
@@ -175,7 +186,7 @@ You can add notification, warning and error boxes like this:
 
 #### Notification
 
-###### Code
+###### <b>Code</b>
 
 ~~~
 {: .box-note}
@@ -187,7 +198,7 @@ You can add notification, warning and error boxes like this:
 
 #### Warning
 
-###### Code
+###### <b>Code</b>
 
 ~~~
 {: .box-warning}
@@ -199,7 +210,7 @@ You can add notification, warning and error boxes like this:
 
 #### Error
 
-###### Code
+###### <b>Code</b>
 
 ~~~
 {: .box-error}
