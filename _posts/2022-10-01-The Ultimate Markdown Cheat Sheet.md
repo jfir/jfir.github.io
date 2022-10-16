@@ -107,11 +107,11 @@ Links
 ###### <b>Code</b>
 
 
-<http://example.com>
+<http://NestQuest.net>
 
-[linked phrase](http://example.com)
+[linked phrase](http://NestQuest.net)
 
-![optional caption text](path/to/img.png)
+![optional caption text](assets/img/md.png)
 
 
 Tables 
@@ -140,13 +140,13 @@ How about a yummy crepe?
 
 ###### <b>Code</b>
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Crepe](assets/img/md.png)
 
 It can also be centered!
 
 ###### <b>Code</b>
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+![Crepe](assets/img/md.png){: .mx-auto.d-block :}
 
 
 There are two ways to format code in Markdown. You can either use inline code, by putting backticks (`) around parts of a line, or you can use a code block, which some renderers will apply syntax highlighting to.
