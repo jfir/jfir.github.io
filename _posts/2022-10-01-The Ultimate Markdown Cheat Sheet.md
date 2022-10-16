@@ -140,13 +140,13 @@ How about a yummy crepe?
 
 ###### <b>Code</b>
 
-![Crepe](assets/img/md.png)
+![Crepe](assets/img/DS.png)
 
 It can also be centered!
 
 ###### <b>Code</b>
 
-![Crepe](assets/img/md.png){: .mx-auto.d-block :}
+![Crepe](assets/img/DS.png){: .mx-auto.d-block :}
 
 
 There are two ways to format code in Markdown. You can either use inline code, by putting backticks (`) around parts of a line, or you can use a code block, which some renderers will apply syntax highlighting to.
