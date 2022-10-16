@@ -101,19 +101,6 @@ Lists
 1.  Item 2. The numbers are incremented automatically in the output.
 
 
-Links
-------------------------------------------------------------
-
-###### <b>Code</b>
-
-
-<http://NestQuest.net>
-
-[linked phrase](http://NestQuest.net)
-
-![optional caption text](assets/img/md.png)
-
-
 Tables 
 ------------------------------------------------------------
 
@@ -132,6 +119,20 @@ Here's a useless table:
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
 | Two | Three | One |
+
+
+Links
+------------------------------------------------------------
+
+###### <b>Code</b>
+
+
+<http://NestQuest.net>
+
+[linked phrase](http://NestQuest.net)
+
+![optional caption text](assets/img/md.png)
+
 
 Images
 ------------------------------------------------------------
