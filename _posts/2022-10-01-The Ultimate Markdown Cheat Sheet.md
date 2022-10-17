@@ -140,47 +140,7 @@ Numbered list, The numbers are incremented automatically in the output.
 1. Item 2.
 
 ---
-#### Tables 
-  
-<o>Code</o>
-  
-```Markdown
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-```  
-  
-<o>Output</o>
-  
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-  
-<o>Code</o>
-  
-Here's a another table:
-  
-```Markdown
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-```
-  
-<o>Output</o>
-  
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
 
----
 #### Links
   
   <o>Code</o>
@@ -229,6 +189,99 @@ It can also be centered!
 
 ![Internal Link](../assets/img/md.png)
 
+---
+
+#### Boxes
+
+You can add notification, warning and error boxes like this:
+
+###### Notification
+
+<o>Code</o>
+
+```Markdown
+{: .box-note}
+**Note:** This is a notification box.
+```
+  
+<o>Output</o>
+  
+{: .box-note}
+**Note:** This is a notification box.
+
+###### Warning
+
+<o>Code</o>
+
+```Markdown
+{: .box-warning}
+**Warning:** This is a warning box.
+```
+  
+<o>Output</o>
+  
+{: .box-warning}
+**Warning:** This is a warning box.
+
+###### Error
+
+<o>Code</o>
+
+```Markdown
+{: .box-error}
+**Error:** This is an error box.
+```
+  
+<o>Output</o>
+  
+{: .box-error}
+**Error:** This is an error box.
+
+---
+
+#### Tables 
+  
+<o>Code</o>
+  
+```Markdown
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+```  
+  
+<o>Output</o>
+  
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+  
+<o>Code</o>
+  
+Here's a another table:
+  
+```Markdown
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
+```
+  
+<o>Output</o>
+  
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
+
+---
+
+#### Codes 
 
 There are two ways to format code in Markdown. You can either use inline code, by putting backticks (`) around parts of a line, or you can use a code block, which some renderers will apply syntax highlighting to.
 
@@ -287,48 +340,3 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-#### Boxes
-
-You can add notification, warning and error boxes like this:
-
-###### Notification
-
-<o>Code</o>
-
-```Markdown
-{: .box-note}
-**Note:** This is a notification box.
-```
-  
-<o>Output</o>
-  
-{: .box-note}
-**Note:** This is a notification box.
-
-###### Warning
-
-<o>Code</o>
-
-```Markdown
-{: .box-warning}
-**Warning:** This is a warning box.
-```
-  
-<o>Output</o>
-  
-{: .box-warning}
-**Warning:** This is a warning box.
-
-###### Error
-
-<o>Code</o>
-
-```Markdown
-{: .box-error}
-**Error:** This is an error box.
-```
-  
-<o>Output</o>
-  
-{: .box-error}
-**Error:** This is an error box.
