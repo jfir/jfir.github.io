@@ -28,9 +28,9 @@ In this post, you’ll learn all the Markdown’s major commands that will help 
 Sparkling and frozen...
 
 ### Paragraphs
----  
+If you need a hard line break, put two or more spaces at the end of a line. 
 
-
+---
 ### Horizontal rules
 ---
 
