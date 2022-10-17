@@ -342,60 +342,66 @@ Here's an example of a Python Code Block:
 <o>Syntax</o>
   
 ~~~text
-
 ```codetype
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
 ```
-
 ~~~
   
 <o>Output</o>
   
-~~~python
+```
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
-~~~
+```
 
-And here is the same Syntax with syntax highlighting:
+And here is the same Syntax with syntax highlighting for python:
+  
+<o>Syntax</o>
+  
+~~~
+```Python
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+~~~
+  
+<o>Output</o>
+  
+```python
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+
+And here is the same Syntax yet again but with line numbers for python:
   
 <o>Syntax</o>
   
 ```text
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-```
-  
-<o>Output</o>
-  
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same Syntax yet again but with line numbers:
-  
-<o>Syntax</o>
-  
-{% highlight javascript linenos %}
+{% highlight python linenos %}
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
 {% endhighlight %}
-
+```
+  
+<o>Output</o>
+  
+{% highlight python linenos %}
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+{% endhighlight %}
 ___
 
 #### Math
