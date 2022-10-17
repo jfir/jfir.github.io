@@ -185,12 +185,12 @@ It can also be centered!
 <o>Syntax</o>
   
 ```Markdown
-![Data Science](./assets/img/DS.jpg){: .mx-auto.d-block :}
+![Data Science](../assets/img/DS.jpg){: .mx-auto.d-block :}
 ```
   
 <o>Output</o>
   
-![Data Science](./assets/img/DS.jpg){: .mx-auto.d-block :}
+![Data Science](../assets/img/DS.jpg){: .mx-auto.d-block :}
 
 ```
 ![Internal Link](../assets/img/DS.png)
