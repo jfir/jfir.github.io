@@ -62,8 +62,8 @@ Synthax here
   
 <o>Output</o>
   
-*italic*  or _italic_
-**bold**   __bold__
+*italic*  or _italic_  
+**bold**   __bold__  
 
 ---
 
