@@ -192,6 +192,8 @@ Here's a another table:
 ![Internal Link](../assets/img/md.png)
 ```
 
+<o>Output</o>
+
 <http://NestQuest.net>
 
 [linked phrase](http://NestQuest.net)
@@ -208,11 +210,19 @@ Left Image?
 ![Data Science](https://nestquest.net/assets/img/DS.png){width=4in}
 ```
 
+<o>Output</o>
+
 ![Data Science](https://nestquest.net/assets/img/DS.png){width=4in}
 
 It can also be centered!
 
 <o>Code</o>
+
+```Markdown
+![Data Science](./assets/img/DS.png){width=4in}{: .mx-auto.d-block :}
+```
+
+<o>Output</o>
 
 ![Data Science](./assets/img/DS.png){width=4in}{: .mx-auto.d-block :}
 
@@ -222,7 +232,18 @@ Here's a Code chunk:
 
 <o>Code</o>
 
-~~~Markdown
+```Markdown
+~~~
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+~~~
+```
+
+<o>Output</o>
+
+~~~python
 var foo = function(x) {
   return(x + 5);
 }
