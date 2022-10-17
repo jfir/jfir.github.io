@@ -232,8 +232,8 @@ Here's a Code chunk:
 
 <o>Code</o>
 
-```Markdown
-~~~
+```text
+~~~python
 var foo = function(x) {
   return(x + 5);
 }
@@ -254,6 +254,17 @@ And here is the same Code with syntax highlighting:
 
 <o>Code</o>
 
+```text
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+```
+
+<o>Output</o>
+
 ```javascript
 var foo = function(x) {
   return(x + 5);
@@ -263,7 +274,7 @@ foo(3)
 
 And here is the same Code yet again but with line numbers:
 
-###### <o>Code</o>
+<o>Code</o>
 
 {% highlight javascript linenos %}
 var foo = function(x) {
