@@ -55,9 +55,9 @@ ___
   
 <o>Output</o>
 
-___
+____________________________________________________________________
 
-The horizontal line in this document is small because of the `<div>` of the website template.  
+  
 
 ___
 
