@@ -152,8 +152,8 @@ _   underscore
 Numbered list, The numbers are incremented automatically in the output.
   
 <o>Syntax</o>
-   
-```Markdown
+  
+```text
 1.  Item 1
 
 1.  Item 2.
@@ -171,7 +171,7 @@ Numbered list, The numbers are incremented automatically in the output.
   
 <o>Syntax</o>
   
-```Markdown
+```text
 <http://NestQuest.net>
 
 [Vist My Web Site](http://NestQuest.net)
@@ -203,7 +203,7 @@ reference syntax:
 
 <o>Syntax</o>
   
-```Markdown
+```text
 ![Data Science](https://nestquest.net/assets/img/PvsR.png)
 ```
   
@@ -215,7 +215,7 @@ It can also be centered!
   
 <o>Syntax</o>
   
-```Markdown
+```text
 ![Data Science](../assets/img/DS.jpg){: .mx-auto.d-block :}
 ```
   
@@ -239,7 +239,7 @@ You can add notification, warning and error boxes like this:
   
 <o>Syntax</o>
   
-```Markdown
+```text
 {: .box-note}
 **Note:** This is a notification box.
 ```
@@ -253,7 +253,7 @@ You can add notification, warning and error boxes like this:
   
 <o>Syntax</o>
   
-```Markdown
+```text
 {: .box-warning}
 **Warning:** This is a warning box.
 ```
@@ -267,7 +267,7 @@ You can add notification, warning and error boxes like this:
   
 <o>Syntax</o>
   
-```Markdown
+```text
 {: .box-error}
 **Error:** This is an error box.
 ```
@@ -283,7 +283,7 @@ You can add notification, warning and error boxes like this:
   
 <o>Syntax</o>
   
-```Markdown
+```text
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -301,7 +301,7 @@ Content Cell  | Content Cell
   
 Here's a another table:
   
-```Markdown
+```text
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
 | Five | Six | Four |
