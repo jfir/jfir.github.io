@@ -32,7 +32,7 @@ We can create a file with different extensions for markdown files
 - text
 - mdown
 
----
+___
 
 #### Paragraphs
 
