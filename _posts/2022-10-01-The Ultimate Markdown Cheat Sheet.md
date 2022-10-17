@@ -23,24 +23,41 @@ In this post, you’ll learn all the Markdown’s major commands that will help 
 
 #### Paragraphs
 If you need a hard line break, put two or more spaces at the end of a line. 
+  
+<o>Code</o>
+  
+```
+text here
+```
+  
+<o>Output</o>
+  
+Synthax here
 
 ---
 #### Horizontal rules
-
+  
+<o>Code</o>
+  
+```
+text here
+```
+  
+<o>Output</o>
+  
+Synthax here
 
 ---
 #### Bold and Italics
-
   
----
-####### <o>Code</o>
+<o>Code</o>
   
 ```
 *italic*  or _italic_
 **bold**   __bold__
 ```
   
-####### <o>Output</o>
+<o>Output</o>
   
 *italic*  or _italic_
 **bold**   __bold__
