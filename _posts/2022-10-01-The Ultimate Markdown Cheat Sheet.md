@@ -28,7 +28,7 @@ If you need a hard line break, put two or more spaces at the end of a line.
   
 ```
 text here  
-```
+```  
   
 <o>Output</o>
   
@@ -41,7 +41,7 @@ Synthax here
   
 ```
 text here  
-```
+```  
   
 <o>Output</o>
   
@@ -55,7 +55,7 @@ Synthax here
 ```
 *italic*  or _italic_
 **bold**   __bold__
-```
+```  
   
 <o>Output</o>
   
