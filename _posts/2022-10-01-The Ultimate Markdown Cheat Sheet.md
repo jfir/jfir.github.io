@@ -21,6 +21,19 @@ Formatting text in Markdown has a very gentle learning curve. It doesn’t do an
 
 In this post, you’ll learn all the Markdown’s major commands that will help you create an awesome **GitHub README**, a **NOTEBOOK**, or a **WEB PAGE** like the one you are reading.  
 
+#### Markdown File Extension
+
+We can create a file with different extensions for markdown files
+
+.markdown
+.md
+.mkd
+.mkdown
+.text
+.mdown
+
+---
+
 #### Paragraphs
 
 If you need a hard line break, put two or more spaces at the end of a line.  
