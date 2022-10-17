@@ -27,7 +27,7 @@ If you need a hard line break, put two or more spaces at the end of a line.
   
 <o>Syntax</o>
   
-```Markdown
+```text
 text here  
 ```  
   
@@ -41,7 +41,7 @@ Synthax here
   
 <o>Syntax</o>
   
-```Markdown
+```text
 text here  
 ```  
   
@@ -55,7 +55,7 @@ Synthax here
   
 <o>Syntax</o>
    
-```Markdown
+```text
 *italic*  or _italic_  
 **bold**  or __bold__  
 ```  
@@ -81,7 +81,7 @@ superscript^2^ and subscript~2~
   
 <o>Syntax</o>
   
-```
+```text
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -100,7 +100,7 @@ superscript^2^ and subscript~2~
   
 <o>Syntax</o>
   
-```Markdown
+```text
 *   Item 1
 *   Item 2
   * Item 2a
