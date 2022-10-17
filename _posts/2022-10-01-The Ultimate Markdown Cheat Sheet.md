@@ -404,7 +404,7 @@ foo(3)
 {% endhighlight %}
 ___
 
-#### Math
+#### Math :1234:
   
 <o>Syntax</o>
   
