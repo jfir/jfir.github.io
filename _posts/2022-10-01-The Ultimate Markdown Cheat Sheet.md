@@ -110,7 +110,7 @@ superscript^2^ and subscript~2~
 ```
 
 
-##### <b>Result</b>
+##### <o>Result</o>
 
 *   Bulleted list item 1
 *   Item 2
@@ -125,7 +125,7 @@ superscript^2^ and subscript~2~
 1.  Item 2. The numbers are incremented automatically in the output.
 ```
 
-###### <b>Result</b>
+###### <o>Result</o>
 
 1.  Numbered list item 1
 
@@ -141,7 +141,9 @@ First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
-```
+```  
+
+###### <o>Result</o>
 
 First Header  | Second Header
 ------------- | -------------
@@ -150,8 +152,8 @@ Content Cell  | Content Cell
   
 <o>Code</o>
   
-Here's a useless table:
-
+Here's a another table:
+  
 ```
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
@@ -160,6 +162,8 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 ```
+
+###### <o>Result</o>
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
