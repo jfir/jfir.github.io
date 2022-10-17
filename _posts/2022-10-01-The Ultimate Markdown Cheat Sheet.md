@@ -197,7 +197,7 @@ Here's a another table:
 
 #### Images
 
-How about a yummy crepe?
+Left Image?
 
 <o>Code</o>
   
