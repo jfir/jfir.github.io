@@ -72,12 +72,12 @@ Synthax here
 <o>Syntax</o>
   
 ```text
-superscript^2^ and subscript~2~
+superscript<sup>2</sup>
 ```
   
 <o>Output</o>
   
-superscript^2^ and subscript~2~
+superscript<sup>2</sup>
 
 ---
 
