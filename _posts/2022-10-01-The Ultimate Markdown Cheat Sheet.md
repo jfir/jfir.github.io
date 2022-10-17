@@ -43,7 +43,7 @@ ___
 
 #### Horizontal Lines
 
-consistent "---", "***", or "___", or other string specify the horizontal line
+Horizontal lines are specified by consistent "---", "***", or "___", or other string in all markdown file.
 
 <o>Syntax</o>
   
