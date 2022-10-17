@@ -28,29 +28,30 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 ### Horizontal rules
 _ _ _ _ _ _ _ _ _ _ _ _ _ _  
 
+
 ### Bold and Italics
 _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+
 
 ###### <b>Code</b>
 
 ```
 *italic*  or _italic_
 **bold**   __bold__
-
-superscript^2^ and subscript~2~
 ```
 
 ###### <b>Result</b>
 
 *italic*  or _italic_
 **bold**   __bold__
-`code`
+
+
+```superscript^2^ and subscript~2~```
+
 superscript^2^ and subscript~2~
 
-
-
 Headings
-------------------------------------------------------------
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 ###### <b>Code</b>
