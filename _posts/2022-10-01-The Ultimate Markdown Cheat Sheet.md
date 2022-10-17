@@ -173,24 +173,24 @@ reference syntax:
 <o>Syntax</o>
   
 ```Markdown
-![Data Science](https://nestquest.net/assets/img/PvsR.png){width=4in}
+![Data Science](https://nestquest.net/assets/img/PvsR.png)
 ```
   
 <o>Output</o>
   
-![Data Science](https://nestquest.net/assets/img/PvsR.png){width=4in}
+![Data Science](https://nestquest.net/assets/img/PvsR.png)
 
 It can also be centered!
   
 <o>Syntax</o>
   
 ```Markdown
-![Data Science](./assets/img/DS.jpg){width=4in}{: .mx-auto.d-block :}
+![Data Science](./assets/img/DS.jpg){: .mx-auto.d-block :}
 ```
   
 <o>Output</o>
   
-![Data Science](./assets/img/DS.jpg){width=4in}{: .mx-auto.d-block :}
+![Data Science](./assets/img/DS.jpg){: .mx-auto.d-block :}
 
 ```
 ![Internal Link](../assets/img/DS.png)
