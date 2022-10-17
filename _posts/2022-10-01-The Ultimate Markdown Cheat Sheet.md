@@ -164,30 +164,30 @@ Left Image?
 <o>Code</o>
   
 ```Markdown
-![Data Science](https://nestquest.net/assets/img/DS.png){width=4in}
+![Data Science](https://nestquest.net/assets/img/PvsR.png){width=4in}
 ```
   
 <o>Output</o>
   
-![Data Science](https://nestquest.net/assets/img/DS.png){width=4in}
+![Data Science](https://nestquest.net/assets/img/PvsR.png){width=4in}
 
 It can also be centered!
   
 <o>Code</o>
   
 ```Markdown
-![Data Science](./assets/img/DS.png){width=4in}{: .mx-auto.d-block :}
+![Data Science](./assets/img/DS.jpg){width=4in}{: .mx-auto.d-block :}
 ```
   
 <o>Output</o>
   
-![Data Science](./assets/img/DS.png){width=4in}{: .mx-auto.d-block :}
+![Data Science](./assets/img/DS.jpg){width=4in}{: .mx-auto.d-block :}
 
 ```
-![Internal Link](../assets/img/md.png)
+![Internal Link](../assets/img/DS.png)
 ```
 
-![Internal Link](../assets/img/md.png)
+![Internal Link](../assets/img/DS.png)
 
 ---
 
