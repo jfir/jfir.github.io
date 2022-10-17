@@ -63,43 +63,39 @@ Synthax here
 **bold**   __bold__
 
 ---
-
+#### Headings
 ```superscript^2^ and subscript~2~```
 
 superscript^2^ and subscript~2~
 
-Headings
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-
-###### <b>Code</b>
-
+---
+#### Headings
+  
+<o>Code</o>
+  
 ```
-#Heading 1
-##Heading 2
-###Heading 3
-####Heading 4
-#####Heading 5
-######Heading 6
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 ```
+  
+<o>Output</o>
+  
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
-
-###### <b>Result</b>
-
-#Heading 1
-##Heading 2
-###Heading 3
-####Heading 4
-#####Heading 5
-######Heading 6
-
-
-Lists
-------------------------------------------------------------
-
-
-###### <b>Code</b>
-
+---
+#### Lists
+  
+<o>Code</o>
+  
 ```
 *   Bulleted list item 1
 *   Item 2
@@ -114,10 +110,9 @@ Lists
 *   Item 2
   * Item 2a
   * Item 2b
-
-
-###### <b>Code</b>
-
+  
+<o>Code</o>
+  
 ```
 1.  Numbered list item 1
 
@@ -132,16 +127,33 @@ Lists
 
 
 Tables 
-------------------------------------------------------------
-
-###### <b>Code</b>
+  
+<o>Code</o>
+  
+```
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+```
 
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
 Content Cell  | Content Cell
-
+  
+<o>Code</o>
+  
 Here's a useless table:
+
+```
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
+```
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
@@ -151,11 +163,17 @@ Here's a useless table:
 | Two | Three | One |
 
 
-Links
-------------------------------------------------------------
+#### Links
+  
+<o>Code</o>
+  
+```
+<http://NestQuest.net>
 
-###### <b>Code</b>
+[linked phrase](http://NestQuest.net)
 
+![optional caption text](assets/img/md.png)
+```
 
 <http://NestQuest.net>
 
@@ -164,14 +182,18 @@ Links
 ![optional caption text](assets/img/md.png)
 
 
-Images
-------------------------------------------------------------
+#### Images
 
 How about a yummy crepe?
 
-###### <b>Code</b>
+<o>Code</o>
+  
+```
+![Data Science](https://nestquest.net/assets/img/DS.png){width=4in}
+```
 
 ![Data Science](https://nestquest.net/assets/img/DS.png){width=4in}
+
 
 It can also be centered!
 
@@ -215,10 +237,10 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-### Boxes
+#### Boxes
 You can add notification, warning and error boxes like this:
 
-#### Notification
+##### Notification
 
 ###### <b>Code</b>
 
@@ -230,7 +252,7 @@ You can add notification, warning and error boxes like this:
 {: .box-note}
 **Note:** This is a notification box.
 
-#### Warning
+##### Warning
 
 ###### <b>Code</b>
 
@@ -242,7 +264,7 @@ You can add notification, warning and error boxes like this:
 {: .box-warning}
 **Warning:** This is a warning box.
 
-#### Error
+##### Error
 
 ###### <b>Code</b>
 
