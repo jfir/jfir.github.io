@@ -43,7 +43,7 @@ ___
 
 #### Horizontal Lines
 
-Horizontal lines are specified by consistent "---", "***", or "___", or other string in all markdown file.
+You can create a horizontal line ( `<hr />` ) by placing 3 or more hyphens "---", asterisks "***", or underscores "___" on a single line by themselves. consistency is a must within a markdown file.
 
 <o>Syntax</o>
   
