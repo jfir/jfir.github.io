@@ -25,7 +25,7 @@ In this post, you’ll learn all the Markdown’s major commands that will help 
 
 If you need a hard line break, put two or more spaces at the end of a line.  
   
-<o>Code</o>
+<o>Syntax</o>
   
 ```Markdown
 text here  
@@ -39,7 +39,7 @@ Synthax here
 
 #### Horizontal rules
   
-<o>Code</o>
+<o>Syntax</o>
   
 ```Markdown
 text here  
@@ -53,7 +53,7 @@ Synthax here
 
 #### Bold and Italics
   
-<o>Code</o>
+<o>Syntax</o>
    
 ```Markdown
 *italic*  or _italic_  
@@ -79,7 +79,7 @@ superscript^2^ and subscript~2~
 
 #### Headings
   
-<o>Code</o>
+<o>Syntax</o>
   
 ```
 # Heading 1
@@ -93,21 +93,16 @@ superscript^2^ and subscript~2~
 <o>Output</o>
   
 # Heading 1
-  
 ## Heading 2
-  
 ### Heading 3
-  
 #### Heading 4
-  
 ##### Heading 5
-  
 ###### Heading 6
   
 ---  
 #### Lists
   
-<o>Code</o>
+<o>Syntax</o>
   
 ```Markdown
 *   Item 1
@@ -125,7 +120,7 @@ superscript^2^ and subscript~2~
 
 Numbered list, The numbers are incremented automatically in the output.
   
-<o>Code</o>
+<o>Syntax</o>
    
 ```Markdown
 1.  Item 1
@@ -143,7 +138,7 @@ Numbered list, The numbers are incremented automatically in the output.
 
 #### Links
   
-<o>Code</o>
+<o>Syntax</o>
   
 ```Markdown
 <http://NestQuest.net>
@@ -175,7 +170,7 @@ reference syntax:
 [id]: url/to/image  "Optional title attribute"
 ```
 
-<o>Code</o>
+<o>Syntax</o>
   
 ```Markdown
 ![Data Science](https://nestquest.net/assets/img/PvsR.png){width=4in}
@@ -187,7 +182,7 @@ reference syntax:
 
 It can also be centered!
   
-<o>Code</o>
+<o>Syntax</o>
   
 ```Markdown
 ![Data Science](./assets/img/DS.jpg){width=4in}{: .mx-auto.d-block :}
@@ -211,7 +206,7 @@ You can add notification, warning and error boxes like this:
 
 ###### Notification
   
-<o>Code</o>
+<o>Syntax</o>
   
 ```Markdown
 {: .box-note}
@@ -225,7 +220,7 @@ You can add notification, warning and error boxes like this:
 
 ###### Warning
   
-<o>Code</o>
+<o>Syntax</o>
   
 ```Markdown
 {: .box-warning}
@@ -239,7 +234,7 @@ You can add notification, warning and error boxes like this:
 
 ###### Error
   
-<o>Code</o>
+<o>Syntax</o>
   
 ```Markdown
 {: .box-error}
@@ -255,7 +250,7 @@ You can add notification, warning and error boxes like this:
 
 #### Tables 
   
-<o>Code</o>
+<o>Syntax</o>
   
 ```Markdown
 First Header  | Second Header
@@ -271,7 +266,7 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  | Content Cell
   
-<o>Code</o>
+<o>Syntax</o>
   
 Here's a another table:
   
@@ -301,7 +296,7 @@ There are two ways to format code in Markdown. You can either use inline code, b
 
 Here's a Code chunk:
   
-<o>Code</o>
+<o>Syntax</o>
   
 ```text
 ~~~python
@@ -321,9 +316,9 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-And here is the same Code with syntax highlighting:
+And here is the same Syntax with syntax highlighting:
   
-<o>Code</o>
+<o>Syntax</o>
   
 ```text
 ```javascript
@@ -343,9 +338,9 @@ var foo = function(x) {
 foo(3)
 ```
 
-And here is the same Code yet again but with line numbers:
+And here is the same Syntax yet again but with line numbers:
   
-<o>Code</o>
+<o>Syntax</o>
   
 {% highlight javascript linenos %}
 var foo = function(x) {
@@ -358,5 +353,5 @@ foo(3)
 
 #### Math
   
-<o>Code</o>
+<o>Syntax</o>
   
