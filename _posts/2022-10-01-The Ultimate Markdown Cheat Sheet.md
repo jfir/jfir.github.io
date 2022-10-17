@@ -386,12 +386,12 @@ And here is the same Syntax yet again but with line numbers for python:
 <o>Syntax</o>
 
 ```text
-{% highlight python linenos %}
+\{% highlight python linenos %}
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
-{% endhighlight %}
+\{% endhighlight %}
 ```
   
 <o>Output</o>
