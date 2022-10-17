@@ -67,17 +67,19 @@ Synthax here
 
 ---
 
-#### Superscript
+#### Superscript & Subscript
   
 <o>Syntax</o>
   
 ```text
-superscript<sup>2</sup>
+E=mc<sup>2</sup>
+co<sub>2</sub>
 ```
   
 <o>Output</o>
   
-superscript<sup>2</sup>
+E=mc<sup>2</sup>
+co<sub>2</sub>
 
 ---
 
