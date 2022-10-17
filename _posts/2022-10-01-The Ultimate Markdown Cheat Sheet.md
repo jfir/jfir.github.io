@@ -54,7 +54,7 @@ Synthax here
 #### Bold and Italics
   
 <o>Code</o>
-  
+   
 ```Markdown
 *italic*  or _italic_  
 **bold**  or __bold__  
@@ -124,9 +124,9 @@ superscript^2^ and subscript~2~
   * Item 2b
 
 Numbered list, The numbers are incremented automatically in the output.
-
-<o>Code</o>
   
+<o>Code</o>
+   
 ```Markdown
 1.  Item 1
 
@@ -143,7 +143,7 @@ Numbered list, The numbers are incremented automatically in the output.
 
 #### Links
   
-  <o>Code</o>
+<o>Code</o>
   
 ```Markdown
 <http://NestQuest.net>
@@ -160,7 +160,7 @@ Numbered list, The numbers are incremented automatically in the output.
 #### Images
 
 Left Image?
-
+  
 <o>Code</o>
   
 ```Markdown
@@ -172,9 +172,9 @@ Left Image?
 ![Data Science](https://nestquest.net/assets/img/DS.png){width=4in}
 
 It can also be centered!
-
+  
 <o>Code</o>
-
+  
 ```Markdown
 ![Data Science](./assets/img/DS.png){width=4in}{: .mx-auto.d-block :}
 ```
@@ -196,9 +196,9 @@ It can also be centered!
 You can add notification, warning and error boxes like this:
 
 ###### Notification
-
+  
 <o>Code</o>
-
+  
 ```Markdown
 {: .box-note}
 **Note:** This is a notification box.
@@ -210,9 +210,9 @@ You can add notification, warning and error boxes like this:
 **Note:** This is a notification box.
 
 ###### Warning
-
+  
 <o>Code</o>
-
+  
 ```Markdown
 {: .box-warning}
 **Warning:** This is a warning box.
@@ -224,9 +224,9 @@ You can add notification, warning and error boxes like this:
 **Warning:** This is a warning box.
 
 ###### Error
-
+  
 <o>Code</o>
-
+  
 ```Markdown
 {: .box-error}
 **Error:** This is an error box.
@@ -286,9 +286,9 @@ Here's a another table:
 There are two ways to format code in Markdown. You can either use inline code, by putting backticks (`) around parts of a line, or you can use a code block, which some renderers will apply syntax highlighting to.
 
 Here's a Code chunk:
-
+  
 <o>Code</o>
-
+  
 ```text
 ~~~python
 var foo = function(x) {
@@ -308,9 +308,9 @@ foo(3)
 ~~~
 
 And here is the same Code with syntax highlighting:
-
+  
 <o>Code</o>
-
+  
 ```text
 ```javascript
 var foo = function(x) {
@@ -330,9 +330,9 @@ foo(3)
 ```
 
 And here is the same Code yet again but with line numbers:
-
+  
 <o>Code</o>
-
+  
 {% highlight javascript linenos %}
 var foo = function(x) {
   return(x + 5);
@@ -340,3 +340,9 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
+---
+
+#### Math
+  
+<o>Code</o>
+  
