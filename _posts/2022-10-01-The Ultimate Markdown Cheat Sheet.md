@@ -21,30 +21,31 @@ Formatting text in Markdown has a very gentle learning curve. It doesn’t do an
 
 In this post, you’ll learn all the Markdown’s major commands that will help you create an awesome GitHub README or a WEB PAGE like the one you are reading.  
 
-### Paragraphs
+#### Paragraphs
 If you need a hard line break, put two or more spaces at the end of a line. 
 
 ---
-### Horizontal rules
+#### Horizontal rules
+
+
 ---
+#### Bold and Italics
 
-
-### Bold and Italics
+  
 ---
-
-
-###### <b>Code</b>
-
+####### <o>Code</o>
+  
 ```
 *italic*  or _italic_
 **bold**   __bold__
 ```
-
-###### <b>Output</b>
-
+  
+####### <o>Output</o>
+  
 *italic*  or _italic_
 **bold**   __bold__
 
+---
 
 ```superscript^2^ and subscript~2~```
 
