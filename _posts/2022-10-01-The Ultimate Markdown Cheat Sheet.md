@@ -56,14 +56,14 @@ Synthax here
 <o>Code</o>
   
 ```Markdown
-*italic*  or _italic_
-**bold**   __bold__
+*italic*  or _italic_  
+**bold**  or __bold__  
 ```  
   
 <o>Output</o>
   
 *italic*  or _italic_  
-**bold**   __bold__  
+**bold**  or __bold__  
 
 ---
 
