@@ -48,16 +48,16 @@ You can create a horizontal line ( `<hr />` ) by placing 3 or more hyphens "---"
 <o>Syntax</o>
   
 ```text
-___
 
 ___
+
 ```  
   
 <o>Output</o>
 
 ___
 
-___
+The horizontal line in this document is small because of the `<div>` of the website template.  
 
 ___
 
