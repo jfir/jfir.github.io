@@ -70,7 +70,9 @@ Synthax here
 #### Superscript
 
 ```superscript^2^ and subscript~2~```
-
+  
+<o>Output</o>
+  
 superscript^2^ and subscript~2~
 
 ---
@@ -113,10 +115,9 @@ superscript^2^ and subscript~2~
   * Item 2a
   * Item 2b
 ```
-
-
+  
 <o>Output</o>
-
+  
 * Item 1
 * Item 2
   * Item 2a
@@ -131,9 +132,9 @@ Numbered list, The numbers are incremented automatically in the output.
 
 1.  Item 2.
 ```
-
+  
 <o>Output</o>
-
+  
 1. Item 1
 
 1. Item 2.
@@ -149,9 +150,9 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 ```  
-
+  
 <o>Output</o>
-
+  
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -169,9 +170,9 @@ Here's a another table:
 | Seven | Eight | Six |
 | Two | Three | One |
 ```
-
+  
 <o>Output</o>
-
+  
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
 | Five | Six | Four |
@@ -189,9 +190,9 @@ Here's a another table:
 
 [Vist My Web Site](http://NestQuest.net)
 ```
-
+  
 <o>Output</o>
-
+  
 <http://NestQuest.net>
 
 [Vist My Web Site](http://NestQuest.net)
@@ -205,9 +206,9 @@ Left Image?
 ```Markdown
 ![Data Science](https://nestquest.net/assets/img/DS.png){width=4in}
 ```
-
+  
 <o>Output</o>
-
+  
 ![Data Science](https://nestquest.net/assets/img/DS.png){width=4in}
 
 It can also be centered!
@@ -217,9 +218,9 @@ It can also be centered!
 ```Markdown
 ![Data Science](./assets/img/DS.png){width=4in}{: .mx-auto.d-block :}
 ```
-
+  
 <o>Output</o>
-
+  
 ![Data Science](./assets/img/DS.png){width=4in}{: .mx-auto.d-block :}
 
 ```
@@ -243,9 +244,9 @@ var foo = function(x) {
 foo(3)
 ~~~
 ```
-
+  
 <o>Output</o>
-
+  
 ~~~python
 var foo = function(x) {
   return(x + 5);
@@ -265,9 +266,9 @@ var foo = function(x) {
 foo(3)
 ```
 ```
-
+  
 <o>Output</o>
-
+  
 ```javascript
 var foo = function(x) {
   return(x + 5);
@@ -298,7 +299,9 @@ You can add notification, warning and error boxes like this:
 {: .box-note}
 **Note:** This is a notification box.
 ```
-
+  
+<o>Output</o>
+  
 {: .box-note}
 **Note:** This is a notification box.
 
@@ -310,7 +313,9 @@ You can add notification, warning and error boxes like this:
 {: .box-warning}
 **Warning:** This is a warning box.
 ```
-
+  
+<o>Output</o>
+  
 {: .box-warning}
 **Warning:** This is a warning box.
 
@@ -322,6 +327,8 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 ```
-
+  
+<o>Output</o>
+  
 {: .box-error}
 **Error:** This is an error box.
