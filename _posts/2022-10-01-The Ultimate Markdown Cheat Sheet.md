@@ -27,12 +27,12 @@ If you need a hard line break, put two or more spaces at the end of a line.
 <o>Code</o>
   
 ```
-text here
+text here  
 ```
   
 <o>Output</o>
   
-Synthax here
+Synthax here  
 
 ---
 #### Horizontal rules
@@ -40,12 +40,12 @@ Synthax here
 <o>Code</o>
   
 ```
-text here
+text here  
 ```
   
 <o>Output</o>
   
-Synthax here
+Synthax here  
 
 ---
 #### Bold and Italics
