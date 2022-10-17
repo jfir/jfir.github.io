@@ -68,12 +68,47 @@ Synthax here
 ---
 
 #### Superscript
-
-```superscript^2^ and subscript~2~```
+  
+<o>Syntax</o>
+  
+```text
+superscript^2^ and subscript~2~
+```
   
 <o>Output</o>
   
 superscript^2^ and subscript~2~
+
+---
+
+#### BACKSLASH ESCAPES
+
+Markdown provides backslash escapes for the following characters:
+
+```
+\   backslash
+`   backtick
+*   asterisk
+_   underscore
+{}  curly braces
+[]  square brackets
+()  parentheses
+#   hash mark
++   plus sign
+-   minus sign (hyphen)
+.   dot
+!   exclamation mark
+```
+  
+<o>Syntax</o>
+
+```text  
+\*literal asterisks\*
+```
+  
+<o>Output</o>
+  
+\*literal asterisks\*
 
 ---
 
