@@ -6,7 +6,7 @@ subtitle: Markdown Tips to Become a Better Data Scientist.
 image: assets/img/md.png
 thumbnail-img: assets/img/md.png
 #cover-img: ["assets/img/aws.png" : "Caption of image", "assets/img/aws.png" : "Caption of image"]
-tags: [Markdown, Python]
+tags: [Markdown, Python, R, Data Science]
 ---
 <style>
 r { color: Red }
