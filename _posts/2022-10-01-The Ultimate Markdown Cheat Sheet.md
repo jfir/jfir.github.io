@@ -25,12 +25,12 @@ In this post, you’ll learn all the Markdown’s major commands that will help 
 
 We can create a file with different extensions for markdown files
 
-.markdown
-.md
-.mkd
-.mkdown
-.text
-.mdown
+- markdown
+- md
+- mkd
+- mkdown
+- text
+- mdown
 
 ---
 
