@@ -197,16 +197,16 @@ How about a yummy crepe?
 
 It can also be centered!
 
-###### <b>Code</b>
+###### <o>Code</o>
 
 ![Data Science](./assets/img/DS.png){width=4in}{: .mx-auto.d-block :}
 
 
 There are two ways to format code in Markdown. You can either use inline code, by putting backticks (`) around parts of a line, or you can use a code block, which some renderers will apply syntax highlighting to.
 
-Here's a <b>Code</b> chunk:
+Here's a Code chunk:
 
-###### <b>Code</b>
+###### <o>Code</o>
 
 ~~~
 var foo = function(x) {
@@ -215,9 +215,9 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-And here is the same <b>Code</b> with syntax highlighting:
+And here is the same Code with syntax highlighting:
 
-###### <b>Code</b>
+###### <o>Code</o>
 
 ```javascript
 var foo = function(x) {
@@ -226,9 +226,9 @@ var foo = function(x) {
 foo(3)
 ```
 
-And here is the same <b>Code</b> yet again but with line numbers:
+And here is the same Code yet again but with line numbers:
 
-###### <b>Code</b>
+###### <o>Code</o>
 
 {% highlight javascript linenos %}
 var foo = function(x) {
@@ -242,7 +242,7 @@ You can add notification, warning and error boxes like this:
 
 ##### Notification
 
-###### <b>Code</b>
+###### <o>Code</o>
 
 ~~~
 {: .box-note}
@@ -254,7 +254,7 @@ You can add notification, warning and error boxes like this:
 
 ##### Warning
 
-###### <b>Code</b>
+###### <o>Code</o>
 
 ~~~
 {: .box-warning}
@@ -266,7 +266,7 @@ You can add notification, warning and error boxes like this:
 
 ##### Error
 
-###### <b>Code</b>
+###### <o>Code</o>
 
 ~~~
 {: .box-error}
