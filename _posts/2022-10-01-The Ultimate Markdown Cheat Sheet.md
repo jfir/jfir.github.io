@@ -85,14 +85,14 @@ Synthax here
 <o>Syntax</o>
   
 ```text
-E=mc<sup>2</sup>
-co<sub>2</sub>
+E=mc<sup>2</sup>  
+co<sub>2</sub>  
 ```
   
 <o>Output</o>
   
-E=mc<sup>2</sup>
-co<sub>2</sub>
+E=mc<sup>2</sup>  
+co<sub>2</sub>  
 
 ---
 
