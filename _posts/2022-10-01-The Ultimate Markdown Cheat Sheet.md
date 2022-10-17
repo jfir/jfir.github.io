@@ -159,8 +159,22 @@ Numbered list, The numbers are incremented automatically in the output.
 
 #### Images
 
-Left Image?
-  
+Markdown uses an image syntax that is intended to resemble the syntax for links, allowing for two styles: inline and reference.
+
+```text
+Inline syntax:
+
+![Alt text](/path/to/img.jpg)
+
+![Alt text](/path/to/img.jpg "Optional title")
+
+reference syntax:
+
+![Alt text][id]
+
+[id]: url/to/image  "Optional title attribute"
+```
+
 <o>Code</o>
   
 ```Markdown
