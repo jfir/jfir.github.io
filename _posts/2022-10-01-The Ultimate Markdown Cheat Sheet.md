@@ -22,11 +22,12 @@ Formatting text in Markdown has a very gentle learning curve. It doesn’t do an
 In this post, you’ll learn all the Markdown’s major commands that will help you create an awesome GitHub README or a WEB PAGE like the one you are reading.  
 
 #### Paragraphs
-If you need a hard line break, put two or more spaces at the end of a line. 
+
+If you need a hard line break, put two or more spaces at the end of a line.  
   
 <o>Code</o>
   
-```
+```Markdown
 text here  
 ```  
   
@@ -35,11 +36,12 @@ text here
 Synthax here  
 
 ---
+
 #### Horizontal rules
   
 <o>Code</o>
   
-```
+```Markdown
 text here  
 ```  
   
@@ -48,11 +50,12 @@ text here
 Synthax here  
 
 ---
+
 #### Bold and Italics
   
 <o>Code</o>
   
-```
+```Markdown
 *italic*  or _italic_
 **bold**   __bold__
 ```  
@@ -63,12 +66,15 @@ Synthax here
 **bold**   __bold__
 
 ---
-#### Headings
+
+#### Superscript
+
 ```superscript^2^ and subscript~2~```
 
 superscript^2^ and subscript~2~
 
 ---
+
 #### Headings
   
 <o>Code</o>
@@ -92,21 +98,17 @@ superscript^2^ and subscript~2~
   
 #### Heading 4
   
-  
 ##### Heading 5
-  
   
 ###### Heading 6
   
-  
 ---  
-
 #### Lists
   
 <o>Code</o>
   
-```
-*   Bulleted list item 1
+```Markdown
+*   Item 1
 *   Item 2
   * Item 2a
   * Item 2b
@@ -115,31 +117,33 @@ superscript^2^ and subscript~2~
 
 <o>Output</o>
 
-*   Bulleted list item 1
-*   Item 2
+* Item 1
+* Item 2
   * Item 2a
   * Item 2b
-  
+
+Numbered list, The numbers are incremented automatically in the output.
+
 <o>Code</o>
   
-```
-1.  Numbered list item 1
+```Markdown
+1.  Item 1
 
-1.  Item 2. The numbers are incremented automatically in the output.
+1.  Item 2.
 ```
 
 <o>Output</o>
 
-1.  Numbered list item 1
+1. Item 1
 
-1.  Item 2. The numbers are incremented automatically in the output.
+1. Item 2.
 
-
-Tables 
+---
+#### Tables 
   
 <o>Code</o>
   
-```
+```Markdown
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell
@@ -157,7 +161,7 @@ Content Cell  | Content Cell
   
 Here's a another table:
   
-```
+```Markdown
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
 | Five | Six | Four |
@@ -175,12 +179,12 @@ Here's a another table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
-
+---
 #### Links
   
   <o>Code</o>
   
-```
+```Markdown
 <http://NestQuest.net>
 
 [Vist My Web Site](http://NestQuest.net)
@@ -194,34 +198,31 @@ Here's a another table:
 
 ![optional caption text](assets/img/md.png)
 
-
 #### Images
 
 Left Image?
 
 <o>Code</o>
   
-```
+```Markdown
 ![Data Science](https://nestquest.net/assets/img/DS.png){width=4in}
 ```
 
 ![Data Science](https://nestquest.net/assets/img/DS.png){width=4in}
-
 
 It can also be centered!
 
-###### <o>Code</o>
+<o>Code</o>
 
 ![Data Science](./assets/img/DS.png){width=4in}{: .mx-auto.d-block :}
-
 
 There are two ways to format code in Markdown. You can either use inline code, by putting backticks (`) around parts of a line, or you can use a code block, which some renderers will apply syntax highlighting to.
 
 Here's a Code chunk:
 
-###### <o>Code</o>
+<o>Code</o>
 
-~~~
+~~~Markdown
 var foo = function(x) {
   return(x + 5);
 }
@@ -230,7 +231,7 @@ foo(3)
 
 And here is the same Code with syntax highlighting:
 
-###### <o>Code</o>
+<o>Code</o>
 
 ```javascript
 var foo = function(x) {
@@ -255,36 +256,36 @@ You can add notification, warning and error boxes like this:
 
 ##### Notification
 
-###### <o>Code</o>
+<o>Code</o>
 
-~~~
+```Markdown
 {: .box-note}
 **Note:** This is a notification box.
-~~~
+```
 
 {: .box-note}
 **Note:** This is a notification box.
 
 ##### Warning
 
-###### <o>Code</o>
+<o>Code</o>
 
-~~~
+```Markdown
 {: .box-warning}
 **Warning:** This is a warning box.
-~~~
+```
 
 {: .box-warning}
 **Warning:** This is a warning box.
 
 ##### Error
 
-###### <o>Code</o>
+<o>Code</o>
 
-~~~
+```Markdown
 {: .box-error}
 **Error:** This is an error box.
-~~~
+```
 
 {: .box-error}
 **Error:** This is an error box.
