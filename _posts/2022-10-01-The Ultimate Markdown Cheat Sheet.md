@@ -147,7 +147,7 @@ It can also be centered!
 
 ###### <b>Code</b>
 
-![Data Science](https://nestquest.net/assets/img/DS.png){: .mx-auto.d-block :}{width=4in}
+![Data Science](./assets/img/DS.png){width=4in}{: .mx-auto.d-block :}
 
 
 There are two ways to format code in Markdown. You can either use inline code, by putting backticks (`) around parts of a line, or you can use a code block, which some renderers will apply syntax highlighting to.
