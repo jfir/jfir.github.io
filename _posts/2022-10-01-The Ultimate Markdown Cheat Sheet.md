@@ -188,8 +188,6 @@ Here's a another table:
 <http://NestQuest.net>
 
 [Vist My Web Site](http://NestQuest.net)
-
-![Internal Link](../assets/img/md.png)
 ```
 
 <o>Output</o>
@@ -197,8 +195,6 @@ Here's a another table:
 <http://NestQuest.net>
 
 [Vist My Web Site](http://NestQuest.net)
-
-![Internal Link](../assets/img/md.png)
 
 #### Images
 
@@ -225,6 +221,13 @@ It can also be centered!
 <o>Output</o>
 
 ![Data Science](./assets/img/DS.png){width=4in}{: .mx-auto.d-block :}
+
+```
+![Internal Link](../assets/img/md.png)
+```
+
+![Internal Link](../assets/img/md.png)
+
 
 There are two ways to format code in Markdown. You can either use inline code, by putting backticks (`) around parts of a line, or you can use a code block, which some renderers will apply syntax highlighting to.
 
