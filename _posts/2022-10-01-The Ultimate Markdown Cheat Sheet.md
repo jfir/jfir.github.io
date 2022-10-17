@@ -291,7 +291,7 @@ foo(3)
 
 You can add notification, warning and error boxes like this:
 
-##### Notification
+###### Notification
 
 <o>Code</o>
 
@@ -305,7 +305,7 @@ You can add notification, warning and error boxes like this:
 {: .box-note}
 **Note:** This is a notification box.
 
-##### Warning
+###### Warning
 
 <o>Code</o>
 
@@ -319,7 +319,7 @@ You can add notification, warning and error boxes like this:
 {: .box-warning}
 **Warning:** This is a warning box.
 
-##### Error
+###### Error
 
 <o>Code</o>
 
