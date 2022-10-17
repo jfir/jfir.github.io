@@ -341,7 +341,7 @@ Here's an example of a Python Code Block:
   
 <o>Syntax</o>
   
-```text
+~~~text
 
 ```codetype
 var foo = function(x) {
@@ -350,7 +350,7 @@ var foo = function(x) {
 foo(3)
 ```
 
-```
+~~~
   
 <o>Output</o>
   
@@ -366,12 +366,14 @@ And here is the same Syntax with syntax highlighting:
 <o>Syntax</o>
   
 ```text
+
 ```javascript
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
 ```
+
 ```
   
 <o>Output</o>
