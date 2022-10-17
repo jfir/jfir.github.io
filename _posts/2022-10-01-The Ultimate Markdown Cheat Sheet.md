@@ -183,9 +183,9 @@ Here's a another table:
 ```
 <http://NestQuest.net>
 
-[linked phrase](http://NestQuest.net)
+[Vist My Web Site](http://NestQuest.net)
 
-![optional caption text](assets/img/md.png)
+![Internal Link](../assets/img/md.png)
 ```
 
 <http://NestQuest.net>
