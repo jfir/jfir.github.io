@@ -112,12 +112,12 @@ Markdown provides backslash escapes for the following characters:
 <o>Syntax</o>
 
 ```text  
-\*literal asterisks\*
+\*How Markdown Is Powering Data Scientist\*
 ```
   
 <o>Output</o>
   
-\*literal asterisks\*
+\*How Markdown Is Powering Data Scientist\*
 
 ___
 
