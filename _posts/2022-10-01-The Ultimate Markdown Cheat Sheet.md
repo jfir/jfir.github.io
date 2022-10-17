@@ -38,31 +38,27 @@ ___
 
 A paragraph is one or more lines of text followed by one or more blank lines. If you need a hard line break, put two spaces at the end of a line or a backslash followed by a newline
 
----
+___
 
 #### Horizontal Lines
-  
+
+consistent "---", "***", or "___", or other string specify the horizontal line
+
 <o>Syntax</o>
   
 ```text
-Horizinal Line 1
----
-Horizinal Line 2
-***
-Horizinal Line 3
+___
+
 ___
 ```  
   
 <o>Output</o>
   
-Horizinal Line 1
--------
-Horizinal Line 2
-*******
-Horizinal Line 3
 ___
 
----
+___
+
+___
 
 #### Bold and Italics
   
@@ -78,7 +74,7 @@ ___
 *italic*  or _italic_  
 **bold**  or __bold__  
 
----
+___
 
 #### Superscript & Subscript
   
@@ -94,7 +90,7 @@ co<sub>2</sub>
 E=mc<sup>2</sup>  
 co<sub>2</sub>  
 
----
+___
 
 #### BACKSLASH ESCAPES
 
@@ -124,7 +120,7 @@ Markdown provides backslash escapes for the following characters:
   
 \*literal asterisks\*
 
----
+___
 
 #### Headings
   
@@ -144,7 +140,8 @@ Markdown provides backslash escapes for the following characters:
 ### Heading 3
 #### Heading 4
   
----  
+___
+
 #### Lists
   
 <o>Syntax</o>
@@ -179,7 +176,7 @@ Numbered list, The numbers are incremented automatically in the output.
 
 1. Item 2.
 
----
+___
 
 #### Links
   
@@ -196,6 +193,8 @@ Numbered list, The numbers are incremented automatically in the output.
 <http://NestQuest.net>
 
 [Vist My Web Site](http://NestQuest.net)
+
+___
 
 #### Images
 
@@ -243,7 +242,7 @@ It can also be centered!
 
 ![Internal Link](../assets/img/DS.png)
 
----
+___
 
 #### Boxes
 
@@ -291,7 +290,7 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 
----
+___
 
 #### Tables 
   
@@ -333,7 +332,7 @@ Here's a another table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
----
+___
 
 #### Codes 
 
@@ -394,7 +393,7 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
----
+___
 
 #### Math
   
