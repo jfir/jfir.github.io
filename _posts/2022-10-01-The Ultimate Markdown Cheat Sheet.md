@@ -37,20 +37,10 @@ We can create a file with different extensions for markdown files
 #### Paragraphs
 
 A paragraph is one or more lines of text followed by one or more blank lines. If you need a hard line break, put two spaces at the end of a line or a backslash followed by a newline
-  
-<o>Syntax</o>
-  
-```text
-text here  
-```  
-  
-<o>Output</o>
-  
-Synthax here  
 
 ---
 
-#### Horizontal rules
+#### Horizontal Lines
   
 <o>Syntax</o>
   
