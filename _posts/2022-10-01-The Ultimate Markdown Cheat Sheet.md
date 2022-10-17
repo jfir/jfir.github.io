@@ -17,21 +17,22 @@ b { color: Blue }
 <!--- -------Introduction-------- --->
 Markdown is a way of writing rich-text content for the web using Plaintext formatting syntax. Plaintext is just the regular alphabet, with a few familiar symbols, like asterisks ( * ) and backticks ( ` ). Formatting text in Markdown has a very gentle learning curve. It doesn’t do anything fancy like change the font size, color, or type. All you have control over is the display of the text—stuff like making things bold, creating headers, and organizing lists. In this post, you’ll learn all the Markdown’s major commands that will help you create an awesome GitHub README or web page.
 
-Paragraphs
+### Paragraphs
+_ _ _ _
 
-________________________________________
 
+### Horizontal rules
+_ _ _ _
 
-Bold and Italics
-
-________________________________________
+### Bold and Italics
+_ _ _ _
 
 ###### <b>Code</b>
 
 ```
 *italic*  or _italic_
 **bold**   __bold__
-`code`
+
 superscript^2^ and subscript~2~
 ```
 
