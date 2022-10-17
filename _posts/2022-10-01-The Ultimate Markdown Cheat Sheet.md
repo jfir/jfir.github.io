@@ -333,21 +333,23 @@ Here's a another table:
 
 ___
 
-#### Codes 
+#### Codes Blocks & Inline Code
 
 There are two ways to format code in Markdown. You can either use inline code, by putting backticks (`) around parts of a line, or you can use a code block, which some renderers will apply syntax highlighting to.
 
-Here's a Code chunk:
+Here's an example of a Python Code Block:
   
 <o>Syntax</o>
   
 ```text
-~~~python
+
+```codetype
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
-~~~
+```
+
 ```
   
 <o>Output</o>
