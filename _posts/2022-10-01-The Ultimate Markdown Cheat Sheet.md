@@ -45,12 +45,22 @@ A paragraph is one or more lines of text followed by one or more blank lines. If
 <o>Syntax</o>
   
 ```text
-text here  
+Horizinal Line 1
+---
+Horizinal Line 2
+***
+Horizinal Line 3
+___
 ```  
   
 <o>Output</o>
   
-Synthax here  
+Horizinal Line 1
+-------
+Horizinal Line 2
+*******
+Horizinal Line 3
+___
 
 ---
 
