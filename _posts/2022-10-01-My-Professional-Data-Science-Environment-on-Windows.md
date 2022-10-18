@@ -3,8 +3,8 @@ layout: post
 categories: [ blog]
 title: My Professional Data-Science Environment on Windows
 subtitle: Setting Up Your Data Science Environment.
-image: assets/img/My Environment Post.png
-thumbnail-img: assets/img/My Environment Post.png
+image: assets/img/My Environment.png
+thumbnail-img: assets/img/My Environment.png
 #cover-img: ["assets/img/aws.png" : "Caption of image", "assets/img/aws.png" : "Caption of image"]
 tags: [VS Code, Markdown, Python, R, Data Science]
 ---
