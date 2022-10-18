@@ -3,8 +3,8 @@ layout: post
 categories: [ blog]
 title: My Professional Data-Science Environment on Windows
 subtitle: Setting Up Your Data Science Environment.
-image: assets/img/DS.png
-thumbnail-img: assets/img/DS.png
+image: assets/img/My Environment Post.png
+thumbnail-img: assets/img/My Environment Post.png
 #cover-img: ["assets/img/aws.png" : "Caption of image", "assets/img/aws.png" : "Caption of image"]
 tags: [VS Code, Markdown, Python, R, Data Science]
 ---
@@ -19,12 +19,9 @@ Markdown is a way of writing rich-text content for the web using Plaintext forma
 
 1. Video Tutorial
 2. Code editor: VS Code (Visual Studio Code)
-3. Programming language: Python
+3. Programming language: Python & R
 4. Virtual environment: miniconda
 5. Version control: git and GitHub
 6. Code notebooks: Jupyter notebooks
 7. The terminal: zsh
 8. Project organization: Cookiecutter Data Science 
-
-
-  
