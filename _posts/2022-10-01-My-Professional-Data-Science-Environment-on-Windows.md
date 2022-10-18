@@ -6,7 +6,7 @@ subtitle: Setting Up Your Data Science Environment.
 image: assets/img/My Environment.png
 thumbnail-img: assets/img/My Environment.png
 #cover-img: ["assets/img/aws.png" : "Caption of image", "assets/img/aws.png" : "Caption of image"]
-tags: [VS Code, Markdown, Python, R, Data Science]
+tags: [VS Code, Markdown, Python, R, MiniConda]
 ---
 <style>
 r { color: Red }
