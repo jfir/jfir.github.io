@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: [ blog]
-title: My Professional Data-Science Environment on Windows
-subtitle: Setting Up Your Data Science Environment.
+title: My Professional Data-Science Environment
+subtitle: Setting Up Your Data Science Environment Step by Step.
 image: assets/img/My-Environment.png
 thumbnail-img: assets/img/My-Environment.png
 #cover-img: ["assets/img/My_Environment_Post.png" : "Caption of image", "assets/img/My_Environment_Post.png" : "Caption of image"]
