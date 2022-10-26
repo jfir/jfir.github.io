@@ -43,11 +43,6 @@ I love to travel and explore different cultures.
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Publications
 {: #puzzle}
 
-
-
-
-
-
 `A Naked Diatomic Molecule of Bismuth, [Bi2]2-, with a Short Bi-Bi Bond: Synthesis and Structure`
 
 `Computational Studies of Molecular Electronic Devices`
@@ -58,20 +53,12 @@ I love to travel and explore different cultures.
 
 `Coordination chemistry of manganese-salen complexes studied by electrospray tandem mass spectrometry: The significance of axial ligands`
 
-`Metal–metal closed-shell interaction in M2X2 Cu; Br, I) and related compounds [Ag2Br2](PH3)3 and [Cu2Cl2](PH3)2: an RHF, MP2 and DFT study`
-
-`A Naked Diatomic Molecule of Bismuth,[Bi2] 2-, with a Short Bi-Bi Bond: Synthesis and Structure`
-
-`Theoretical Studies of Ag−Ag Closed-Shell Interaction in the Silver(I) Dimer Bis-μ-(5,7-dimethyl[1,2,4]triazolo[1,5-a]pyrimidine) Dinitrato Disilver(I): A RHF and Density Functional Study`
-
-`Electronic structure of π-allyl-Pd(II) chloride dimer and Pd2X4 (X = Cl,Br,I) model systems: A RHF and density functional theory study`
-
 **J. El-Bahraoui**, J.A. Dobado, J. Molina  
 "Metal-Metal Closed-Shell Interaction in M2X2 ( M = Ag, Cu; X = Cl, Br, I ) and Related Compounds [Ag2Br2](PH3)3 and [Cu2Cl2](PH3)2 . An RHF, MP2 and DFT Study."  
 Journal of Molecular Structure: THEOCHEM, 493, 249-257, (1999).  
 
 **J. Elbahraoui**, J. Molina, D. Portal.  
-"Electronic Structure of Pi-Allyl-Pd(II)Chloride Dimer and Pd2X4 (X=Cl,Br,I) Model Systems: A RHF and Density Functional Theory Study"  
+"Electronic structure of π-allyl-Pd(II) chloride dimer and Pd2X4 (X = Cl,Br,I) model systems: A RHF and density functional theory study"  
 Journal of Molecular Structure: THEOCHEM, 426, 207-215, (1998).
 
 **J. Elbahraoui**, J. Molina, D. Portal.  
