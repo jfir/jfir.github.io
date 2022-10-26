@@ -45,23 +45,23 @@ I love to travel and explore different cultures.
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> My Experience
 {: #puzzle}
 
-JPMORGAN CHASE, (Chicago IL, 2013 – PRESENT)  
-Senior Data Analytics Analyst, Global Payments’ Operation
+**JPMORGAN CHASE**, (Chicago IL, 2013 – PRESENT)  
+Senior Data Analytics Analyst, *Global Payments’ Operation*
 
-JPMORGAN CHASE, (Elgin IL, 2009 – 2013)  
-Senior Data Analytics Analyst, Treasury Services Operations Fraud/AML/CIP/KYC.
+**JPMORGAN CHASE**, (Elgin IL, 2009 – 2013)  
+Senior Data Analytics Analyst, *Treasury Services Operations Fraud/AML/CIP/KYC*.
 
-NEST QUEST, (SCHAUMBURG IL, 2002 – 2009)  
+**NEST QUEST**, (SCHAUMBURG IL, 2002 – 2009)  
 Operations Analyst,Compliance, Risk
 
-SCIO’S INC, (SUNNYVALE CA, 2001 – 2002)  
-Research Analyst (Biotechnology Modeling)
+**SCIO’S INC**, (SUNNYVALE CA, 2001 – 2002)  
+Research Analyst (*Biotechnology Modeling*)
 
-NOTRE DAME UNIVERSITY, (SOUTH BEND IN, 1998 – 2001)  
-Research Analyst (Biotechnology Modeling)
+**NOTRE DAME UNIVERSITY**, (SOUTH BEND IN, 1998 – 2001)  
+Research Analyst (*Biotechnology Modeling*)
 
-University of Helsinki, (Helsinki,Finland, 1998 - 1998)  
-Research Analyst (Biotechnology Modeling)
+**University of Helsinki**, (Helsinki,Finland, 1998 - 1998)  
+Research Analyst (*Biotechnology Modeling*)
 
 
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Publications
