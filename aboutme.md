@@ -44,9 +44,6 @@ I love to travel and explore different cultures.
 {: #puzzle}
 
 
-M.A. Romero, J.M. Salas, M. Quiros, M.P. Sanchez, J. Molina, **J. Elbahraoui**, R. Faure.  
-"Structural and ab initio studies of Ag-Ag bonding in the silver(I) dimer bis-μ-(5,7-Dimethyl(1,2,4)Triazolo[1,5-a]Pyrimidine)dinitrato disilver(I)"  
-Journal of Molecular Structure, 354, 189-195, (1995).
 
 
 ` J.A.R. Navarro, M.A. Romero, J.M. Salas, M. Quiros, J. Elbahraoui, J. Molina.
@@ -83,6 +80,10 @@ Journal of Molecular Structure: THEOCHEM, 493, 249-257, (1999).`
 `Theoretical Studies of Ag−Ag Closed-Shell Interaction in the Silver(I) Dimer Bis-μ-(5,7-dimethyl[1,2,4]triazolo[1,5-a]pyrimidine) Dinitrato Disilver(I): A RHF and Density Functional Study`
 
 `Electronic structure of π-allyl-Pd(II) chloride dimer and Pd2X4 (X = Cl,Br,I) model systems: A RHF and density functional theory study`
+
+M.A. Romero, J.M. Salas, M. Quiros, M.P. Sanchez, J. Molina, **J. Elbahraoui**, R. Faure.  
+"Structural and ab initio studies of Ag-Ag bonding in the silver(I) dimer bis-μ-(5,7-Dimethyl(1,2,4)Triazolo[1,5-a]Pyrimidine)dinitrato disilver(I)"  
+Journal of Molecular Structure, 354, 189-195, (1995).  
 
 Estudio teórico de la interacción metal-metal en complejos polinúcleares de metales de transición con posible interés biológico
 Autores: Jaouad El Bahraoui
