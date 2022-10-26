@@ -46,21 +46,6 @@ I love to travel and explore different cultures.
 
 
 
-` J.A.R. Navarro, M.A. Romero, J.M. Salas, M. Quiros, J. Elbahraoui, J. Molina.
-"Binuclear Platinum(II) Triazolopyrimidine Bridged Complexes -Preparation, Crystal-Structure, NMR-Spectroscopy, and Ab-Initio MO Investigation on the Bonding Nature of the Pt(II)···Pt(II) Interaction in the Model-Compound Pt2(NHCHN(C(CH2)(CH3))4"
-Inorganic Chemistry, 35, 7829-7835, (1996).`
-
-`J. Elbahraoui, J. Molina, D. Portal.
-"Theoretical studies of Ag-Ag closed-shell interaction in the silver(I) dimer bis-mu(5,7-dimethyl[1,2,4]triazolo[1,5-a] pyrimidine) dinitrato disilver(I): a RHF and density functional study"
-Journal of Physical Chemistry A, 102, 2443-2448, (1998).`
-
-`J. Elbahraoui, J. Molina, D. Portal.
-"Electronic Structure of Pi-Allyl-Pd(II)Chloride Dimer and Pd2X4 (X=Cl,Br,I) Model Systems: A RHF and Density Functional Theory Study"
-Journal of Molecular Structure: THEOCHEM, 426, 207-215, (1998).`
-
-`J. El-Bahraoui, J.A. Dobado, J. Molina
-"Metal-Metal Closed-Shell Interaction in M2X2 ( M = Ag, Cu; X = Cl, Br, I ) and Related Compounds [Ag2Br2](PH3)3 and [Cu2Cl2](PH3)2 . An RHF, MP2 and DFT Study ."
-Journal of Molecular Structure: THEOCHEM, 493, 249-257, (1999).`
 
 
 `A Naked Diatomic Molecule of Bismuth, [Bi2]2-, with a Short Bi-Bi Bond: Synthesis and Structure`
@@ -81,21 +66,22 @@ Journal of Molecular Structure: THEOCHEM, 493, 249-257, (1999).`
 
 `Electronic structure of π-allyl-Pd(II) chloride dimer and Pd2X4 (X = Cl,Br,I) model systems: A RHF and density functional theory study`
 
+**J. El-Bahraoui**, J.A. Dobado, J. Molina  
+"Metal-Metal Closed-Shell Interaction in M2X2 ( M = Ag, Cu; X = Cl, Br, I ) and Related Compounds [Ag2Br2](PH3)3 and [Cu2Cl2](PH3)2 . An RHF, MP2 and DFT Study."  
+Journal of Molecular Structure: THEOCHEM, 493, 249-257, (1999).  
+
+**J. Elbahraoui**, J. Molina, D. Portal.  
+"Electronic Structure of Pi-Allyl-Pd(II)Chloride Dimer and Pd2X4 (X=Cl,Br,I) Model Systems: A RHF and Density Functional Theory Study"  
+Journal of Molecular Structure: THEOCHEM, 426, 207-215, (1998).
+
+**J. Elbahraoui**, J. Molina, D. Portal.  
+"Theoretical studies of Ag-Ag closed-shell interaction in the silver(I) dimer bis-mu(5,7-dimethyl[1,2,4]triazolo[1,5-a] pyrimidine) dinitrato disilver(I): a RHF and density functional study"  
+Journal of Physical Chemistry A, 102, 2443-2448, (1998).  
+
+J.A.R. Navarro, M.A. Romero, J.M. Salas, M. Quiros, **J. Elbahraoui**, J. Molina.  
+"Binuclear Platinum(II) Triazolopyrimidine Bridged Complexes -Preparation, Crystal-Structure, NMR-Spectroscopy, and Ab-Initio MO Investigation on the Bonding Nature of the Pt(II)···Pt(II) Interaction in the Model-Compound Pt2(NHCHN(C(CH2)(CH3))4"  
+Inorganic Chemistry, 35, 7829-7835, (1996).  
+
 M.A. Romero, J.M. Salas, M. Quiros, M.P. Sanchez, J. Molina, **J. Elbahraoui**, R. Faure.  
 "Structural and ab initio studies of Ag-Ag bonding in the silver(I) dimer bis-μ-(5,7-Dimethyl(1,2,4)Triazolo[1,5-a]Pyrimidine)dinitrato disilver(I)"  
 Journal of Molecular Structure, 354, 189-195, (1995).  
-
-Estudio teórico de la interacción metal-metal en complejos polinúcleares de metales de transición con posible interés biológico
-Autores: Jaouad El Bahraoui
-Directores de la Tesis: José Molina Molina (dir. tes.)
-Lectura: En la Universidad de Granada ( España ) en 1997
-Idioma: español
-Tribunal Calificador de la Tesis: Yves G. Smeyers (presid.), Dolores Portal Olea (secret.), Alfonso Hernández Laguna (voc.), María Angustias Romero Molina (voc.), Markku R. Sundberg (voc.)
-Materias:
-Física
-Química física
-Teoría cuántica
-Química
-Química inorgánica
-Compuestos de coordinación
-
