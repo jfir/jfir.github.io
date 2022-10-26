@@ -49,19 +49,19 @@ Sonja B. Braun-Sand, Olaf Wiest, and **Jaouad El-Bahraoui**
 Molecules as Components of Electronic Devices: Chapter 17, pp 230-242 (2003)  
 
 **Jaouad El-Bahraoui**, Olaf Wiest, Derek Feichtinger, & Dietmar Plattner.  
-*Rate Enhancement and Enantioselectivity of the Jacobsen-Katsuki Epoxidation: The Significance of the Sixth Coordination Site This work was made possible through generous allocation of computer resources by the OIT at Notre Dame, the National Computational Science Alliance and the Competence Center for Computational Chemistry at ETH Zürich*.  
+*Rate Enhancement and Enantioselectivity of the Jacobsen-Katsuki Epoxidation: The Significance of the Sixth Coordination Site.  
 Angewandte Chemie (International ed. in English). 40. 2073-2076. (2001)
 
 Li Xu, Svilen Bobev, **Jaouad El-Bahraoui**, and Slavi C. Sevov  
-*A Naked Diatomic Molecule of Bismuth, [Bi2]2-, with a Short Bi-Bi Bond: Synthesis and Structure*  
+[*A Naked Diatomic Molecule of Bismuth, [Bi2]2-, with a Short Bi-Bi Bond: Synthesis and Structure*](https://www.researchgate.net/publication/228509853_A_Naked_Diatomic_Molecule_of_BismuthBi2_2-_with_a_Short_Bi-Bi_Bond_Synthesis_and_Structure)  
 J. Am. Chem. Soc., 122, 8, 1838–1839 (2000)  
 
 Tuula Kuivalainen, **Jaouad El-Bahraoui**, Rolf Uggla, Risto Kostiainen, Markku Sundberg.  
-*Correlation of the 31 P NMR Chemical Shift with the Position of Bond Critical Points in Some Phosphorothionates.*  
+[*Correlation of the 31 P NMR Chemical Shift with the Position of Bond Critical Points in Some Phosphorothionates.*] () 
 Journal of The American Chemical Society. 122. 8073-8074. (2000)  
 
 Dietmar Plattner, Derek Feichtinger, **Jaouad El-Bahraoui**, Olaf Wiest.  
-*Coordination chemistry of manganese-salen complexes studied by electrospray tandem mass spectrometry: The significance of axial ligands.*  
+[*Coordination chemistry of manganese-salen complexes studied by electrospray tandem mass spectrometry: The significance of axial ligands.*] () 
 International Journal of Mass Spectrometry. 195. 351-362. (2000)  
 
 **J. El-Bahraoui**, J.A. Dobado, J. Molina  
