@@ -72,7 +72,7 @@ Sonja B. Braun-Sand, Olaf Wiest, and **Jaouad El-Bahraoui**
 *Molecules as Components of Electronic Devices: Chapter 17, pp 230-242. (2003)*
 
 **Jaouad El-Bahraoui**, Olaf Wiest, Derek Feichtinger, & Dietmar Plattner.  
-[*Rate Enhancement and Enantioselectivity of the Jacobsen-Katsuki Epoxidation: The Significance of the Sixth Coordination Site.](https://pubmed.ncbi.nlm.nih.gov/29712213/)  
+[Rate Enhancement and Enantioselectivity of the Jacobsen-Katsuki Epoxidation: The Significance of the Sixth Coordination Site.](https://pubmed.ncbi.nlm.nih.gov/29712213/)  
 *Angewandte Chemie (International ed. in English). 40. 2073-2076. (2001)*
 
 Li Xu, Svilen Bobev, **Jaouad El-Bahraoui**, and Slavi C. Sevov  
