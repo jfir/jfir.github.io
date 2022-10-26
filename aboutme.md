@@ -53,15 +53,15 @@ I love to travel and explore different cultures.
 
 Sonja B. Braun-Sand, Olaf Wiest, and **Jaouad El-Bahraoui**  
 [*Computational Studies of Molecular Electronic Devices*](https://pubs.acs.org/doi/abs/10.1021/bk-2003-0844.ch017)  
-<f>Molecules as Components of Electronic Devices: Chapter 17, pp 230-242 (2003)</f>  
+<f>Molecules as Components of Electronic Devices: Chapter 17, pp 230-242 (2003)</f>
 
 **Jaouad El-Bahraoui**, Olaf Wiest, Derek Feichtinger, & Dietmar Plattner.  
 *Rate Enhancement and Enantioselectivity of the Jacobsen-Katsuki Epoxidation: The Significance of the Sixth Coordination Site.  
-Angewandte Chemie (International ed. in English). 40. 2073-2076. (2001)
+<f>Angewandte Chemie (International ed. in English). 40. 2073-2076. (2001)</f>
 
 Li Xu, Svilen Bobev, **Jaouad El-Bahraoui**, and Slavi C. Sevov  
 [*A Naked Diatomic Molecule of Bismuth, [Bi2]2-, with a Short Bi-Bi Bond: Synthesis and Structure*](https://www.researchgate.net/publication/228509853_A_Naked_Diatomic_Molecule_of_BismuthBi2_2-_with_a_Short_Bi-Bi_Bond_Synthesis_and_Structure)  
-J. Am. Chem. Soc., 122, 8, 1838–1839 (2000)  
+<f>J. Am. Chem. Soc., 122, 8, 1838–1839 (2000)</f>
 
 Tuula Kuivalainen, **Jaouad El-Bahraoui**, Rolf Uggla, Risto Kostiainen, Markku Sundberg.  
 [*Correlation of the 31 P NMR Chemical Shift with the Position of Bond Critical Points in Some Phosphorothionates.*] () 
