@@ -13,7 +13,7 @@ r { color: Red }
 o { color: Orange }
 g { color: Green }
 b { color: Blue }
-t { font-size: 11pt }
+t { font-size: 11pt; }
 </style>
 
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> My story
