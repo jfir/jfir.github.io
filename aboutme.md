@@ -97,7 +97,7 @@ Dietmar Plattner, Derek Feichtinger, **Jaouad El-Bahraoui**, Olaf Wiest.
 
 **J. Elbahraoui**, J. Molina, D. Portal.  
 [Theoretical studies of Ag-Ag closed-shell interaction in the silver(I) dimer bis-mu(5,7-dimethyl[1,2,4]triazolo[1,5-a] pyrimidine) dinitrato disilver(I): a RHF and density functional study](https://pubs.acs.org/doi/pdf/10.1021/jp971389o)  
-Journal of Physical Chemistry A, 102, 2443-2448, (1998).  
+*Journal of Physical Chemistry A, 102, 2443-2448, (1998).*  
 
 J.A.R. Navarro, M.A. Romero, J.M. Salas, M. Quiros, **J. Elbahraoui**, J. Molina.  
 [Binuclear Platinum(II) Triazolopyrimidine Bridged Complexes -Preparation, Crystal-Structure, NMR-Spectroscopy, and Ab-Initio MO Investigation on the Bonding Nature of the Pt(II)···Pt(II) Interaction in the Model-Compound Pt2(NHCHN(C(CH2)(CH3))4](https://pubs.acs.org/doi/abs/10.1021/ic960496e)  
