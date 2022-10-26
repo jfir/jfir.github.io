@@ -43,32 +43,32 @@ I love to travel and explore different cultures.
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Publications
 {: #puzzle}
 
-`A Naked Diatomic Molecule of Bismuth, [Bi2]2-, with a Short Bi-Bi Bond: Synthesis and Structure`
+*A Naked Diatomic Molecule of Bismuth, [Bi2]2-, with a Short Bi-Bi Bond: Synthesis and Structure*  
 
-`Computational Studies of Molecular Electronic Devices`
+*Computational Studies of Molecular Electronic Devices*  
 
-`Rate Enhancement and Enantioselectivity of the Jacobsen-Katsuki Epoxidation: The Significance of the Sixth Coordination Site This work was made possible through generous allocation of computer resources by the OIT at Notre Dame, the National Computational Science Alliance and the Competence Center for Computational Chemistry at ETH Zürich.`
+*Rate Enhancement and Enantioselectivity of the Jacobsen-Katsuki Epoxidation: The Significance of the Sixth Coordination Site This work was made possible through generous allocation of computer resources by the OIT at Notre Dame, the National Computational Science Alliance and the Competence Center for Computational Chemistry at ETH Zürich.*  
 
-`Correlation of the 31 P NMR Chemical Shift with the Position of Bond Critical Points in Some Phosphorothionates`
+*Correlation of the 31 P NMR Chemical Shift with the Position of Bond Critical Points in Some Phosphorothionates*  
 
-`Coordination chemistry of manganese-salen complexes studied by electrospray tandem mass spectrometry: The significance of axial ligands`
+*Coordination chemistry of manganese-salen complexes studied by electrospray tandem mass spectrometry: The significance of axial ligands*  
 
 **J. El-Bahraoui**, J.A. Dobado, J. Molina  
-"Metal-Metal Closed-Shell Interaction in M2X2 ( M = Ag, Cu; X = Cl, Br, I ) and Related Compounds [Ag2Br2](PH3)3 and [Cu2Cl2](PH3)2 . An RHF, MP2 and DFT Study."  
+*"Metal-Metal Closed-Shell Interaction in M2X2 ( M = Ag, Cu; X = Cl, Br, I ) and Related Compounds [Ag2Br2](PH3)3 and [Cu2Cl2](PH3)2 . An RHF, MP2 and DFT Study."*  
 Journal of Molecular Structure: THEOCHEM, 493, 249-257, (1999).  
 
 **J. Elbahraoui**, J. Molina, D. Portal.  
-"Electronic structure of π-allyl-Pd(II) chloride dimer and Pd2X4 (X = Cl,Br,I) model systems: A RHF and density functional theory study"  
+*"Electronic structure of π-allyl-Pd(II) chloride dimer and Pd2X4 (X = Cl,Br,I) model systems: A RHF and density functional theory study"*  
 Journal of Molecular Structure: THEOCHEM, 426, 207-215, (1998).
 
 **J. Elbahraoui**, J. Molina, D. Portal.  
-"Theoretical studies of Ag-Ag closed-shell interaction in the silver(I) dimer bis-mu(5,7-dimethyl[1,2,4]triazolo[1,5-a] pyrimidine) dinitrato disilver(I): a RHF and density functional study"  
+*"Theoretical studies of Ag-Ag closed-shell interaction in the silver(I) dimer bis-mu(5,7-dimethyl[1,2,4]triazolo[1,5-a] pyrimidine) dinitrato disilver(I): a RHF and density functional study"*  
 Journal of Physical Chemistry A, 102, 2443-2448, (1998).  
 
 J.A.R. Navarro, M.A. Romero, J.M. Salas, M. Quiros, **J. Elbahraoui**, J. Molina.  
-"Binuclear Platinum(II) Triazolopyrimidine Bridged Complexes -Preparation, Crystal-Structure, NMR-Spectroscopy, and Ab-Initio MO Investigation on the Bonding Nature of the Pt(II)···Pt(II) Interaction in the Model-Compound Pt2(NHCHN(C(CH2)(CH3))4"  
+*"Binuclear Platinum(II) Triazolopyrimidine Bridged Complexes -Preparation, Crystal-Structure, NMR-Spectroscopy, and Ab-Initio MO Investigation on the Bonding Nature of the Pt(II)···Pt(II) Interaction in the Model-Compound Pt2(NHCHN(C(CH2)(CH3))4"*  
 Inorganic Chemistry, 35, 7829-7835, (1996).  
 
 M.A. Romero, J.M. Salas, M. Quiros, M.P. Sanchez, J. Molina, **J. Elbahraoui**, R. Faure.  
-"Structural and ab initio studies of Ag-Ag bonding in the silver(I) dimer bis-μ-(5,7-Dimethyl(1,2,4)Triazolo[1,5-a]Pyrimidine)dinitrato disilver(I)"  
+*"Structural and ab initio studies of Ag-Ag bonding in the silver(I) dimer bis-μ-(5,7-Dimethyl(1,2,4)Triazolo[1,5-a]Pyrimidine)dinitrato disilver(I)"*  
 Journal of Molecular Structure, 354, 189-195, (1995).  
