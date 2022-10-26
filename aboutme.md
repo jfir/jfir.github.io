@@ -8,6 +8,13 @@ thumbnail-img: assets/img/Avatar.jpeg
 show-avatar: true
 social-share: false
 ---
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+b { color: Blue }
+f { font-size: 9pt }
+</style>
 
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> My story
 {: #puzzle}
@@ -46,7 +53,7 @@ I love to travel and explore different cultures.
 
 Sonja B. Braun-Sand, Olaf Wiest, and **Jaouad El-Bahraoui**  
 [*Computational Studies of Molecular Electronic Devices*](https://pubs.acs.org/doi/abs/10.1021/bk-2003-0844.ch017)  
-Molecules as Components of Electronic Devices: Chapter 17, pp 230-242 (2003)  
+<f>Molecules as Components of Electronic Devices: Chapter 17, pp 230-242 (2003)</f>  
 
 **Jaouad El-Bahraoui**, Olaf Wiest, Derek Feichtinger, & Dietmar Plattner.  
 *Rate Enhancement and Enantioselectivity of the Jacobsen-Katsuki Epoxidation: The Significance of the Sixth Coordination Site.  
