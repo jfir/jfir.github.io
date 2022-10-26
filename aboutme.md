@@ -57,10 +57,10 @@ Operations Analyst,Compliance, Risk
 SCIO’S INC, (SUNNYVALE CA, 2001 – 2002)  
 Research Analyst (Biotechnology Modeling)
 
-NOTRE DAME UNIVERSITY, (SOUTH BEND IN, 1998 – 2001) 
+NOTRE DAME UNIVERSITY, (SOUTH BEND IN, 1998 – 2001)  
 Research Analyst (Biotechnology Modeling)
 
-University of Helsinki, (Helsinki,Finland, 1998 - 1998)
+University of Helsinki, (Helsinki,Finland, 1998 - 1998)  
 Research Analyst (Biotechnology Modeling)
 
 
