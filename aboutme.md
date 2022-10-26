@@ -1,7 +1,7 @@
 ---
 layout: page
 title: J. Bahraoui Ph.D, MBA, MIS.
-subtitle: Aspiring Data Scientist/Data Analyst with a passion for data quality, Analytics, governance, and Business Intelligence.
+subtitle: Aspiring Data Scientist with a passion for data quality, Analytics, governance, and Business Intelligence.
 tags: [personal, analysis, finance]
 #cover-img: "assets/img/DS.png"
 thumbnail-img: assets/img/Avatar.jpeg
