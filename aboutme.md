@@ -43,8 +43,9 @@ I love to travel and explore different cultures.
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Publications
 {: #puzzle}
 
-M.A. Romero, J.M. Salas, M. Quiros, M.P. Sanchez, J. Molina, *J. Elbahraoui*, R. Faure.
-"Structural and ab initio studies of Ag-Ag bonding in the silver(I) dimer bis-μ-(5,7-Dimethyl(1,2,4)Triazolo[1,5-a]Pyrimidine)dinitrato disilver(I)"
+
+M.A. Romero, J.M. Salas, M. Quiros, M.P. Sanchez, J. Molina, **J. Elbahraoui**, R. Faure.  
+"Structural and ab initio studies of Ag-Ag bonding in the silver(I) dimer bis-μ-(5,7-Dimethyl(1,2,4)Triazolo[1,5-a]Pyrimidine)dinitrato disilver(I)"  
 Journal of Molecular Structure, 354, 189-195, (1995).
 
 
