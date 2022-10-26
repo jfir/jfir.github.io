@@ -43,17 +43,26 @@ I love to travel and explore different cultures.
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> Publications
 {: #puzzle}
 
-*A Naked Diatomic Molecule of Bismuth, [Bi2]2-, with a Short Bi-Bi Bond: Synthesis and Structure*  
 
-Sonja B. Braun-Sand, Olaf Wiest, and **Jaouad El-Bahraoui**
+Sonja B. Braun-Sand, Olaf Wiest, and **Jaouad El-Bahraoui**  
 [*Computational Studies of Molecular Electronic Devices*](https://pubs.acs.org/doi/abs/10.1021/bk-2003-0844.ch017)  
-Molecules as Components of Electronic Devices: Chapter 17, pp 230-242
+Molecules as Components of Electronic Devices: Chapter 17, pp 230-242 (2003)  
 
-*Rate Enhancement and Enantioselectivity of the Jacobsen-Katsuki Epoxidation: The Significance of the Sixth Coordination Site This work was made possible through generous allocation of computer resources by the OIT at Notre Dame, the National Computational Science Alliance and the Competence Center for Computational Chemistry at ETH Zürich.*  
+**Jaouad El-Bahraoui**, Olaf Wiest, Derek Feichtinger, & Dietmar Plattner.  
+*Rate Enhancement and Enantioselectivity of the Jacobsen-Katsuki Epoxidation: The Significance of the Sixth Coordination Site This work was made possible through generous allocation of computer resources by the OIT at Notre Dame, the National Computational Science Alliance and the Competence Center for Computational Chemistry at ETH Zürich*.  
+Angewandte Chemie (International ed. in English). 40. 2073-2076. (2001)
 
-*Correlation of the 31 P NMR Chemical Shift with the Position of Bond Critical Points in Some Phosphorothionates*  
+Li Xu, Svilen Bobev, **Jaouad El-Bahraoui**, and Slavi C. Sevov  
+*A Naked Diatomic Molecule of Bismuth, [Bi2]2-, with a Short Bi-Bi Bond: Synthesis and Structure*  
+J. Am. Chem. Soc., 122, 8, 1838–1839 (2000)  
 
-*Coordination chemistry of manganese-salen complexes studied by electrospray tandem mass spectrometry: The significance of axial ligands*  
+Tuula Kuivalainen, **Jaouad El-Bahraoui**, Rolf Uggla, Risto Kostiainen, Markku Sundberg.  
+*Correlation of the 31 P NMR Chemical Shift with the Position of Bond Critical Points in Some Phosphorothionates.*  
+Journal of The American Chemical Society. 122. 8073-8074. (2000)  
+
+Dietmar Plattner, Derek Feichtinger, **Jaouad El-Bahraoui**, Olaf Wiest.  
+*Coordination chemistry of manganese-salen complexes studied by electrospray tandem mass spectrometry: The significance of axial ligands.*  
+International Journal of Mass Spectrometry. 195. 351-362. (2000)  
 
 **J. El-Bahraoui**, J.A. Dobado, J. Molina  
 *"Metal-Metal Closed-Shell Interaction in M2X2 ( M = Ag, Cu; X = Cl, Br, I ) and Related Compounds [Ag2Br2](PH3)3 and [Cu2Cl2](PH3)2 . An RHF, MP2 and DFT Study."*  
