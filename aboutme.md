@@ -45,7 +45,9 @@ I love to travel and explore different cultures.
 
 *A Naked Diatomic Molecule of Bismuth, [Bi2]2-, with a Short Bi-Bi Bond: Synthesis and Structure*  
 
-*Computational Studies of Molecular Electronic Devices*  
+Sonja B. Braun-Sand, Olaf Wiest, and **Jaouad El-Bahraoui**
+[*Computational Studies of Molecular Electronic Devices*](https://pubs.acs.org/doi/abs/10.1021/bk-2003-0844.ch017)  
+Molecules as Components of Electronic Devices: Chapter 17, pp 230-242
 
 *Rate Enhancement and Enantioselectivity of the Jacobsen-Katsuki Epoxidation: The Significance of the Sixth Coordination Site This work was made possible through generous allocation of computer resources by the OIT at Notre Dame, the National Computational Science Alliance and the Competence Center for Computational Chemistry at ETH Zürich.*  
 
