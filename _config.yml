@@ -17,7 +17,7 @@ author: J. Bahraoui
 ###############################################
 
 navbar-links:
-  Home: "https://NestQuest.net"
+  Home: "https://JaouadELBahraoui.com"
   Portfolio: "Portfolio"
   About Me: "aboutme"
 
@@ -88,7 +88,7 @@ edit_page_button: False
 navbar-var-length: false
  
 # The keywords to associate with your website, for SEO purposes
-keywords: "J. Bahraoui, AWS, Alteryx, Tableau, SQL, Python, R, QlikView, Access, VBA, Agile, JIRA, Statistical Analysis, AI, Machine Learning, Data Science, Data Analytics, BI, Business Inteligence, Data Visualization"
+keywords: "J. Bahraoui, AWS, Azure, Alteryx, Tableau, SQL, Python, R, QlikView, Access, VBA, Agile, JIRA, Statistical Analysis, AI, Machine Learning, Data Science, Data Analytics, BI, Business Inteligence, Data Visualization"
 
 ######################################
 # --- Colours / background image --- #

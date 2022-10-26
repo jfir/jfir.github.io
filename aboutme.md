@@ -2,7 +2,7 @@
 layout: page
 title: J. Bahraoui Ph.D, MBA, MIS.
 subtitle: Aspiring Data Scientist with a passion for data quality, Analytics, governance, and Business Intelligence.
-tags: [personal, analysis, finance]
+tags: [J. Bahraoui, AWS, Azure, Alteryx, Tableau, SQL, Python, R, QlikView, Access, VBA, Agile, JIRA, Statistical Analysis, AI, Machine Learning, Data Science, Data Analytics, BI, Business Inteligence, Data Visualization]
 #cover-img: "assets/img/DS.png"
 thumbnail-img: assets/img/Avatar.jpeg
 show-avatar: true
