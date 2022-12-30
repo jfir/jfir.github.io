@@ -1,3 +1,14 @@
+---
+layout: post
+categories: [ blog]
+title: Data Science SQL Interview Practice Questions
+subtitle: Practice the most common SQL questions which show up in Data Science & Data Analyst interviews!.
+image: assets/img/My_Environment.png
+thumbnail-img: assets/img/My_Environment.png
+#cover-img: ["assets/img/My_Environment_Post.png" : "Caption of image", "assets/img/My_Environment_Post.png" : "Caption of image"]
+tags: [SQL, Sqlite, VS Code, Markdown]
+---
+
 # SQL Practice Questions
 
 ## Customers, Orders, and OrderItems Tables
