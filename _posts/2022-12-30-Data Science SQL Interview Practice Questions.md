@@ -81,25 +81,26 @@ OrderItems:
 | 14      | 2         | 5        |
 | 15      | 2         | 6        |
 
-### SQL Practice Questions
+### SQL Script
 
-```sql
+```text
+{: .box-note}
 SELECT *
 FROM Customers
 WHERE Country = 'USA';
-
+```
 
 ### SQL Practice Questions
 
 1. How would you retrieve the top 10 customers by total purchases?
-    <details>
+<details>
         <summary>Click to view the answer</summary>
-
-            ```sql
+                    ```sql
                     SELECT *
                     FROM Customers
-                    WHERE Country = 'USA'; 
-    </details>
+                    WHERE Country = 'USA';
+                    ```
+</details>
 
 2. Write a query to find the average order value for each customer.
 
