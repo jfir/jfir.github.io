@@ -83,23 +83,23 @@ OrderItems:
 | 14      | 2         | 5        |
 | 15      | 2         | 6        |
 
-## SQL Script
+### SQL Script
 
 {: .box-warning}
 SELECT *
 FROM Customers
 WHERE Country = 'USA';
 
-## SQL Practice Questions
+### SQL Practice Questions
 
-### Q1: What is the capital of France?
+##### Q1: What is the capital of France?
 
 <details>
   <summary>A1:</summary>
   The capital of France is Paris.
 </details>
 
-### Q2: How many countries are there in the world?
+##### Q2: How many countries are there in the world?
 
 <details>
   <summary>A2:</summary>
