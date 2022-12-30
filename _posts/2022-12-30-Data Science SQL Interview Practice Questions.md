@@ -73,7 +73,7 @@ OrderItems:
 | 15      | 2         | 6        |
 
 
-```{=sql}
+```sql
 SELECT *
 FROM Customers
 WHERE Country = 'USA';
