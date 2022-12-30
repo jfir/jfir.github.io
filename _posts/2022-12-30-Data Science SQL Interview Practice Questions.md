@@ -95,11 +95,9 @@ WHERE Country = 'USA';
 1. How would you retrieve the top 10 customers by total purchases?
 <details>
         <summary>Click to view the answer</summary>
-                    ```sql
                     SELECT *
                     FROM Customers
                     WHERE Country = 'USA';
-                    ```
 </details>
 
 2. Write a query to find the average order value for each customer.
