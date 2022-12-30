@@ -93,7 +93,7 @@ WHERE Country = 'USA';
 ### SQL Practice Questions
 
 
-##### Q1: How would you retrieve the top 10 customers by total purchases?
+###### Q1: How would you retrieve the top 10 customers by total purchases?
 
 <details>
   <summary>A1:</summary>
@@ -102,7 +102,7 @@ WHERE Country = 'USA';
 
 '---'
 
-##### Q2: Write a query to find the average order value for each customer.
+###### Q2: Write a query to find the average order value for each customer.
 
 <details>
   <summary>A2:</summary>
@@ -111,7 +111,7 @@ WHERE Country = 'USA';
 
 '---'
 
-##### Q3: How would you find the customers who have placed more than 100 orders?
+###### Q3: How would you find the customers who have placed more than 100 orders?
 
 <details>
   <summary>A3:</summary>
