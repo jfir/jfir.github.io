@@ -120,51 +120,191 @@ WHERE Country = 'USA';
 
 ---
 
-##### Q4: Write a query to find the most popular products (by number of orders).
+###### Q4: Write a query to find the most popular products (by number of orders).
 
 <details>
   <summary>A4:</summary>
   SELECT * FROM Customers WHERE Country = 'USA';
 </details>
 
-'---'
+---
 
-4. Write a query to find the most popular products (by number of orders).
+###### Q5: Write a query to find the most popular products (by number of orders).
 
-5. How would you find the total number of orders for each product?
+<details>
+  <summary>A5:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
 
-6. Write a query to find the customers who have not placed an order in the last 6 months.
+---
 
-7. How would you find the customers who have placed orders in the last 6 months but not in the last 3 months?
+###### Q6: How would you find the total number of orders for each product?
 
-8. Write a query to find the total sales for each month.
+<details>
+  <summary>A6:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
 
-9. How would you find the products that have never been ordered?
+---
 
-10. Write a query to find the average order value for each product category.
+###### Q7: Write a query to find the customers who have not placed an order in the last 6 months.
 
-11. Write a query to find the customers who have placed orders in every month of the year.
+<details>
+  <summary>A7:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
 
-12. How would you find the total number of orders for each product category?
+---
 
-13. Write a query to find the customers who have placed orders with a total value greater than $1,000.
+###### Q8: How would you find the customers who have placed orders in the last 6 months but not in the last 3 months?
 
-14. How would you find the average order value for each customer, grouped by country?
+<details>
+  <summary>A8:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
 
-15. Write a query to find the top 5 customers by total purchases, grouped by country.
+---
 
-16. How would you find the products that have been ordered by at least 50 different customers?
+###### Q9: Write a query to find the total sales for each month.
 
-17. Write a query to find the average order value for each customer, for orders placed in the last 3 months.
+<details>
+  <summary>A9:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
 
-18. How would you find the total number of orders for each product, grouped by month?
+---
 
-19. Write a query to find the customers who have placed orders with a total value greater than $500, grouped by country.
+###### Q10: How would you find the products that have never been ordered?
 
-20. How would you find the average order value for each product, grouped by country?
+<details>
+  <summary>A10:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
 
-21. List the names of all customers who have placed an order.
+---
 
-22. List the names of all customers who have placed more than one order.
+###### Q11: Write a query to find the average order value for each product category.
 
-23. List the names of all customers who have placed an order in the USA.
+<details>
+  <summary>A11:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
+
+###### Q12: Write a query to find the customers who have placed orders in every month of the year.
+
+<details>
+  <summary>A12:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
+
+###### Q13: How would you find the total number of orders for each product category?
+
+<details>
+  <summary>A13:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
+
+###### Q14: Write a query to find the customers who have placed orders with a total value greater than $1,000.
+
+<details>
+  <summary>A14:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
+
+###### Q15: How would you find the average order value for each customer, grouped by country?
+
+<details>
+  <summary>A15:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
+
+###### Q16: Write a query to find the top 5 customers by total purchases, grouped by country.
+
+<details>
+  <summary>A16:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
+
+###### Q17: How would you find the products that have been ordered by at least 50 different customers?
+
+<details>
+  <summary>A17:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
+
+###### Q18: Write a query to find the average order value for each customer, for orders placed in the last 3 months.
+
+<details>
+  <summary>A18:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
+
+###### Q19: How would you find the total number of orders for each product, grouped by month?
+
+<details>
+  <summary>A19:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
+
+###### Q20: Write a query to find the customers who have placed orders with a total value greater than $500, grouped by country.
+
+<details>
+  <summary>A20:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
+
+###### Q21: How would you find the average order value for each product, grouped by country?
+
+<details>
+  <summary>A21:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
+
+###### Q22: List the names of all customers who have placed an order.
+
+<details>
+  <summary>A22:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
+
+###### Q23: List the names of all customers who have placed more than one order.
+
+<details>
+  <summary>A23:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
+
+###### Q24: List the names of all customers who have placed an order in the USA.
+
+<details>
+  <summary>A24:</summary>
+  SELECT * FROM Customers WHERE Country = 'USA';
+</details>
+
+---
