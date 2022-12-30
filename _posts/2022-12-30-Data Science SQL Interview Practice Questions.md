@@ -83,12 +83,11 @@ OrderItems:
 
 ### SQL Script
 
-```text
 {: .box-note}
 SELECT *
 FROM Customers
 WHERE Country = 'USA';
-```
+
 
 ### SQL Practice Questions
 
