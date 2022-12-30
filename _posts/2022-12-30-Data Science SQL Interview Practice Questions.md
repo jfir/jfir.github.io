@@ -95,7 +95,7 @@ WHERE Country = 'USA';
     <details>
         <summary>Click to view the answer</summary>
 
-            ```{sql}
+            ```sql
                     SELECT *
                     FROM Customers
                     WHERE Country = 'USA'; 
