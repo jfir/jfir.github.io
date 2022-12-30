@@ -9,11 +9,21 @@ thumbnail-img: assets/img/My_Environment.png
 tags: [SQL, Sqlite, VS Code, Markdown]
 ---
 
-# SQL Practice Questions
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+b { color: Blue }
+</style>
+
+<!--- -------Introduction-------- --->
+As a data scientist, you will often be asked to demonstrate your SQL skills in interviews. This is because SQL is a critical tool for accessing, manipulating, and analyzing data in many data science projects. To prepare for a data science interview, it is important to practice your SQL skills and be able to answer a range of questions on different topics.
+
+In this article, we will provide a selection of data science SQL interview practice questions, along with sample data and solutions. These questions are designed to help you prepare for a data science interview and get a better understanding of how to use SQL in a data science context. We will cover a range of topics, including data manipulation, data analysis, and SQL optimization.
+
+Use the following tables to practice writing SQL queries.  
 
 ## Customers, Orders, and OrderItems Tables
-
-Use the following tables to practice writing SQL queries:
 
 Customers:
 
@@ -79,18 +89,18 @@ FROM Customers
 WHERE Country = 'USA';
 ```
 
-### Questions
+### SQL Practice Questions
 
 1. How would you retrieve the top 10 customers by total purchases?
-<details>
-  <summary>Click to view the answer</summary>
+    <details>
+        <summary>Click to view the answer</summary>
 
-  ```{sql}
-        SELECT *
-        FROM Customers
-        WHERE Country = 'USA'; 
-  ```
-</details>
+            ```{sql}
+                    SELECT *
+                    FROM Customers
+                    WHERE Country = 'USA'; 
+            ```
+    </details>
 
 2. Write a query to find the average order value for each customer.
 
