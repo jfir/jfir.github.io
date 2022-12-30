@@ -9,29 +9,6 @@ thumbnail-img: assets/img/My_Environment.png
 tags: [SQL, Sqlite, VS Code, Markdown]
 ---
 <style>
-  .code-box {
-    background-color: #f5f5f5;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    margin: 16px 0;
-    padding: 16px;
-  }
-
-  .code-box .copy-button {
-    background-color: #3498db;
-    border: none;
-    border-radius: 4px;
-    color: white;
-    cursor: pointer;
-    display: inline-block;
-    font-size: 14px;
-    font-weight: bold;
-    padding: 8px 16px;
-  }
-
-  .code-box .copy-button:hover {
-    background-color: #2980b9;
-  }
 
 r { color: Red }
 o { color: Orange }
@@ -39,18 +16,6 @@ g { color: Green }
 b { color: Blue }
 
 </style>
-
-<script>
-  function copyCode() {
-    const codeElement = document.querySelector('.code-box code');
-    const range = document.createRange();
-    range.selectNode(codeElement);
-    window.getSelection().removeAllRanges();
-    window.getSelection().addRange(range);
-    document.execCommand('copy');
-    window.getSelection().removeAllRanges();
-  }
-</script>
 
 <!--- -------Introduction-------- --->
 As a data scientist, you will often be asked to demonstrate your SQL skills in interviews. This is because SQL is a critical tool for accessing, manipulating, and analyzing data in many data science projects. To prepare for a data science interview, it is important to practice your SQL skills and be able to answer a range of questions on different topics.
@@ -120,26 +85,18 @@ OrderItems:
 
 ### SQL Script
 
-<div class="code-box">
-<pre><code>
+{: .box-warning}
 SELECT *
 FROM Customers
 WHERE Country = 'USA';
-</code></pre>
-  <button class="copy-button" onclick="copyCode()">Copy Code</button>
-</div>
 
 ### SQL Practice Questions
 
 1. How would you retrieve the top 10 customers by total purchases?  
 
 <details>
-
 <summary>Click to view the answer</summary>
-
-{: .box-warning}
 SELECT * FROM Customers WHERE Country = 'USA';
-
 </details>
 
 2. Write a query to find the average order value for each customer.
