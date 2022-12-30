@@ -81,6 +81,10 @@ WHERE Country = 'USA';
 ### Questions
 
 1. How would you retrieve the top 10 customers by total purchases?
+<details>
+  <summary>Click to view the answer</summary>
+  This is the answer to the question. It will be hidden until the summary is clicked.
+</details>
 
 2. Write a query to find the average order value for each customer.
 
