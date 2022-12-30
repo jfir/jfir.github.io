@@ -94,11 +94,11 @@ WHERE Country = 'USA';
 1. How would you retrieve the top 10 customers by total purchases?  
 
 <details>
-        <summary>Click to view the answer</summary>
-        {: .box-warning}
-        SELECT *
-        FROM Customers
-        WHERE Country = 'USA';
+
+<summary>Click to view the answer</summary>
+
+{: .box-warning}
+SELECT * FROM Customers WHERE Country = 'USA';
 
 </details>
 
