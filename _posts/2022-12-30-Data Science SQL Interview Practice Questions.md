@@ -100,7 +100,7 @@ WHERE Country = 'USA';
   SELECT * FROM Customers WHERE Country = 'USA';
 </details>
 
-'---'
+---
 
 ###### Q2: Write a query to find the average order value for each customer.
 
@@ -109,7 +109,7 @@ WHERE Country = 'USA';
   SELECT * FROM Customers WHERE Country = 'USA';
 </details>
 
-'---'
+---
 
 ###### Q3: How would you find the customers who have placed more than 100 orders?
 
@@ -118,7 +118,7 @@ WHERE Country = 'USA';
   SELECT * FROM Customers WHERE Country = 'USA';
 </details>
 
-'---'
+---
 
 ##### Q4: Write a query to find the most popular products (by number of orders).
 
