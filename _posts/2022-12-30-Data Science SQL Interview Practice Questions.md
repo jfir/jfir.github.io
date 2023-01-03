@@ -20,7 +20,7 @@ b { color: Blue }
 <!--- -------Introduction-------- --->
 As a data scientist, you will often be asked to demonstrate your SQL skills in interviews. This is because SQL is a critical tool for accessing, manipulating, and analyzing data in many data science projects. To prepare for a data science interview, it is important to practice your SQL skills and be able to answer a range of questions on different topics.
 
-In this article, we will provide a selection of data science SQL interview practice questions, along with sample data and solutions. These questions are designed to help you prepare for a data science interview and get a better understanding of how to use SQL in a data science context. We will cover a range of topics, including data manipulation, data analysis, and SQL optimization.
+In this article, I will provide a selection of data science SQL interview practice questions, along with sample data and solutions. These questions are designed to help you prepare for a data science interview and get a better understanding of how to use SQL in a data science context. We will cover a range of topics, including data manipulation, data analysis, and SQL optimization.
 
 Use the following tables to practice writing SQL queries.  
 
