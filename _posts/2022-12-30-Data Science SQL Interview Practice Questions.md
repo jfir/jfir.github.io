@@ -2,9 +2,9 @@
 layout: post
 categories: [ blog]
 title: Data Science SQL Interview Practice Questions
-subtitle: Practice the most common SQL questions which show up in Data Science & Data Analyst interviews!.
-image: assets/img/My_Environment.png
-thumbnail-img: assets/img/My_Environment.png
+subtitle: Practice the most common SQL questions in Data Science & Data Analytics interviews!.
+image: assets/img/sql.png
+thumbnail-img: assets/img/sql.png
 #cover-img: ["assets/img/My_Environment_Post.png" : "Caption of image", "assets/img/My_Environment_Post.png" : "Caption of image"]
 tags: [SQL, Sqlite, VS Code, Markdown]
 ---
@@ -91,7 +91,6 @@ FROM Customers
 WHERE Country = 'USA';
 
 ### SQL Practice Questions
-
 
 ###### Q1: How would you retrieve the top 10 customers by total purchases?
 
