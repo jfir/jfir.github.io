@@ -39,7 +39,7 @@ Customers:
 
 Orders:
 
-| OrderID | CustomerID | OrderDate | TotalValue |
+| OrderID | CustomerID | OrderDate  | TotalValue |
 |---------|------------|------------|------------|
 | 1       | 1          | 2020-01-01 | 100        |
 | 2       | 2          | 2020-01-01 | 200        |
