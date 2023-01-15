@@ -9,8 +9,8 @@ thumbnail-img: assets/img/md.png
 tags: [Markdown, Python, R, Data Science]
 ---
 <head>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0718061702418540"
-     crossorigin="anonymous"></script></head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0718061702418540" crossorigin="anonymous"></script>
+</head>
 
 <style>
 r { color: Red }
