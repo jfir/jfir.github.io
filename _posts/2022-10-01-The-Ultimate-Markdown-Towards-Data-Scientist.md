@@ -8,10 +8,6 @@ thumbnail-img: assets/img/md.png
 #cover-img: ["assets/img/aws.png" : "Caption of image", "assets/img/aws.png" : "Caption of image"]
 tags: [Markdown, Python, R, Data Science]
 ---
-<head>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-0718061702418540" crossorigin="anonymous"></script>
-</head>
-
 <style>
 r { color: Red }
 o { color: Orange }
