@@ -45,7 +45,7 @@ from openpyxl import Workbook
 
 
 {: .box-warning}
-**Note:** Royal air Maroc Data Scraping (Africa).  
+**Note:** Scraping Royal air Maroc Data (Africa).  
 **url:**  https://www.airlinequality.com/airline-reviews/royal-air-maroc/page/1/?sortby=post_date%3ADesc&pagesize=100
 
 
@@ -116,6 +116,10 @@ dm.head(3)
 ```  
 
 
+{: .box-warning}
+Result.  
+
+
 |     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1   | 2023-01-23 | Africa | RAM | customer service has been very unhelpful | 1   | 2022-05-23 | no  | Not Verified \| Used to be a frequent flyer - ... |
@@ -126,7 +130,7 @@ dm.head(3)
 
 
 {: .box-warning}
-**Note:** British Airways Data Scraping (Europe).  
+**Note:** Scraping British Airways Data (Europe).  
 **url:**  https://www.airlinequality.com/airline-reviews/british-airways/page/1/?sortby=post_date%3ADesc&pagesize=100
 
 
@@ -196,6 +200,9 @@ for i in range(1, pages+1):
 db.head(3)
 ```  
 
+{: .box-warning}
+Result.  
+
 
 |     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -206,7 +213,7 @@ db.head(3)
 
 
 {: .box-warning}
-**Note:** United Airlines Data Scraping (USA).  
+**Note:** Scraping United Airlines Data (USA).  
 **url:**  https://www.airlinequality.com/airline-reviews/united-airlines/page/1/?sortby=post_date%3ADesc&pagesize=100
 
 
@@ -276,6 +283,9 @@ for i in range(1, pages+1):
 du.head(3)
 ```  
 
+{: .box-warning}
+Result.  
+
 
 |     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -286,7 +296,7 @@ du.head(3)
 
 
 {: .box-warning}
-**Note:** Qatar Airways Data Scraping (ASIA).  
+**Note:** Scraping Qatar Airways Data (ASIA).  
 **url:**  https://www.airlinequality.com/airline-reviews/qatar-airways/page/1/?sortby=post_date%3ADesc&pagesize=100
 
 
@@ -356,6 +366,9 @@ for i in range(1, pages+1):
 dq.head(3)
 ```
 
+{: .box-warning}
+Result.  
+
 
 Date       | Region | Airline | Title                 | Rating | Date Flown | Recommended | Review
 ---------- | ------ | ------- | ------                | ------ | ------ | ------ | ------ |
@@ -389,6 +402,9 @@ df['Review_Length'] = df['Review'].apply(len)
 
 df.head(3)
 ```
+
+{: .box-warning}
+Result.  
 
 
 |     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review | Review_Length |
