@@ -480,3 +480,6 @@ plt.show()
 ```python
 df.to_excel("D:\\airlines_reviews.xlsx", index=False)
 ```
+
+![png](https://nestquest.com/assets/img/airlines_powerbi.png)
+
