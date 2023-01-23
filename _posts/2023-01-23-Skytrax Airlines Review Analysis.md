@@ -28,6 +28,9 @@ We will specifically be collecting reviews for Royal Air Maroc, British Airways,
 
 With BeautifulSoup library, we will gather all the links to the reviews and then extract the text data from each individual review link.
 
+{: .box-warning}
+**Note:** Importing necessary libraries.  
+
 
 ```python
 import pandas as pd
@@ -41,8 +44,8 @@ from openpyxl import Workbook
 ```
 
 
-{: .box-note}
-**Note:** Royal air Maroc Data Scraping (Africa).
+{: .box-warning}
+**Note:** Royal air Maroc Data Scraping (Africa).  
 **url:**  https://www.airlinequality.com/airline-reviews/royal-air-maroc/page/1/?sortby=post_date%3ADesc&pagesize=100
 
 
@@ -113,81 +116,19 @@ dm.head(3)
 ```
 
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Date</th>
-      <th>Region</th>
-      <th>Airline</th>
-      <th>Title</th>
-      <th>Rating</th>
-      <th>Date Flown</th>
-      <th>Recommended</th>
-      <th>Review</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>2023-01-23</td>
-      <td>Africa</td>
-      <td>RAM</td>
-      <td>customer service has been very unhelpful</td>
-      <td>1</td>
-      <td>2022-05-23</td>
-      <td>no</td>
-      <td>Not Verified |  Used to be a frequent flyer - ...</td>
-    </tr>
-    <tr>
-      <th>0</th>
-      <td>2023-01-16</td>
-      <td>Africa</td>
-      <td>RAM</td>
-      <td>Worst airline experience</td>
-      <td>1</td>
-      <td>2022-12-23</td>
-      <td>no</td>
-      <td>Trip Verified |  Worst airline experience I h...</td>
-    </tr>
-    <tr>
-      <th>0</th>
-      <td>2023-01-09</td>
-      <td>Africa</td>
-      <td>RAM</td>
-      <td>loss of our luggage</td>
-      <td>1</td>
-      <td>2022-12-23</td>
-      <td>no</td>
-      <td>Trip Verified |  Had a terrible experience wi...</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+|     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | 2023-01-23 | Africa | RAM | customer service has been very unhelpful | 1   | 2022-05-23 | no  | Not Verified \| Used to be a frequent flyer - ... |
+| 2   | 2023-01-16 | Africa | RAM | Worst airline experience | 1   | 2022-12-23 | no  | Trip Verified \| Worst airline experience I h... |
+| 3   | 2023-01-09 | Africa | RAM | loss of our luggage | 1   | 2022-12-23 | no  | Trip Verified \| Had a terrible experience wi... |
 
 
 
-```text
-{: .box-note}
+
+{: .box-warning}
 **Note:** British Airways Data Scraping (Europe).
 **url:**  https://www.airlinequality.com/airline-reviews/british-airways/page/1/?sortby=post_date%3ADesc&pagesize=100
-```
+
 
 
 ```python
@@ -256,81 +197,18 @@ db.head(3)
 ```
 
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Date</th>
-      <th>Region</th>
-      <th>Airline</th>
-      <th>Title</th>
-      <th>Rating</th>
-      <th>Date Flown</th>
-      <th>Recommended</th>
-      <th>Review</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>2023-01-21</td>
-      <td>Europe</td>
-      <td>BA</td>
-      <td>flight was one of the worst</td>
-      <td>2</td>
-      <td>2022-12-23</td>
-      <td>no</td>
-      <td>Trip Verified |  This flight was one of the w...</td>
-    </tr>
-    <tr>
-      <th>0</th>
-      <td>2023-01-19</td>
-      <td>Europe</td>
-      <td>BA</td>
-      <td>there is a race to the bottom</td>
-      <td>3</td>
-      <td>2023-01-23</td>
-      <td>no</td>
-      <td>Not Verified | It seems that there is a race t...</td>
-    </tr>
-    <tr>
-      <th>0</th>
-      <td>2023-01-19</td>
-      <td>Europe</td>
-      <td>BA</td>
-      <td>need to cancel the ticket and rebook</td>
-      <td>2</td>
-      <td>2023-01-23</td>
-      <td>no</td>
-      <td>Not Verified |  As a Spanish born individual l...</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+|     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | 2023-01-21 | Europe | BA  | flight was one of the worst | 2   | 2022-12-23 | no  | Trip Verified \| This flight was one of the w... |
+| 2   | 2023-01-19 | Europe | BA  | there is a race to the bottom | 3   | 2023-01-23 | no  | Not Verified \| It seems that there is a race t... |
+| 3   | 2023-01-19 | Europe | BA  | need to cancel the ticket and rebook | 2   | 2023-01-23 | no  | Not Verified \| As a Spanish born individual l... |
 
 
 
-```text
-{: .box-note}
+{: .box-warning}
 **Note:** United Airlines Data Scraping (USA).
 **url:**  https://www.airlinequality.com/airline-reviews/united-airlines/page/1/?sortby=post_date%3ADesc&pagesize=100
-```
+
 
 
 ```python
@@ -399,78 +277,15 @@ du.head(3)
 ```
 
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Date</th>
-      <th>Region</th>
-      <th>Airline</th>
-      <th>Title</th>
-      <th>Rating</th>
-      <th>Date Flown</th>
-      <th>Recommended</th>
-      <th>Review</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>2023-01-23</td>
-      <td>America</td>
-      <td>UA</td>
-      <td>Customer service is absolutely horrible</td>
-      <td>1</td>
-      <td>2023-01-23</td>
-      <td>no</td>
-      <td>Trip Verified | United Airlines is the new Sp...</td>
-    </tr>
-    <tr>
-      <th>0</th>
-      <td>2023-01-23</td>
-      <td>America</td>
-      <td>UA</td>
-      <td>always a significant disappointment</td>
-      <td>1</td>
-      <td>2023-01-23</td>
-      <td>no</td>
-      <td>Not Verified |  Upgraded my seats to find out ...</td>
-    </tr>
-    <tr>
-      <th>0</th>
-      <td>2023-01-21</td>
-      <td>America</td>
-      <td>UA</td>
-      <td>never travel with United again</td>
-      <td>1</td>
-      <td>2023-01-23</td>
-      <td>no</td>
-      <td>Trip Verified |  Worst experience ever. I had...</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+|     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1   | 2023-01-23 | America | UA  | Customer service is absolutely horrible | 1   | 2023-01-23 | no  | Trip Verified \| United Airlines is the new Sp... |
+| 2   | 2023-01-23 | America | UA  | always a significant disappointment | 1   | 2023-01-23 | no  | Not Verified \| Upgraded my seats to find out ... |
+| 3   | 2023-01-21 | America | UA  | never travel with United again | 1   | 2023-01-23 | no  | Trip Verified \| Worst experience ever. I had... |
 
 
 
-
-{: .box-note}
+{: .box-warning}
 **Note:** Qatar Airways Data Scraping (ASIA).
 **url:**  https://www.airlinequality.com/airline-reviews/qatar-airways/page/1/?sortby=post_date%3ADesc&pagesize=100
 
@@ -549,78 +364,12 @@ Date       | Region | Airline | Title                 | Rating | Date Flown | Re
 2023-01-17 | Asia   | QTR     | no choice of breakfast food | 4 | 2023-01-23 | no | Trip Verified | I have flown them a few time...
 ```
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Date</th>
-      <th>Region</th>
-      <th>Airline</th>
-      <th>Title</th>
-      <th>Rating</th>
-      <th>Date Flown</th>
-      <th>Recommended</th>
-      <th>Review</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>2023-01-23</td>
-      <td>Asia</td>
-      <td>QTR</td>
-      <td>the customer service was exceptional</td>
-      <td>10</td>
-      <td>2023-01-23</td>
-      <td>yes</td>
-      <td>Trip Verified | Where do I start. This was my...</td>
-    </tr>
-    <tr>
-      <th>0</th>
-      <td>2023-01-18</td>
-      <td>Asia</td>
-      <td>QTR</td>
-      <td>elderly A330 on the Nairobi route</td>
-      <td>5</td>
-      <td>2023-01-23</td>
-      <td>no</td>
-      <td>Trip Verified |  They’re currently using elde...</td>
-    </tr>
-    <tr>
-      <th>0</th>
-      <td>2023-01-17</td>
-      <td>Asia</td>
-      <td>QTR</td>
-      <td>no choice of breakfast food</td>
-      <td>4</td>
-      <td>2023-01-23</td>
-      <td>no</td>
-      <td>Trip Verified |  I have flown them a few time...</td>
-    </tr>
-  </tbody>
-</table>
-</div>
 
 
 
-```text
-{: .box-note}
+{: .box-warning}
 **Note:** Concatenating Data Vertically.
-```
+
 
 
 ```python
@@ -642,84 +391,17 @@ df.head(3)
 ```
 
 
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Date</th>
-      <th>Region</th>
-      <th>Airline</th>
-      <th>Title</th>
-      <th>Rating</th>
-      <th>Date Flown</th>
-      <th>Recommended</th>
-      <th>Review</th>
-      <th>Review_Length</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>2023-01-23</td>
-      <td>Africa</td>
-      <td>RAM</td>
-      <td>customer service has been very unhelpful</td>
-      <td>1</td>
-      <td>2022-05-23</td>
-      <td>no</td>
-      <td>Not Verified :  Used to be a frequent flyer - ...</td>
-      <td>860</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>2023-01-16</td>
-      <td>Africa</td>
-      <td>RAM</td>
-      <td>Worst airline experience</td>
-      <td>1</td>
-      <td>2022-12-23</td>
-      <td>no</td>
-      <td>Trip Verified :  Worst airline experience I h...</td>
-      <td>1829</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>2023-01-09</td>
-      <td>Africa</td>
-      <td>RAM</td>
-      <td>loss of our luggage</td>
-      <td>1</td>
-      <td>2022-12-23</td>
-      <td>no</td>
-      <td>Trip Verified :  Had a terrible experience wi...</td>
-      <td>335</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+|     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review | Review_Length |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0   | 2023-01-23 | Africa | RAM | customer service has been very unhelpful | 1   | 2022-05-23 | no  | Not Verified : Used to be a frequent flyer - ... | 860 |
+| 1   | 2023-01-16 | Africa | RAM | Worst airline experience | 1   | 2022-12-23 | no  | Trip Verified : Worst airline experience I h... | 1829 |
+| 2   | 2023-01-09 | Africa | RAM | loss of our luggage | 1   | 2022-12-23 | no  | Trip Verified : Had a terrible experience wi... | 335 |
 
 
 
-```text
-{: .box-note}
+{: .box-warning}
 **Note:** Histogram Plot of the Distribution of Review Lengths.
-```
+
 
 
 ```python
@@ -732,14 +414,13 @@ plt.show()
 
 
     
-![png](assets/img/airlines_output1.png)
+![png](nestquest.com/assets/img/airlines_output1.png)
     
 
 
-```text
-{: .box-note}
+{: .box-warning}
 **Note:** KPI: Reviews Sentiment.
-```
+
 
 
 ```python
@@ -771,14 +452,13 @@ plt.show()
 
 
     
-![png](assets/img/airlines_output2.png)
+![png](nestquest.com/assets/img/airlines_output2.png)
     
 
 
-```text
-{: .box-note}
+{: .box-warning}
 **Note:** Exporting Data for Analysis with Power BI.
-```
+
 
 
 ```python
