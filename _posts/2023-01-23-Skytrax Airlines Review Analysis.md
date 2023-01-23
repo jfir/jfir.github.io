@@ -542,7 +542,10 @@ dq.head(3)
 ```
 
 
-
+Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review
+2023-01-23 | Asia | QTR | the customer service was exceptional | 10 | 2023-01-23 | yes | Trip Verified | Where do I start. This was my...
+2023-01-18 | Asia | QTR | elderly A330 on the Nairobi route | 5 | 2023-01-23 | no | Trip Verified | They’re currently using elde...
+2023-01-17 | Asia | QTR | no choice of breakfast food | 4 | 2023-01-23 | no | Trip Verified | I have flown them a few time...
 
 <div>
 <style scoped>
