@@ -40,11 +40,11 @@ from collections import Counter
 from openpyxl import Workbook
 ```
 
-```text
+
 {: .box-note}
 **Note:** Royal air Maroc Data Scraping (Africa).
 **url:**  https://www.airlinequality.com/airline-reviews/royal-air-maroc/page/1/?sortby=post_date%3ADesc&pagesize=100
-```
+
 
 
 ```python
@@ -469,11 +469,11 @@ du.head(3)
 
 
 
-```text
+
 {: .box-note}
 **Note:** Qatar Airways Data Scraping (ASIA).
 **url:**  https://www.airlinequality.com/airline-reviews/qatar-airways/page/1/?sortby=post_date%3ADesc&pagesize=100
-```
+
 
 
 ```python
@@ -541,11 +541,13 @@ for i in range(1, pages+1):
 dq.head(3)
 ```
 
-
-Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review
-2023-01-23 | Asia | QTR | the customer service was exceptional | 10 | 2023-01-23 | yes | Trip Verified | Where do I start. This was my...
-2023-01-18 | Asia | QTR | elderly A330 on the Nairobi route | 5 | 2023-01-23 | no | Trip Verified | They’re currently using elde...
-2023-01-17 | Asia | QTR | no choice of breakfast food | 4 | 2023-01-23 | no | Trip Verified | I have flown them a few time...
+```text
+Date       | Region | Airline | Title                 | Rating | Date Flown | Recommended | Review
+---------- | ------ | ------- | ------                | ------ | ------ | ------ | ------ |
+2023-01-23 | Asia   | QTR     | the customer service was exceptional | 10 | 2023-01-23 | yes | Trip Verified | Where do I start. This was my...
+2023-01-18 | Asia   | QTR     | elderly A330 on the Nairobi route | 5 | 2023-01-23 | no | Trip Verified | They’re currently using elde...
+2023-01-17 | Asia   | QTR     | no choice of breakfast food | 4 | 2023-01-23 | no | Trip Verified | I have flown them a few time...
+```
 
 <div>
 <style scoped>
