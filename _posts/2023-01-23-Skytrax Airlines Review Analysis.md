@@ -414,7 +414,7 @@ plt.show()
 
 
     
-![png](https://nestquest.com/airlines_output1.png)
+![png](https://nestquest.com/assets/img/airlines_output1.png)
     
 
 
