@@ -1,0 +1,22 @@
+Go to the Microsoft 365 Developer Program website (https://developer.microsoft.com/en-us/microsoft-365/dev-program) and click on the "Join now" button.
+
+Sign in to the website using your Microsoft account (Outlook, Hotmail, Live, Xbox, etc.)
+
+Fill in the required information, such as your name, email address, and company.
+
+Read and accept the program's terms and conditions by clicking on the "I agree" button.
+
+In the "Select your development focus" section, make sure to select "Personal project"
+
+In the next section  "Select your development focus", make sure to select "Power Platform" as your development focus, you can select all option in this screen (Power platform is a must).
+
+In the next screen "Set up your Microsoft 365 E5 sandbox", select the "Configurable Sandbox" option for your developer environment.
+
+In the next step, you will be prompted to create a personal username, domain and password. Follow the instructions to create your personal domain, and take note of your new email address and password.
+
+Now you can access the Microsoft 365 Developer Sandbox, which provides you with a free, fully-featured environment to test and prototype your apps. To start developing, you will need to register an application and configure the necessary permissions in the Azure portal.
+
+For PowerBI publishing, go to your PowerBI Desktop application and in the top right corner, click to sign in and use the new email and password that you created earlier, and you are all set to go.
+
+
+
