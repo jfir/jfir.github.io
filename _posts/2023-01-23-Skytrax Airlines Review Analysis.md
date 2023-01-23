@@ -14,7 +14,6 @@ o { color: Orange }
 g { color: Green }  
 b { color: Blue }  
 </style>  
-
 <!--- -------Introduction-------- --->  
 Air travel can be a source of stress, even for experienced travelers who are used to completing tasks such as checking bags and finding gates before settling into their plane seats.
 
