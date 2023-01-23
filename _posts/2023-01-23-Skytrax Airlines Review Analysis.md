@@ -113,7 +113,7 @@ for i in range(1, pages+1):
         dm = pd.concat([dm, dm_new_row])
 
 dm.head(3)
-```
+```  
 
 
 |     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review |
@@ -194,7 +194,7 @@ for i in range(1, pages+1):
         db = pd.concat([db, db_new_row])
 
 db.head(3)
-```
+```  
 
 
 |     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review |
@@ -274,7 +274,7 @@ for i in range(1, pages+1):
         du = pd.concat([du, du_new_row])
 
 du.head(3)
-```
+```  
 
 
 |     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review |
