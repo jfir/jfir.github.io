@@ -1,7 +1,7 @@
 ---  
 layout: post   
 categories: [ blog]  
-title: SKYTRAX AIRLINE REVIEW ANALYSIS (Africa, Europe America and Asia)  
+title: Skytrax Airlines Reviews Analysis  
 subtitle: Natural Language Processing project that analyzes the airline industries feedback data..  
 image: assets/img/airlines.png  
 thumbnail-img: assets/img/airlines.png 
@@ -103,6 +103,8 @@ for i in range(1, pages+1):
 
 dm.head(10)
 ```
+
+
 
 
 <div>
@@ -250,8 +252,10 @@ dm.head(10)
 
 
 
+
 British Airways Data Scraping (Europe)  
 url: https://www.airlinequality.com/airline-reviews/british-airways/page/1/?sortby=post_date%3ADesc&pagesize=100
+
 
 
 ```python
@@ -318,6 +322,7 @@ for i in range(1, pages+1):
 
 db.head(10)
 ```
+
 
 
 
@@ -467,8 +472,11 @@ db.head(10)
 
 
 
+
 United Airlines Data Scraping  
 url: https://www.airlinequality.com/airline-reviews/united-airlines/page/1/?sortby=post_date%3ADesc&pagesize=100
+
+
 
 
 ```python
@@ -535,6 +543,7 @@ for i in range(1, pages+1):
 
 du.head(10)
 ```
+
 
 
 
@@ -684,8 +693,10 @@ du.head(10)
 
 
 
+
 Qatar Airways Data Scraping  
 url: https://www.airlinequality.com/airline-reviews/qatar-airways/page/1/?sortby=post_date%3ADesc&pagesize=100
+
 
 
 ```python
@@ -752,6 +763,7 @@ for i in range(1, pages+1):
 
 dq.head(10)
 ```
+
 
 
 
@@ -902,6 +914,7 @@ dq.head(10)
 
 
 
+
 ```python
 dq.isnull().sum()
 ```
@@ -922,6 +935,7 @@ dq.isnull().sum()
 
 
 Concatenating Data Vertically
+
 
 
 ```python
@@ -1175,6 +1189,7 @@ plt.show()
     
 
 Exporting Data for Analysis with Power BI
+
 
 
 ```python
