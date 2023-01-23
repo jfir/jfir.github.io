@@ -1,6 +1,6 @@
 ---  
 layout: post   
-categories: [ blog]  
+categories: [ blog, Portfolio]  
 title: Skytrax Airlines Reviews Analysis  
 subtitle: Natural Language Processing project that analyzes the airline industries feedback data..  
 image: assets/img/airlines.png  
