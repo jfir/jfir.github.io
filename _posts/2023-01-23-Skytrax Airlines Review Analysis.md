@@ -119,17 +119,12 @@ dm.head(3)
 {: .box-warning}
 Result.  
 
-<f>
-
 
 |     |     Date   | Region | Airline |        Title       | Rating | Date Flown | Recommended |        Review       |
 | --- | ---------- | ------ | ------- | ------------------ | ------ | ---------- | ----------- | ------------------- |
 | 1   | 2023-01-23 | Africa | RAM     |  customer service  |    1   | 2022-05-23 |     no      | Not Verified  - ... |
-| 2   | 2023-01-16 | Africa | RAM     | Worst airline      |    1   | 2022-12-23 |     no      | Trip Verified \| Worst ai... |
-| 3   | 2023-01-09 | Africa | RAM     | loss of luggage    |    1   | 2022-12-23 |     no      | Trip Verified \| Had a   ... |
-
-
-</f>
+| 2   | 2023-01-16 | Africa | RAM     | Worst airline      |    1   | 2022-12-23 |     no      | Trip Verified \|... |
+| 3   | 2023-01-09 | Africa | RAM     | loss of luggage    |    1   | 2022-12-23 |     no      | Trip Verified \|... |
 
 
 
@@ -208,11 +203,11 @@ db.head(3)
 Result.  
 
 
-|     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   | 2023-01-21 | Europe | BA  | flight was one of the worst | 2   | 2022-12-23 | no  | Trip Verified \| This flight was one of the w... |
-| 2   | 2023-01-19 | Europe | BA  | there is a race to the bottom | 3   | 2023-01-23 | no  | Not Verified \| It seems that there is a race t... |
-| 3   | 2023-01-19 | Europe | BA  | need to cancel the ticket and rebook | 2   | 2023-01-23 | no  | Not Verified \| As a Spanish born individual l... |
+|     |     Date   | Region | Airline |        Title       | Rating | Date Flown | Recommended |        Review       |
+| --- | ---------- | ------ | ------- | ------------------ | ------ | ---------- | ----------- | ------------------- |
+| 1   | 2023-01-21 | Europe | BA      | flight the worst   |    2   | 2022-12-23 |     no      | Trip Verified  - ...|
+| 2   | 2023-01-19 | Europe | BA      | race to the bottom |    3   | 2023-01-23 |     no      | Not Verified \|...  |
+| 3   | 2023-01-19 | Europe | BA      | ticket and rebook  |    2   | 2023-01-23 |     no      | Not Verified \|...  |
 
 
 
@@ -290,12 +285,11 @@ du.head(3)
 {: .box-warning}
 Result.  
 
-
-|     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   | 2023-01-23 | America | UA  | Customer service is absolutely horrible | 1   | 2023-01-23 | no  | Trip Verified \| United Airlines is the new Sp... |
-| 2   | 2023-01-23 | America | UA  | always a significant disappointment | 1   | 2023-01-23 | no  | Not Verified \| Upgraded my seats to find out ... |
-| 3   | 2023-01-21 | America | UA  | never travel with United again | 1   | 2023-01-23 | no  | Trip Verified \| Worst experience ever. I had... |
+|     |     Date   | Region  | Airline |        Title          | Rating | Date Flown | Recommended |        Review       |
+| --- | ---------- | ------- | ------- | --------------------- | ------ | ---------- | ----------- | ------------------- |
+| 1   | 2023-01-23 | America | UA      | absolutely horrible   |    1   | 2023-01-23 |     no      | Trip Verified  - ...|
+| 2   | 2023-01-23 | America | UA      | disappointment        |    1   | 2023-01-23 |     no      | Not Verified \|...  |
+| 3   | 2023-01-21 | America | UA      | never travel United   |    1   | 2023-01-23 |     no      | Trip Verified \|... |
 
 
 
@@ -374,14 +368,11 @@ dq.head(3)
 Result.  
 
 
-Date       | Region | Airline | Title                 | Rating | Date Flown | Recommended | Review
----------- | ------ | ------- | ------                | ------ | ------ | ------ | ------ |
-2023-01-23 | Asia   | QTR     | the customer service was exceptional | 10 | 2023-01-23 | yes | Trip Verified | Where do I start. This was my...
-2023-01-18 | Asia   | QTR     | elderly A330 on the Nairobi route | 5 | 2023-01-23 | no | Trip Verified | They’re currently using elde...
-2023-01-17 | Asia   | QTR     | no choice of breakfast food | 4 | 2023-01-23 | no | Trip Verified | I have flown them a few time...
-
-
-
+|     |     Date   | Region  | Airline |        Title          | Rating | Date Flown | Recommended |        Review       |
+| --- | ---------- | ------- | ------- | --------------------- | ------ | ---------- | ----------- | ------------------- |
+| 1   | 2023-01-23 | Asia    | QTR     | exceptional           |    10  | 2023-01-23 |     yes     | Trip Verified  - ...|
+| 2   | 2023-01-18 | Asia    | QTR     | elderly A330          |    5   | 2023-01-23 |     no      | Trip Verified \|... |
+| 3   | 2023-01-17 | Asia    | QTR     | choice of breakfast   |    4   | 2023-01-23 |     no      | Trip Verified \|... |
 
 
 {: .box-warning}
@@ -411,11 +402,11 @@ df.head(3)
 Result.  
 
 
-|     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review | Review_Length |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 0   | 2023-01-23 | Africa | RAM | customer service has been very unhelpful | 1   | 2022-05-23 | no  | Not Verified : Used to be a frequent flyer - ... | 860 |
-| 1   | 2023-01-16 | Africa | RAM | Worst airline experience | 1   | 2022-12-23 | no  | Trip Verified : Worst airline experience I h... | 1829 |
-| 2   | 2023-01-09 | Africa | RAM | loss of our luggage | 1   | 2022-12-23 | no  | Trip Verified : Had a terrible experience wi... | 335 |
+|     |     Date   | Region  | Airline |        Title          | Rating | Date Flown | Recommended |        Review       |
+| --- | ---------- | ------- | ------- | --------------------- | ------ | ---------- | ----------- | ------------------- |
+| 1   | 2023-01-23 | Africa  | QTR     | very unhelpful        |    1   | 2022-05-23 |     no      | Not Verified   - ...|
+| 2   | 2023-01-16 | Africa  | QTR     | Worst experience      |    1   | 2022-12-23 |     no      | Trip Verified \|... |
+| 3   | 2023-01-09 | Africa  | QTR     | loss of our luggage   |    1   | 2022-12-23 |     no      | Trip Verified \|... |
 
 
 
