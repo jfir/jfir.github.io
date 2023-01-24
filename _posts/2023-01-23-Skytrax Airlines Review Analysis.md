@@ -12,7 +12,8 @@ tags: [Python, Web Scraping, Skytrax, BeautifulSoup, TextBlob, NLP]
 r { color: Red }  
 o { color: Orange }  
 g { color: Green }  
-b { color: Blue }  
+b { color: Blue } 
+f { font-size: 14px } 
 </style>  
 <!--- -------Introduction-------- --->  
 Air travel can be a source of stress, even for experienced travelers who are used to completing tasks such as checking bags and finding gates before settling into their plane seats.
@@ -118,13 +119,13 @@ dm.head(3)
 {: .box-warning}
 Result.  
 
-
+<f>
 |     |     Date   | Region | Airline |        Title       | Rating | Date Flown | Recommended |        Review       |
 | --- | ---------- | ------ | ------- | ------------------ | ------ | ---------- | ----------- | ------------------- |
 | 1   | 2023-01-23 | Africa | RAM     |  customer service  |    1   | 2022-05-23 |     no      | Not Verified  - ... |
 | 2   | 2023-01-16 | Africa | RAM     | Worst airline      |    1   | 2022-12-23 |     no      | Trip Verified \| Worst ai... |
 | 3   | 2023-01-09 | Africa | RAM     | loss of luggage    |    1   | 2022-12-23 |     no      | Trip Verified \| Had a   ... |
-
+</f>
 
 
 
