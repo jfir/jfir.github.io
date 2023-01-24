@@ -120,11 +120,15 @@ dm.head(3)
 Result.  
 
 <f>
+
+
 |     |     Date   | Region | Airline |        Title       | Rating | Date Flown | Recommended |        Review       |
 | --- | ---------- | ------ | ------- | ------------------ | ------ | ---------- | ----------- | ------------------- |
 | 1   | 2023-01-23 | Africa | RAM     |  customer service  |    1   | 2022-05-23 |     no      | Not Verified  - ... |
 | 2   | 2023-01-16 | Africa | RAM     | Worst airline      |    1   | 2022-12-23 |     no      | Trip Verified \| Worst ai... |
 | 3   | 2023-01-09 | Africa | RAM     | loss of luggage    |    1   | 2022-12-23 |     no      | Trip Verified \| Had a   ... |
+
+
 </f>
 
 
