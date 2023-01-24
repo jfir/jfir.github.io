@@ -2,7 +2,7 @@
 layout: post   
 categories: [ blog, Portfolio]  
 title: Skytrax Airlines Reviews Analysis  
-subtitle: Natural Language Processing project that analyzes the airline industries feedback data..  
+subtitle: Natural Language Processing project that analyzes the airline industries feedback data. 
 image: assets/img/airlines.png  
 thumbnail-img: assets/img/airlines.png 
 #cover-img: ["assets/img/My_Environment_Post.png" : "Caption of image", "assets/img/My_Environment_Post.png" : "Caption of image"]  
@@ -119,11 +119,11 @@ dm.head(3)
 Result.  
 
 
-|     | Date | Region | Airline | Title | Rating | Date Flown | Recommended | Review |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   | 2023-01-23 | Africa | RAM | customer service has been very unhelpful | 1   | 2022-05-23 | no  | Not Verified \| Used to be a frequent flyer - ... |
-| 2   | 2023-01-16 | Africa | RAM | Worst airline experience | 1   | 2022-12-23 | no  | Trip Verified \| Worst airline experience I h... |
-| 3   | 2023-01-09 | Africa | RAM | loss of our luggage | 1   | 2022-12-23 | no  | Trip Verified \| Had a terrible experience wi... |
+|     |     Date   | Region | Airline |        Title       | Rating | Date Flown | Recommended |        Review       |
+| --- | ---------- | ------ | ------- | ------------------ | ------ | ---------- | ----------- | ------------------- |
+| 1   | 2023-01-23 | Africa | RAM     |  customer service  |    1   | 2022-05-23 |     no      | Not Verified  - ... |
+| 2   | 2023-01-16 | Africa | RAM     | Worst airline      |    1   | 2022-12-23 |     no      | Trip Verified \| Worst ai... |
+| 3   | 2023-01-09 | Africa | RAM     | loss of luggage    |    1   | 2022-12-23 |     no      | Trip Verified \| Had a   ... |
 
 
 
