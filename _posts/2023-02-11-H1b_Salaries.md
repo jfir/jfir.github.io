@@ -42,10 +42,6 @@ df = pd.DataFrame(columns=['employer', 'job_title', 'salary', 'location', 'submi
 # Setup of Source Data https://h1bdata.info/index.php?year={year}&job={job}
 base_url = "https://h1bdata.info/index.php?"
 job_titles = ["data+scientist", "senior+data+scientist", "data+analyst", "Big+Data", "machine+learning+engineer", "business+analyst", "Database+Engineer", "Quality+Assurance", "analyst", "qa+analyst", "quality+engineer", "data+engineer", "qa+engineer", "data+warehouse+specialist", "senior+analyst", "quality+analyst", "associate+data+scientist"]
-```
-
-
-```python
 
 for job in job_titles:
     for year in range(2018,2023):
