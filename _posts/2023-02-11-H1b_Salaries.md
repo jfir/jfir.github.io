@@ -3,8 +3,8 @@ layout: post
 categories: [ blog, Portfolio]  
 title: 'Data-Driven Insights into 2022 H1B Visa Job Market: Deciding the Best Career Path' 
 subtitle: A Data Science Study on Job Market Trends and Salaries. 
-image: assets/img/airlines.png  
-thumbnail-img: assets/img/airlines.png 
+image: assets/img/H1b.png 
+thumbnail-img: assets/img/H1b.png 
 #cover-img: ["assets/img/My_Environment_Post.png" : "Caption of image", "assets/img/My_Environment_Post.png" : "Caption of image"]  
 tags: [Power BI, Python, Web Scraping, BeautifulSoup]  
 ---  
