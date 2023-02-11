@@ -105,6 +105,6 @@ df.to_excel("h1b_salaries.xlsx", index=False)
 {: .box-warning}
 **Note:** Power BI Analysis.
     
-<iframe width="800" height="600" src="https://app.powerbi.com/reportEmbed?reportId=b56f4a20-2a70-4d63-bb20-f0e4cf486e5e&autoAuth=true&ctid=db11c5e6-3fdd-486a-b831-4d10e1e5eb00" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="h1b_salaries" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=b56f4a20-2a70-4d63-bb20-f0e4cf486e5e&autoAuth=true&ctid=db11c5e6-3fdd-486a-b831-4d10e1e5eb00" frameborder="0" allowFullScreen="true"></iframe>
 
 
