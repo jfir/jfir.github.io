@@ -33,13 +33,13 @@ import requests
 **Note:** Scraping h1bdata website.  
 **url:**  https://h1bdata.info
 
-# Create an empty DataFrame
+
 ```python
+# Create an empty DataFrame
 df = pd.DataFrame(columns=['employer', 'job_title', 'salary', 'location', 'submit_date', 'start_date'])
-```
+
 
 # Setup of Source Data https://h1bdata.info/index.php?year={year}&job={job}
-```python
 base_url = "https://h1bdata.info/index.php?"
 job_titles = ["data+scientist", "senior+data+scientist", "data+analyst", "Big+Data", "machine+learning+engineer", "business+analyst", "Database+Engineer", "Quality+Assurance", "analyst", "qa+analyst", "quality+engineer", "data+engineer", "qa+engineer", "data+warehouse+specialist", "senior+analyst", "quality+analyst", "associate+data+scientist"]
 ```
@@ -107,7 +107,7 @@ df.to_excel("h1b_salaries.xlsx", index=False)
 ```
 
 {: .box-warning}
-**Note:** Exporting Data for Analysis with Power BI.
+**Note:** Power BI Analysis.
     
 ![png](https://app.powerbi.com/reportEmbed?reportId=b56f4a20-2a70-4d63-bb20-f0e4cf486e5e&autoAuth=true&ctid=db11c5e6-3fdd-486a-b831-4d10e1e5eb00)
 
