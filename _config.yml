@@ -88,7 +88,7 @@ edit_page_button: False
 navbar-var-length: false
  
 # The keywords to associate with your website, for SEO purposes
-keywords: "J. Bahraoui, AWS, Azure, Alteryx, Tableau, SQL, Python, R, QlikView, Access, VBA, Agile, JIRA, Statistical Analysis, AI, Machine Learning, Data Science, Data Analytics, BI, Business Inteligence, Data Visualization"
+keywords: "J. Bahraoui, AWS, Azure, Alteryx, Power BI, Tableau, SQL, Python, R, QlikView, Access, VBA, Agile, JIRA, Statistical Analysis, AI, Machine Learning, Data Science, Data Analytics, BI, Business Inteligence, Data Visualization"
 
 ######################################
 # --- Colours / background image --- #
@@ -222,7 +222,7 @@ timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
