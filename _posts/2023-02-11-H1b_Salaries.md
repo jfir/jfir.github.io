@@ -1,8 +1,8 @@
 ---  
 layout: post   
 categories: [ blog, Portfolio]  
-title: 'Data-Driven Insights into 2022 H1B Visa Job Market: Deciding the Best Career Path' 
-subtitle: A Data Science Study on Job Market Trends and Salaries. 
+title: 'Unlocking 2022 H1B Visa Job Market Trends: A Data-Driven Guide to Making an Informed Career Decision' 
+subtitle: Exploring Salaries and Market Trends for Data Science, Business Analyst, Big Data, and Quality Analyst Jobs 
 image: assets/img/H1b.png 
 thumbnail-img: assets/img/H1b.png 
 #cover-img: ["assets/img/My_Environment_Post.png" : "Caption of image", "assets/img/My_Environment_Post.png" : "Caption of image"]  
