@@ -26,7 +26,6 @@ Use the following tables to practice writing SQL queries.
 Customers table:
 
 | customer_id	| first_name	| last_name	|     email	   | phone_number |
-|-----------__|-------------|-----------|--------------|--------------|
 | 1	| Ahmed	| Ali	| ahmed.ali@example.com	| 555-1234 |
 | 2	| Fatima	| Rahman	| fatima.rahman@example.com	| 555-5678 |
 | 3	| Jacob	| Levy	| jacob.levy@example.com	| 555-2468 |
@@ -41,7 +40,6 @@ Customers table:
 Flights table:
 
 | flight_id | origin | destination | fare | flight_date | num_passengers | flight_hour | trip_type | purchase_lead | length_of_stay | flight_day | route | sales_channel | booking_complete |
-|-----------|------------------|-----------------|-------|------------|----------------|---------------|-----------|---------------|----------------|-------------|------------|-------------|----------------|------------------|
 | UA100006 | LAX | ORD | 200 | 2023-03-20 | 1 | Direct | One-way | 10 | 2 | 13 | Sunday | LAX-ORD | Web | Yes |
 | DL100007 | LAX | JFK | 375 | 2023-03-21 | 2 | Direct | Roundtrip | 14 | 7 | 10 | Monday | LAX-JFK | Mobile | Yes |
 | AC100008 | YYZ | JFK | 425 | 2023-03-22 | 3 | Travel Agent | Roundtrip | 7 | 5 | 7 | Tuesday | YYZ-JFK | Travel Agent | Yes |
@@ -68,7 +66,6 @@ Flights table:
 OrderItems:
 
 | order_id	| customer_id	| flight_id	| order_date	| total_amount	| payment_status	|
-|-----------|------------------|-----------------|-------|------------|----------------|
 | 1	| 2	| DL100007	| 2023-03-10	| 750	| Paid	|
 | 2	| 4	| BA100009	| 2023-03-12	| 500	| Paid	|
 | 3	| 6	| AC100012	| 2023-03-14	| 600	| Paid	|
