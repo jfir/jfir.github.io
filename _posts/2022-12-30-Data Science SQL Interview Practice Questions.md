@@ -66,7 +66,7 @@ Flights table:
 | UA100015 | LAX | IAH | 2023-12-01 |1| One-way |9| Thursday | LAX-IAH | Mobile | No | 
 | UA100016 | MCO | PHL | 2024-01-20 |1| One-way |8| Sunday | MCO-PHL | Web | Yes | 
 
-OrderItems:
+Orders Table:
 
 | order_id	| customer_id	| flight_id	| order_date	| total_amount	| payment_status	|
 | 1	| 2	| DL100007	| 2023-03-10	| 750	| Paid	|
