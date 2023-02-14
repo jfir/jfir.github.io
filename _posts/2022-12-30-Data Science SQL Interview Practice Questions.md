@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: [ blog]
-title: Data Science SQL Interview Practice Questions
-subtitle: Practice the most common SQL questions in Data Science & Data Analytics interviews!.
+title: Ace Your Data Science Interview with SQL, Practice Questions and Tips
+subtitle: Prepare for Data Analytics Interviews by Mastering SQL Concepts and Sample Questions!.
 image: assets/img/sql.png
 thumbnail-img: assets/img/sql.png
 #cover-img: ["assets/img/My_Environment_Post.png" : "Caption of image", "assets/img/My_Environment_Post.png" : "Caption of image"]
@@ -23,62 +23,65 @@ Use the following tables to practice writing SQL queries.
 
 ## Customers, Orders, and OrderItems Tables
 
-Customers:
+Customers table:
 
-| CustomerID | Name          | Country |
-|------------|---------------|---------|
-| 1          | Alice Smith   | USA     |
-| 2          | Bob Johnson   | USA     |
-| 3          | Eve Williams  | USA     |
-| 4          | Alice Johnson | Canada  |
-| 5          | Bob Williams  | Canada  |
-| 6          | Eve Smith     | Canada  |
-| 7          | Alice Williams| UK      |
-| 8          | Bob Smith     | UK      |
-| 9          | Eve Johnson   | UK      |
+| customer_id	| first_name	| last_name	|     email	   | phone_number |
+|-----------__|-------------|-----------|--------------|--------------|
+| 1	| Ahmed	| Ali	| ahmed.ali@example.com	| 555-1234 |
+| 2	| Fatima	| Rahman	| fatima.rahman@example.com	| 555-5678 |
+| 3	| Jacob	| Levy	| jacob.levy@example.com	| 555-2468 |
+| 4	| Malik	| Jackson	| malik.jackson@example.com	| 555-3698 |
+| 5	| Michaela	| Gomez	| michaela.gomez@example.com	| 555-9876 |
+| 6	| Omar	| Rodriguez	| omar.rodriguez@example.com	| 555-2345 |
+| 7	| Rachel	| Cohen	| rachel.cohen@example.com	| 555-6789 |
+| 8	| Sofia	| Torres	| sofia.torres@example.com	| 555-1357 |
+| 9	| Yusuf	| Ali	| yusuf.ali@example.com	| 555-4801 |
+| 10	| Zara	| Patel	| zara.patel@example.com	| 555-9012 |
 
-Orders:
+Flights table:
 
-| OrderID | CustomerID | OrderDate  | TotalValue |
-|---------|------------|------------|------------|
-| 1       | 1          | 2020-01-01 | 100        |
-| 2       | 2          | 2020-01-01 | 200        |
-| 3       | 3          | 2020-01-01 | 300        |
-| 4       | 4          | 2020-01-01 | 400        |
-| 5       | 5          | 2020-01-01 | 500        |
-| 6       | 6          | 2020-01-01 | 600        |
-| 7       | 7          | 2020-01-01 | 700        |
-| 8       | 8          | 2020-01-01 | 800        |
-| 9       | 9          | 2020-01-01 | 900        |
-| 10      | 1          | 2020-02-01 | 100        |
-| 11      | 2          | 2020-02-01 | 200        |
-| 12      | 3          | 2020-02-01 | 300        |
-| 13      | 4          | 2020-02-01 | 400        |
-| 14      | 5          | 2020-02-01 | 500        |
-| 15      | 6          | 2020-02-01 | 600        |
-| 16      | 7          | 2020-02-01 | 700        |
-| 17      | 8          | 2020-02-01 | 800        |
-| 18      | 9          | 2020-02-01 | 900        |
+| flight_id | origin | destination | fare | flight_date | num_passengers | flight_hour | trip_type | purchase_lead | length_of_stay | flight_day | route | sales_channel | booking_complete |
+|-----------|------------------|-----------------|-------|------------|----------------|---------------|-----------|---------------|----------------|-------------|------------|-------------|----------------|------------------|
+| UA100006 | LAX | ORD | 200 | 2023-03-20 | 1 | Direct | One-way | 10 | 2 | 13 | Sunday | LAX-ORD | Web | Yes |
+| DL100007 | LAX | JFK | 375 | 2023-03-21 | 2 | Direct | Roundtrip | 14 | 7 | 10 | Monday | LAX-JFK | Mobile | Yes |
+| AC100008 | YYZ | JFK | 425 | 2023-03-22 | 3 | Travel Agent | Roundtrip | 7 | 5 | 7 | Tuesday | YYZ-JFK | Travel Agent | Yes |
+| BA100009 | JFK | LHR | 500 | 2023-03-23 | 1 | Direct | One-way | 21 | 2 | 14 | Wednesday | JFK-LHR | Web | Yes |
+| UA100010 | LHR | SFO | 700 | 2023-03-24 | 4 | Direct | Roundtrip | 21 | 10 | 16 | Thursday | LHR-SFO | Mobile | Yes |
+| DL100011 | JFK | LAX | 325 | 2023-03-25 | 2 | Direct | One-way | 7 | 2 | 9 | Friday | JFK-LAX | Web | Yes |
+| AC100012 | LAX | LHR | 600 | 2023-03-26 | 1 | Direct | One-way | 14 | 3 | 12 | Saturday | LAX-LHR | Travel Agent | Yes |
+| BA100013 | LHR | JFK | 375 | 2023-03-27 | 2 | Direct | Roundtrip | 21 | 7 | 6 | Sunday | LHR-JFK | Web | Yes |
+| UA100014 | JFK | SFO | 450 | 2023-03-28 | 3 | Direct | Roundtrip | 14 | 5 | 8 | Monday | JFK-SFO | Mobile | Yes |
+| AC100015 | YYZ | JFK | 275 | 2023-03-29 | 1 | Direct | One-way | 7 | 1 | 13 | Tuesday | YYZ-JFK | Web | Yes |
+| DL100016 | LAX | JFK | 375 | 2023-03-30 | 2 | Direct | Roundtrip | 21 | 7 | 11 | Wednesday | LAX-JFK | Mobile | Yes |
+| UA100017 | LHR | ORD | 350 | 2023-03-31 | 3 | Direct | Roundtrip | 30 | 5 |
+| UA100007 | JFK | LAX | 150 | 2023-04-05 | 2 | Direct | Round-trip | 8 | 4 | 14 | Tuesday | JFK-LAX | Mobile | Yes |
+| UA100008 | ORD | DFW | 120 | 2023-05-02 | 1 | Non-stop | One-way | 5 | 1 | 11 | Thursday | ORD-DFW | Web | Yes |
+| UA100009 | DEN | MIA | 180 | 2023-06-15 | 2 | Direct | Round-trip | 12 | 3 | 12 | Wednesday | DEN-MIA | Mobile | No |
+| UA100010 | LGA | ATL | 110 | 2023-07-01 | 1 | Non-stop | One-way | 6 | 1 | 10 | Friday | LGA-ATL | Web | Yes |
+| UA100011 | SFO | SEA | 90 | 2023-08-19 | 1 | Non-stop | One-way | 2 | 1 | 8 | Sunday | SFO-SEA | Mobile | No |
+| UA100012 | MSP | LAX | 200 | 2023-09-10 | 2 | Direct | Round-trip | 7 | 3 | 15 | Tuesday | MSP-LAX | Web | Yes |
+| UA100013 | DCA | BOS | 75 | 2023-10-07 | 1 | Non-stop | One-way | 4 | 1 | 7 | Friday | DCA-BOS | Mobile | Yes |
+| UA100014 | SFO | JFK | 250 | 2023-11-15 | 2 | Direct | Round-trip | 10 | 4 | 16 | Tuesday | SFO-JFK | Web | No |
+| UA100015 | LAX | IAH | 140 | 2023-12-01 | 1 | Non-stop | One-way | 3 | 1 | 9 | Thursday | LAX-IAH | Mobile | No |
+| UA100016 | MCO | PHL | 110 | 2024-01-20 | 1 | Non-stop | One-way | 2 | 1 | 8 | Sunday | MCO-PHL | Web | Yes |
 
 OrderItems:
 
-| OrderID | ProductID | Quantity |
-|---------|-----------|----------|
-| 1       | 1         | 1        |
-| 2       | 1         | 2        |
-| 3       | 1         | 3        |
-| 4       | 2         | 4        |
-| 5       | 2         | 5        |
-| 6       | 2         | 6        |
-| 7       | 3         | 7        |
-| 8       | 3         | 8        |
-| 9       | 3         | 9        |
-| 10      | 1         | 1        |
-| 11      | 1         | 2        |
-| 12      | 1         | 3        |
-| 13      | 2         | 4        |
-| 14      | 2         | 5        |
-| 15      | 2         | 6        |
+| order_id	| customer_id	| flight_id	| order_date	| total_amount	| payment_status	|
+| 1	| 2	| DL100007	| 2023-03-10	| 750	| Paid	|
+| 2	| 4	| BA100009	| 2023-03-12	| 500	| Paid	|
+| 3	| 6	| AC100012	| 2023-03-14	| 600	| Paid	|
+| 4	| 3	| AC100008	| 2023-03-16	| 1275	| Paid	|
+| 5	| 8	| BA100013	| 2023-03-18	| 750	| Paid	|
+| 6	| 5	| UA100010	| 2023-03-20	| 2800	| Paid	|
+| 7	| 1	| UA100006	| 2023-03-22	| 200	| Paid	|
+| 8	| 10	| AC100015	| 2023-03-24	| 275	| Paid	|
+| 9	| 7	| DL100011	| 2023-03-26	| 650	| Paid	|
+| 10	| 9	| YYZ-JFK	| 2023-03-28	| 275	| Paid	|
+| 11	| 4	| UA100017	| 2023-03-30	| 1050	| Unpaid	|
+| 12	| 2	| UA100007	| 2023-04-02	| 300	| Paid	|
+| 13	| 1	| UA100008	| 2023-04-05	| 120	| Paid	|
+| 14	| 9	| UA100010	| 2023-07-01	| 220	| Unpaid	|
 
 ### SQL Script
 
