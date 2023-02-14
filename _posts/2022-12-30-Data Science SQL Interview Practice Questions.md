@@ -14,7 +14,7 @@ o { color: Orange }
 g { color: Green }
 b { color: Blue }
 table {
-    font-size: 10px;
+    font-size: 10.5px;
 }
 </style>
 <!--- -------Introduction-------- --->
