@@ -68,6 +68,7 @@ Flights table:
 OrderItems:
 
 | order_id	| customer_id	| flight_id	| order_date	| total_amount	| payment_status	|
+|-----------|------------------|-----------------|-------|------------|----------------|
 | 1	| 2	| DL100007	| 2023-03-10	| 750	| Paid	|
 | 2	| 4	| BA100009	| 2023-03-12	| 500	| Paid	|
 | 3	| 6	| AC100012	| 2023-03-14	| 600	| Paid	|
