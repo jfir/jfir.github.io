@@ -24,7 +24,7 @@ In this article, I will provide a selection of data science SQL interview practi
 
 Use the following tables to practice writing SQL queries.  
 
-## Customers, Orders, and OrderItems Tables
+## Tables
 
 Customers table:
 
