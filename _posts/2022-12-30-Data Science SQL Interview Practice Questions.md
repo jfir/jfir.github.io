@@ -42,7 +42,7 @@ Customers table:
 
 Flights table:
 
-| flight_id | origin | destination | fl_date | num_psgers | trip_type | length_days | flight_day | route | sales_channel | completed |
+| flight_id | origin | destination | flight_date | num_passengers | trip_type | length_days | flight_day | route | sales_channel | completed |
 | UA100006 | LAX | ORD | 2023-03-20 |1| One-way |13| Sunday | LAX-ORD | Web | Yes | 
 | DL100007 | LAX | JFK | 2023-03-21 |2| Roundtrip |10| Monday | LAX-JFK | Mobile | Yes  |
 | AC100008 | YYZ | JFK | 2023-03-22 |3| Roundtrip |7| Tuesday | YYZ-JFK | Travel Agent | Yes | 
