@@ -13,6 +13,9 @@ r { color: Red }
 o { color: Orange }
 g { color: Green }
 b { color: Blue }
+table {
+    font-size: 10px;
+}
 </style>
 <!--- -------Introduction-------- --->
 As a data scientist, you will often be asked to demonstrate your SQL skills in interviews. This is because SQL is a critical tool for accessing, manipulating, and analyzing data in many data science projects. To prepare for a data science interview, it is important to practice your SQL skills and be able to answer a range of questions on different topics.
