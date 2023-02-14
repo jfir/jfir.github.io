@@ -39,29 +39,29 @@ Customers table:
 
 Flights table:
 
-| flight_id | origin | destination | fare | flight_date | num_passengers | flight_hour | trip_type | purchase_lead | length_of_stay | flight_day | route | sales_channel | booking_complete |
-| UA100006 | LAX | ORD | 200 | 2023-03-20 | 1 | Direct | One-way | 10 | 2 | 13 | Sunday | LAX-ORD | Web | Yes |
-| DL100007 | LAX | JFK | 375 | 2023-03-21 | 2 | Direct | Roundtrip | 14 | 7 | 10 | Monday | LAX-JFK | Mobile | Yes |
-| AC100008 | YYZ | JFK | 425 | 2023-03-22 | 3 | Travel Agent | Roundtrip | 7 | 5 | 7 | Tuesday | YYZ-JFK | Travel Agent | Yes |
-| BA100009 | JFK | LHR | 500 | 2023-03-23 | 1 | Direct | One-way | 21 | 2 | 14 | Wednesday | JFK-LHR | Web | Yes |
-| UA100010 | LHR | SFO | 700 | 2023-03-24 | 4 | Direct | Roundtrip | 21 | 10 | 16 | Thursday | LHR-SFO | Mobile | Yes |
-| DL100011 | JFK | LAX | 325 | 2023-03-25 | 2 | Direct | One-way | 7 | 2 | 9 | Friday | JFK-LAX | Web | Yes |
-| AC100012 | LAX | LHR | 600 | 2023-03-26 | 1 | Direct | One-way | 14 | 3 | 12 | Saturday | LAX-LHR | Travel Agent | Yes |
-| BA100013 | LHR | JFK | 375 | 2023-03-27 | 2 | Direct | Roundtrip | 21 | 7 | 6 | Sunday | LHR-JFK | Web | Yes |
-| UA100014 | JFK | SFO | 450 | 2023-03-28 | 3 | Direct | Roundtrip | 14 | 5 | 8 | Monday | JFK-SFO | Mobile | Yes |
-| AC100015 | YYZ | JFK | 275 | 2023-03-29 | 1 | Direct | One-way | 7 | 1 | 13 | Tuesday | YYZ-JFK | Web | Yes |
-| DL100016 | LAX | JFK | 375 | 2023-03-30 | 2 | Direct | Roundtrip | 21 | 7 | 11 | Wednesday | LAX-JFK | Mobile | Yes |
-| UA100017 | LHR | ORD | 350 | 2023-03-31 | 3 | Direct | Roundtrip | 30 | 5 |
-| UA100007 | JFK | LAX | 150 | 2023-04-05 | 2 | Direct | Round-trip | 8 | 4 | 14 | Tuesday | JFK-LAX | Mobile | Yes |
-| UA100008 | ORD | DFW | 120 | 2023-05-02 | 1 | Non-stop | One-way | 5 | 1 | 11 | Thursday | ORD-DFW | Web | Yes |
-| UA100009 | DEN | MIA | 180 | 2023-06-15 | 2 | Direct | Round-trip | 12 | 3 | 12 | Wednesday | DEN-MIA | Mobile | No |
-| UA100010 | LGA | ATL | 110 | 2023-07-01 | 1 | Non-stop | One-way | 6 | 1 | 10 | Friday | LGA-ATL | Web | Yes |
-| UA100011 | SFO | SEA | 90 | 2023-08-19 | 1 | Non-stop | One-way | 2 | 1 | 8 | Sunday | SFO-SEA | Mobile | No |
-| UA100012 | MSP | LAX | 200 | 2023-09-10 | 2 | Direct | Round-trip | 7 | 3 | 15 | Tuesday | MSP-LAX | Web | Yes |
-| UA100013 | DCA | BOS | 75 | 2023-10-07 | 1 | Non-stop | One-way | 4 | 1 | 7 | Friday | DCA-BOS | Mobile | Yes |
-| UA100014 | SFO | JFK | 250 | 2023-11-15 | 2 | Direct | Round-trip | 10 | 4 | 16 | Tuesday | SFO-JFK | Web | No |
-| UA100015 | LAX | IAH | 140 | 2023-12-01 | 1 | Non-stop | One-way | 3 | 1 | 9 | Thursday | LAX-IAH | Mobile | No |
-| UA100016 | MCO | PHL | 110 | 2024-01-20 | 1 | Non-stop | One-way | 2 | 1 | 8 | Sunday | MCO-PHL | Web | Yes |
+| flight_id | origin | destination | flight_date | num_passengers | trip_type | length_days | flight_day | route | sales_channel | completed |
+| UA100006 | LAX | ORD | 2023-03-20 |1| One-way |13| Sunday | LAX-ORD | Web | Yes | 
+| DL100007 | LAX | JFK | 2023-03-21 |2| Roundtrip |10| Monday | LAX-JFK | Mobile | Yes  |
+| AC100008 | YYZ | JFK | 2023-03-22 |3| Roundtrip |7| Tuesday | YYZ-JFK | Travel Agent | Yes | 
+| BA100009 | JFK | LHR | 2023-03-23 |1| One-way |14| Wednesday | JFK-LHR | Web | Yes | 
+| UA100010 | LHR | SFO | 2023-03-24 |4| Roundtrip |16| Thursday | LHR-SFO | Mobile | Yes | 
+| DL100011 | JFK | LAX | 2023-03-25 |2| One-way |9| Friday | JFK-LAX | Web | Yes |
+| AC100012 | LAX | LHR | 2023-03-26 |1| One-way |12| Saturday | LAX-LHR | Travel Agent | Yes |
+| BA100013 | LHR | JFK | 2023-03-27 |2| Roundtrip |6| Sunday | LHR-JFK | Web | Yes | 
+| UA100014 | JFK | SFO | 2023-03-28 |3| Roundtrip |8| Monday | JFK-SFO | Mobile | Yes | 
+| AC100015 | YYZ | JFK | 2023-03-29 |1| One-way |13| Tuesday | YYZ-JFK | Web | Yes | 
+| DL100016 | LAX | JFK | 2023-03-30 |2| Roundtrip |11| Wednesday | LAX-JFK | Mobile | Yes | 
+| UA100017 | LHR | ORD | 2023-03-31 |3| Roundtrip ||||| |
+| UA100007 | JFK | LAX | 2023-04-05 |2| Round-trip |14| Tuesday | JFK-LAX | Mobile | Yes | 
+| UA100008 | ORD | DFW | 2023-05-02 |1| One-way |11| Thursday | ORD-DFW | Web | Yes | 
+| UA100009 | DEN | MIA | 2023-06-15 |2| Round-trip |12| Wednesday | DEN-MIA | Mobile | No | 
+| UA100010 | LGA | ATL | 2023-07-01 |1| One-way |10| Friday | LGA-ATL | Web | Yes | 
+| UA100011 | SFO | SEA | 2023-08-19 |1| One-way |8| Sunday | SFO-SEA | Mobile | No | 
+| UA100012 | MSP | LAX | 2023-09-10 |2| Round-trip |15| Tuesday | MSP-LAX | Web | Yes | 
+| UA100013 | DCA | BOS | 2023-10-07 |1| One-way |7| Friday | DCA-BOS | Mobile | Yes | 
+| UA100014 | SFO | JFK | 2023-11-15 |2| Round-trip |16| Tuesday | SFO-JFK | Web | No | 
+| UA100015 | LAX | IAH | 2023-12-01 |1| One-way |9| Thursday | LAX-IAH | Mobile | No | 
+| UA100016 | MCO | PHL | 2024-01-20 |1| One-way |8| Sunday | MCO-PHL | Web | Yes | 
 
 OrderItems:
 
