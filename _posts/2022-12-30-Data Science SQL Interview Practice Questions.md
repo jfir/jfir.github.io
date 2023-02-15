@@ -14,7 +14,7 @@ o { color: Orange }
 g { color: Green }
 b { color: Blue }
 table {
-    font-size: 10.5px;
+    font-size: 11px;
 }
 </style>
 <!--- -------Introduction-------- --->
@@ -28,61 +28,69 @@ Use the following tables to practice writing SQL queries.
 
 Customers table:
 
-| customer_id	| first_name	| last_name	|     email	   | phone |
-| 1	| Ahmed	| Ali	| ahmed.ali@example.com	| 555-1234 |
-| 2	| Fatima	| Rahman	| fatima.rahman@example.com	| 555-5678 |
-| 3	| Jacob	| Levy	| jacob.levy@example.com	| 555-2468 |
-| 4	| Malik	| Jackson	| malik.jackson@example.com	| 555-3698 |
-| 5	| Michaela	| Gomez	| michaela.gomez@example.com	| 555-9876 |
-| 6	| Omar	| Rodriguez	| omar.rodriguez@example.com	| 555-2345 |
-| 7	| Rachel	| Cohen	| rachel.cohen@example.com	| 555-6789 |
-| 8	| Sofia	| Torres	| sofia.torres@example.com	| 555-1357 |
-| 9	| Yusuf	| Ali	| yusuf.ali@example.com	| 555-4801 |
-| 10	| Zara	| Patel	| zara.patel@example.com	| 555-9012 |
+| customer_id | first_name | last_name | email | phone|
+|1| Ahmed | Ali | ahmed.ali@example.com | 555-1234|
+|2| Fatima | Rahman | fatima.rahman@example.com | 555-5678|
+|3| Jacob | Levy | jacob.levy@example.com | 555-2468|
+|4| Malik | Jackson | malik.jackson@example.com | 555-3698|
+|5| Michaela | Gomez | michaela.gomez@example.com | 555-9876|
+|6| Omar | Rodriguez | omar.rodriguez@example.com | 555-2345|
+|7| Rachel | Cohen | rachel.cohen@example.com | 555-6789|
+|8| Sofia | Torres | sofia.torres@example.com | 555-1357|
+|9| Yusuf | Ali | yusuf.ali@example.com | 555-4801|
+| 10 | Zara | Patel | zara.patel@example.com | 555-9012|
 
-Flights table:
+booking table:
 
-| flight_id | origin | destination | flight_date | num_passengers | trip_type | length_days | flight_day | route | sales_channel | completed |
-| UA100006 | LAX | ORD | 2023-03-20 |1| One-way |13| Sunday | LAX-ORD | Web | Yes | 
-| DL100007 | LAX | JFK | 2023-03-21 |2| Roundtrip |10| Monday | LAX-JFK | Mobile | Yes  |
-| AC100008 | YYZ | JFK | 2023-03-22 |3| Roundtrip |7| Tuesday | YYZ-JFK | Travel Agent | Yes | 
-| BA100009 | JFK | LHR | 2023-03-23 |1| One-way |14| Wednesday | JFK-LHR | Web | Yes | 
-| UA100010 | LHR | SFO | 2023-03-24 |4| Roundtrip |16| Thursday | LHR-SFO | Mobile | Yes | 
-| DL100011 | JFK | LAX | 2023-03-25 |2| One-way |9| Friday | JFK-LAX | Web | Yes |
-| AC100012 | LAX | LHR | 2023-03-26 |1| One-way |12| Saturday | LAX-LHR | Travel Agent | Yes |
-| BA100013 | LHR | JFK | 2023-03-27 |2| Roundtrip |6| Sunday | LHR-JFK | Web | Yes | 
-| UA100014 | JFK | SFO | 2023-03-28 |3| Roundtrip |8| Monday | JFK-SFO | Mobile | Yes | 
-| AC100015 | YYZ | JFK | 2023-03-29 |1| One-way |13| Tuesday | YYZ-JFK | Web | Yes | 
-| DL100016 | LAX | JFK | 2023-03-30 |2| Roundtrip |11| Wednesday | LAX-JFK | Mobile | Yes | 
-| UA100017 | LHR | ORD | 2023-03-31 |3| Roundtrip ||||| |
-| UA100007 | JFK | LAX | 2023-04-05 |2| Round-trip |14| Tuesday | JFK-LAX | Mobile | Yes | 
-| UA100008 | ORD | DFW | 2023-05-02 |1| One-way |11| Thursday | ORD-DFW | Web | Yes | 
-| UA100009 | DEN | MIA | 2023-06-15 |2| Round-trip |12| Wednesday | DEN-MIA | Mobile | No | 
-| UA100010 | LGA | ATL | 2023-07-01 |1| One-way |10| Friday | LGA-ATL | Web | Yes | 
-| UA100011 | SFO | SEA | 2023-08-19 |1| One-way |8| Sunday | SFO-SEA | Mobile | No | 
-| UA100012 | MSP | LAX | 2023-09-10 |2| Round-trip |15| Tuesday | MSP-LAX | Web | Yes | 
-| UA100013 | DCA | BOS | 2023-10-07 |1| One-way |7| Friday | DCA-BOS | Mobile | Yes | 
-| UA100014 | SFO | JFK | 2023-11-15 |2| Round-trip |16| Tuesday | SFO-JFK | Web | No | 
-| UA100015 | LAX | IAH | 2023-12-01 |1| One-way |9| Thursday | LAX-IAH | Mobile | No | 
-| UA100016 | MCO | PHL | 2024-01-20 |1| One-way |8| Sunday | MCO-PHL | Web | Yes | 
+| booking_id | origin | destination | flight_date | flight_day | num_passengers | trip_type | length_days | sales_channel |
+| UA100006 | LAX | ORD |3/20/2023| Sunday |1| One-way |13|Internet|
+| DL100007 | LAX | JFK |3/21/2023| Monday |2| Roundtrip |10| Mobile |
+| AC100008 | YYZ | JFK |3/22/2023| Tuesday |3| Roundtrip |7| Travel Agent |
+| BA100009 | JFK | LHR |3/23/2023| Wednesday |1| One-way |14|Internet|
+| UA100010 | LHR | SFO |3/24/2023| Thursday |4| Roundtrip |16| Mobile |
+| DL100011 | JFK | LAX |3/25/2023| Friday |2| One-way |9|Internet|
+| AC100012 | LAX | LHR |3/26/2023| Saturday |1| One-way |12| Travel Agent |
+| BA100013 | LHR | JFK |3/27/2023| Sunday |2| Roundtrip |6|Internet|
+| UA100014 | JFK | SFO |3/28/2023| Monday |3| Roundtrip |8| Mobile |
+| AC100015 | YYZ | JFK |3/29/2023| Tuesday |1| One-way |13|Internet|
+| DL100016 | LAX | JFK |3/30/2023| Wednesday |2| Roundtrip |11| Mobile |
+| UA100017 | LHR | ORD |3/31/2023||3| Roundtrip ||Internet|
+| UA100007 | JFK | LAX |4/5/2023| Tuesday |2| Round-trip |14| Mobile |
+| UA100008 | ORD | DFW |5/2/2023| Thursday |1| One-way |11|Internet|
+| UA100009 | DEN | MIA |6/15/2023| Wednesday |2| Round-trip |12| Mobile |
+| UA100010 | LGA | ATL |7/1/2023| Friday |1| One-way |10|Internet|
+| UA100011 | SFO | SEA |8/19/2023| Sunday |1| One-way |8| Mobile |
+| UA100012 | MSP | LAX |9/10/2023| Tuesday |2| Round-trip |15|Internet|
+| UA100013 | DCA | BOS |10/7/2023| Friday |1| One-way |7| Mobile |
+| UA100014 | SFO | JFK |11/15/2023| Tuesday |2| Round-trip |16|Internet|
+| UA100015 | LAX | IAH |12/1/2023| Thursday |1| One-way |9| Mobile |
+| UA100016 | MCO | PHL |1/20/2024| Sunday |1| One-way |8|Internet|
 
 Orders Table:
 
-| order_id	| customer_id	| flight_id	| order_date	| total_amount	| payment_status	|
-| 1	| 2	| DL100007	| 2023-03-10	| 750	| Paid	|
-| 2	| 4	| BA100009	| 2023-03-12	| 500	| Paid	|
-| 3	| 6	| AC100012	| 2023-03-14	| 600	| Paid	|
-| 4	| 3	| AC100008	| 2023-03-16	| 1275	| Paid	|
-| 5	| 8	| BA100013	| 2023-03-18	| 750	| Paid	|
-| 6	| 5	| UA100010	| 2023-03-20	| 2800	| Paid	|
-| 7	| 1	| UA100006	| 2023-03-22	| 200	| Paid	|
-| 8	| 10	| AC100015	| 2023-03-24	| 275	| Paid	|
-| 9	| 7	| DL100011	| 2023-03-26	| 650	| Paid	|
-| 10	| 9	| YYZ-JFK	| 2023-03-28	| 275	| Paid	|
-| 11	| 4	| UA100017	| 2023-03-30	| 1050	| Unpaid	|
-| 12	| 2	| UA100007	| 2023-04-02	| 300	| Paid	|
-| 13	| 1	| UA100008	| 2023-04-05	| 120	| Paid	|
-| 14	| 9	| UA100010	| 2023-07-01	| 220	| Unpaid	|
+| order_id |booking_id | customer_id | order_date | total_amount | payment_status |
+|1| UA100006 |2|3/5/2023|525| Paid |
+|2| DL100007 |4|2/19/2023|1050| Paid |
+|3| AC100008 |6|3/2/2023|1575| Paid |
+|4| BA100009 |3|3/8/2023|525| Paid |
+|5| UA100010 |8|3/9/2023|2100| Paid |
+|6| DL100011 |5|2/18/2023|1050| Paid |
+|7| AC100012 |1|2/14/2023|525| Paid |
+|8| BA100013 | 10 |1/16/2023|1050| Paid |
+|9| UA100014 |7|3/13/2023|1575| Paid |
+|10| AC100015 |9|12/29/2022|525| Paid |
+|11| DL100016 |4|12/30/2022|1050| Paid |
+|12| UA100017 |6|3/11/2023|1575| Paid |
+|13| UA100007 |1|3/11/2023|1050| Paid |
+|14| UA100008 |2|4/25/2023|525| Paid |
+|15| UA100009 |3|5/31/2023|1050| Paid |
+|16| UA100010 |10|6/16/2023|525| Paid |
+|17| UA100011 |10|8/4/2023|525| Paid |
+|18| UA100012 |2|8/26/2023|1050| Paid |
+|19| UA100013 |4|9/22/2023|525| Paid |
+|20| UA100014 |6|10/31/2023|1050| Paid |
+|21| UA100015 |2|11/16/2023|525| Paid |
+|22| UA100016 |7|1/5/2024|525| Paid |
 
 ### SQL Script
 
