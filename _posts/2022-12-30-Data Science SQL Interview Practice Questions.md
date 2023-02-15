@@ -27,9 +27,9 @@ In this article, I will provide a selection of data science SQL interview practi
 
 Use the following tables to practice writing SQL queries.  
 
-## Tables
+### Tables
 
-Customers table:
+**Customers table:
 
 | customer_id | first_name | last_name | email | phone|
 |1| Ahmed | Ali | ahmed.ali@example.com | 555-1234|
@@ -108,7 +108,7 @@ Orders Table:
 ### SQL Practice Questions
 
 
-** Q1: How would you retrieve the top 10 customers by total purchases?
+<b> Q1: How would you retrieve the top 10 customers by total purchases?</b>
 <details>
   <summary>A1:</summary>
   SELECT * FROM Customers WHERE Country = 'USA';
