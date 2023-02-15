@@ -16,6 +16,9 @@ b { color: Blue }
 table {
     font-size: 11px;
 }
+details {
+    font-size: 12px;
+}
 </style>
 <!--- -------Introduction-------- --->
 As a data scientist, you will often be asked to demonstrate your SQL skills in interviews. This is because SQL is a critical tool for accessing, manipulating, and analyzing data in many data science projects. To prepare for a data science interview, it is important to practice your SQL skills and be able to answer a range of questions on different topics.
@@ -94,10 +97,10 @@ Orders Table:
 
 ### SQL Script
 
-{: .box-warning}
-SELECT *
-FROM Customers
-WHERE Country = 'USA';
+<details>
+  <summary>SQL Script for Creating and Populating Tables in your own Booking Database</summary>
+  [Download](assets/Datasets/create tables.sql);
+</details>
 
 ### SQL Practice Questions
 
