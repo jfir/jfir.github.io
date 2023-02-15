@@ -23,9 +23,9 @@ In this article, I will provide a selection of data science SQL interview practi
 
 Use the following tables to practice writing SQL queries.  
 
-### <o>Tables</o>
+#### <o>Tables</o>
 
-Customers table:
+<g>Customers table:</g>
 
 | customer_id | first_name | last_name | email | phone|
 |1| Ahmed | Ali | ahmed_ali@example.com | 555-1234|
@@ -39,7 +39,8 @@ Customers table:
 |9| Yusuf | Ali | yusuf_>ali@example.com | 555-4801|
 | 10 | Zara | Patel | zara_patel@example.com | 555-9012|
 
-booking table:
+
+<g>booking table:</g>
 
 | booking_id | origin | destination | flight_date | flight_day | num_passengers | trip_type | length_days | sales_channel |
 | UA100006 | LAX | ORD |3/20/2023| Sunday |1| One-way |13|Internet|
@@ -65,7 +66,8 @@ booking table:
 | UA100015 | LAX | IAH |12/1/2023| Thursday |1| One-way |9| Mobile |
 | UA100016 | MCO | PHL |1/20/2024| Sunday |1| One-way |8|Internet|
 
-Orders Table:
+
+<g>Orders Table:</g>
 
 | order_id |booking_id | customer_id | order_date | total_amount | payment_status |
 |1| UA100006 |2|3/5/2023|525| Paid |
@@ -92,14 +94,14 @@ Orders Table:
 |22| UA100016 |7|1/5/2024|525| Paid |
 
 
-### <o>SQL Script</o>
+#### <o>SQL Script</o>
 
 
 [Download SQL Script for Creating and Populating Tables in your own Booking Database](https://nestquest.com/assets/Datasets/create_tables.sql)
 
 
 
-### <o>SQL Practice Questions</o>
+#### <o>SQL Practice Questions</o>
 
 
 <b> Q1: How would you retrieve the top 10 customers by total orders?</b>
