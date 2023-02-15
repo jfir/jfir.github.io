@@ -25,7 +25,9 @@ Use the following tables to practice writing SQL queries.
 
 #### <o>Tables</o>
 
+
 <g>Customers table:</g>
+
 
 | customer_id | first_name | last_name | email | phone|
 |1| Ahmed | Ali | ahmed_ali@example.com | 555-1234|
@@ -40,7 +42,9 @@ Use the following tables to practice writing SQL queries.
 | 10 | Zara | Patel | zara_patel@example.com | 555-9012|
 
 
+
 <g>booking table:</g>
+
 
 | booking_id | origin | destination | flight_date | flight_day | num_passengers | trip_type | length_days | sales_channel |
 | UA100006 | LAX | ORD |3/20/2023| Sunday |1| One-way |13|Internet|
@@ -67,7 +71,9 @@ Use the following tables to practice writing SQL queries.
 | UA100016 | MCO | PHL |1/20/2024| Sunday |1| One-way |8|Internet|
 
 
+
 <g>Orders Table:</g>
+
 
 | order_id |booking_id | customer_id | order_date | total_amount | payment_status |
 |1| UA100006 |2|3/5/2023|525| Paid |
