@@ -9,16 +9,12 @@ thumbnail-img: assets/img/sql.png
 tags: [SQL, Sqlite, VS Code, Markdown]
 ---
 <style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-b { color: Blue }
-table {
-    font-size: 11px;
-}
-details {
-    font-size: 14px;
-}
+r { color: #FF5733 } /* bright orange-red */
+o { color: #FFA500 } /* orange */
+g { color: #4CAF50 } /* green */
+b { color: #2196F3 } /* blue */
+table { font-size: 11px; }
+details { font-size: 14px; }
 </style>
 <!--- -------Introduction-------- --->
 As a data scientist, you will often be asked to demonstrate your SQL skills in interviews. This is because SQL is a critical tool for accessing, manipulating, and analyzing data in many data science projects. To prepare for a data science interview, it is important to practice your SQL skills and be able to answer a range of questions on different topics.
@@ -58,14 +54,14 @@ booking table:
 | AC100015 | YYZ | JFK |3/29/2023| Tuesday |1| One-way |13|Internet|
 | DL100016 | LAX | JFK |3/30/2023| Wednesday |2| Roundtrip |11| Mobile |
 | UA100017 | LHR | ORD |3/31/2023| Friday |3| Roundtrip ||Internet|
-| UA100007 | JFK | LAX |4/5/2023| Tuesday |2| Round-trip |14| Mobile |
+| UA100007 | JFK | LAX |4/5/2023| Tuesday |2| Roundtrip |14| Mobile |
 | UA100008 | ORD | DFW |5/2/2023| Thursday |1| One-way |11|Internet|
 | UA100009 | DEN | MIA |6/15/2023| Wednesday |2| Round-trip |12| Mobile |
 | UA100010 | LGA | ATL |7/1/2023| Friday |1| One-way |10|Internet|
 | UA100011 | SFO | SEA |8/19/2023| Sunday |1| One-way |8| Mobile |
-| UA100012 | MSP | LAX |9/10/2023| Tuesday |2| Round-trip |15|Internet|
+| UA100012 | MSP | LAX |9/10/2023| Tuesday |2| Roundtrip |15|Internet|
 | UA100013 | DCA | BOS |10/7/2023| Friday |1| One-way |7| Mobile |
-| UA100014 | SFO | JFK |11/15/2023| Tuesday |2| Round-trip |16|Internet|
+| UA100014 | SFO | JFK |11/15/2023| Tuesday |2| Roundtrip |16|Internet|
 | UA100015 | LAX | IAH |12/1/2023| Thursday |1| One-way |9| Mobile |
 | UA100016 | MCO | PHL |1/20/2024| Sunday |1| One-way |8|Internet|
 
@@ -108,7 +104,7 @@ Orders Table:
 ### SQL Practice Questions
 
 
-<b> Q1: How would you retrieve the top 10 customers by total purchases?</b>
+<b> Q1: How would you retrieve the top 10 customers by total orders?</b>
 <details>
   <summary>A1:</summary>
   SELECT * FROM Customers WHERE Country = 'USA';
