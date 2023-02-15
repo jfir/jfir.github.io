@@ -54,7 +54,7 @@ booking table:
 | UA100014 | JFK | SFO |3/28/2023| Monday |3| Roundtrip |8| Mobile |
 | AC100015 | YYZ | JFK |3/29/2023| Tuesday |1| One-way |13|Internet|
 | DL100016 | LAX | JFK |3/30/2023| Wednesday |2| Roundtrip |11| Mobile |
-| UA100017 | LHR | ORD |3/31/2023||3| Roundtrip ||Internet|
+| UA100017 | LHR | ORD |3/31/2023| Friday |3| Roundtrip ||Internet|
 | UA100007 | JFK | LAX |4/5/2023| Tuesday |2| Round-trip |14| Mobile |
 | UA100008 | ORD | DFW |5/2/2023| Thursday |1| One-way |11|Internet|
 | UA100009 | DEN | MIA |6/15/2023| Wednesday |2| Round-trip |12| Mobile |
