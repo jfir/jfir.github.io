@@ -17,7 +17,7 @@ table {
     font-size: 11px;
 }
 details {
-    font-size: 12px;
+    font-size: 14px;
 }
 </style>
 <!--- -------Introduction-------- --->
@@ -95,16 +95,16 @@ Orders Table:
 |21| UA100015 |2|11/16/2023|525| Paid |
 |22| UA100016 |7|1/5/2024|525| Paid |
 
-### SQL Script
+#### SQL Script
 
 <details>
   <summary>SQL Script for Creating and Populating Tables in your own Booking Database</summary>
-  [Download](assets/Datasets/create tables.sql);
+  [Download](https://nestquest.com/assets/Datasets/create_tables.sql);
 </details>
 
 ### SQL Practice Questions
 
-###### Q1: How would you retrieve the top 10 customers by total purchases?
+** Q1: How would you retrieve the top 10 customers by total purchases?
 
 <details>
   <summary>A1:</summary>
@@ -113,7 +113,7 @@ Orders Table:
 
 ---
 
-###### Q2: Write a query to find the average order value for each customer.
+** Q2: Write a query to find the average order value for each customer.
 
 <details>
   <summary>A2:</summary>
@@ -122,7 +122,7 @@ Orders Table:
 
 ---
 
-###### Q3: How would you find the customers who have placed more than 100 orders?
+** Q3: How would you find the customers who have placed more than 100 orders?
 
 <details>
   <summary>A3:</summary>
@@ -131,7 +131,7 @@ Orders Table:
 
 ---
 
-###### Q4: Write a query to find the most popular products (by number of orders).
+** Q4: Write a query to find the most popular products (by number of orders).
 
 <details>
   <summary>A4:</summary>
@@ -140,7 +140,7 @@ Orders Table:
 
 ---
 
-###### Q5: Write a query to find the most popular products (by number of orders).
+** Q5: Write a query to find the most popular products (by number of orders).
 
 <details>
   <summary>A5:</summary>
@@ -149,7 +149,7 @@ Orders Table:
 
 ---
 
-###### Q6: How would you find the total number of orders for each product?
+** Q6: How would you find the total number of orders for each product?
 
 <details>
   <summary>A6:</summary>
@@ -158,7 +158,7 @@ Orders Table:
 
 ---
 
-###### Q7: Write a query to find the customers who have not placed an order in the last 6 months.
+** Q7: Write a query to find the customers who have not placed an order in the last 6 months.
 
 <details>
   <summary>A7:</summary>
@@ -167,7 +167,7 @@ Orders Table:
 
 ---
 
-###### Q8: How would you find the customers who have placed orders in the last 6 months but not in the last 3 months?
+** Q8: How would you find the customers who have placed orders in the last 6 months but not in the last 3 months?
 
 <details>
   <summary>A8:</summary>
@@ -176,7 +176,7 @@ Orders Table:
 
 ---
 
-###### Q9: Write a query to find the total sales for each month.
+** Q9: Write a query to find the total sales for each month.
 
 <details>
   <summary>A9:</summary>
@@ -185,7 +185,7 @@ Orders Table:
 
 ---
 
-###### Q10: How would you find the products that have never been ordered?
+** Q10: How would you find the products that have never been ordered?
 
 <details>
   <summary>A10:</summary>
@@ -194,7 +194,7 @@ Orders Table:
 
 ---
 
-###### Q11: Write a query to find the average order value for each product category.
+** Q11: Write a query to find the average order value for each product category.
 
 <details>
   <summary>A11:</summary>
@@ -203,7 +203,7 @@ Orders Table:
 
 ---
 
-###### Q12: Write a query to find the customers who have placed orders in every month of the year.
+** Q12: Write a query to find the customers who have placed orders in every month of the year.
 
 <details>
   <summary>A12:</summary>
@@ -212,7 +212,7 @@ Orders Table:
 
 ---
 
-###### Q13: How would you find the total number of orders for each product category?
+** Q13: How would you find the total number of orders for each product category?
 
 <details>
   <summary>A13:</summary>
@@ -221,7 +221,7 @@ Orders Table:
 
 ---
 
-###### Q14: Write a query to find the customers who have placed orders with a total value greater than $1,000.
+** Q14: Write a query to find the customers who have placed orders with a total value greater than $1,000.
 
 <details>
   <summary>A14:</summary>
@@ -230,7 +230,7 @@ Orders Table:
 
 ---
 
-###### Q15: How would you find the average order value for each customer, grouped by country?
+** Q15: How would you find the average order value for each customer, grouped by country?
 
 <details>
   <summary>A15:</summary>
@@ -239,7 +239,7 @@ Orders Table:
 
 ---
 
-###### Q16: Write a query to find the top 5 customers by total purchases, grouped by country.
+** Q16: Write a query to find the top 5 customers by total purchases, grouped by country.
 
 <details>
   <summary>A16:</summary>
@@ -248,7 +248,7 @@ Orders Table:
 
 ---
 
-###### Q17: How would you find the products that have been ordered by at least 50 different customers?
+** Q17: How would you find the products that have been ordered by at least 50 different customers?
 
 <details>
   <summary>A17:</summary>
@@ -257,7 +257,7 @@ Orders Table:
 
 ---
 
-###### Q18: Write a query to find the average order value for each customer, for orders placed in the last 3 months.
+** Q18: Write a query to find the average order value for each customer, for orders placed in the last 3 months.
 
 <details>
   <summary>A18:</summary>
@@ -266,7 +266,7 @@ Orders Table:
 
 ---
 
-###### Q19: How would you find the total number of orders for each product, grouped by month?
+** Q19: How would you find the total number of orders for each product, grouped by month?
 
 <details>
   <summary>A19:</summary>
@@ -275,7 +275,7 @@ Orders Table:
 
 ---
 
-###### Q20: Write a query to find the customers who have placed orders with a total value greater than $500, grouped by country.
+** Q20: Write a query to find the customers who have placed orders with a total value greater than $500, grouped by country.
 
 <details>
   <summary>A20:</summary>
@@ -284,7 +284,7 @@ Orders Table:
 
 ---
 
-###### Q21: How would you find the average order value for each product, grouped by country?
+** Q21: How would you find the average order value for each product, grouped by country?
 
 <details>
   <summary>A21:</summary>
@@ -293,7 +293,7 @@ Orders Table:
 
 ---
 
-###### Q22: List the names of all customers who have placed an order.
+** Q22: List the names of all customers who have placed an order.
 
 <details>
   <summary>A22:</summary>
@@ -302,7 +302,7 @@ Orders Table:
 
 ---
 
-###### Q23: List the names of all customers who have placed more than one order.
+** Q23: List the names of all customers who have placed more than one order.
 
 <details>
   <summary>A23:</summary>
@@ -311,7 +311,7 @@ Orders Table:
 
 ---
 
-###### Q24: List the names of all customers who have placed an order in the USA.
+** Q24: List the names of all customers who have placed an order in the USA.
 
 <details>
   <summary>A24:</summary>
