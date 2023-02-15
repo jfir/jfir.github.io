@@ -2,10 +2,10 @@
 layout: post
 categories: [ blog]
 title: Ace Your Data Science Interview with SQL, Practice Questions and Tips
-subtitle: Prepare for Data Analytics Interviews by Mastering SQL Concepts and Sample Questions!.
+subtitle: Prepare for Data Analytics Interviews by Mastering SQL Concepts and Sample Questions!
 image: assets/img/sql.png
 thumbnail-img: assets/img/sql.png
-#cover-img: ["assets/img/My_Environment_Post.png" : "Caption of image", "assets/img/My_Environment_Post.png" : "Caption of image"]
+#cover-img: ["assets/img/My_Environment_Post</b>png" : "Caption of image", "assets/img/My_Environment_Post</b>png" : "Caption of image"]
 tags: [SQL, Sqlite, VS Code, Markdown]
 ---
 <style>
@@ -23,21 +23,21 @@ In this article, I will provide a selection of data science SQL interview practi
 
 Use the following tables to practice writing SQL queries.  
 
-### Tables
+### <o>Tables</o>
 
-**Customers table:
+Customers table:
 
 | customer_id | first_name | last_name | email | phone|
-|1| Ahmed | Ali | ahmed.ali@example.com | 555-1234|
+|1| Ahmed | Ali | ahmed_ali@example.com | 555-1234|
 |2| Fatima | Rahman | fatima.rahman@example.com | 555-5678|
-|3| Jacob | Levy | jacob.levy@example.com | 555-2468|
-|4| Malik | Jackson | malik.jackson@example.com | 555-3698|
-|5| Michaela | Gomez | michaela.gomez@example.com | 555-9876|
-|6| Omar | Rodriguez | omar.rodriguez@example.com | 555-2345|
-|7| Rachel | Cohen | rachel.cohen@example.com | 555-6789|
-|8| Sofia | Torres | sofia.torres@example.com | 555-1357|
-|9| Yusuf | Ali | yusuf.ali@example.com | 555-4801|
-| 10 | Zara | Patel | zara.patel@example.com | 555-9012|
+|3| Jacob | Levy | jacob_levy@example.com | 555-2468|
+|4| Malik | Jackson | malik_jackson@example.com | 555-3698|
+|5| Michaela | Gomez | michaela_gomez@example.com | 555-9876|
+|6| Omar | Rodriguez | omar_rodriguez@example.com | 555-2345|
+|7| Rachel | Cohen | rachel_cohen@example.com | 555-6789|
+|8| Sofia | Torres | sofia_torres@example.com | 555-1357|
+|9| Yusuf | Ali | yusuf_>ali@example.com | 555-4801|
+| 10 | Zara | Patel | zara_patel@example.com | 555-9012|
 
 booking table:
 
@@ -92,7 +92,7 @@ Orders Table:
 |22| UA100016 |7|1/5/2024|525| Paid |
 
 
-### SQL Script
+### <o>SQL Script</o>
 
 
 <details>
@@ -101,7 +101,7 @@ Orders Table:
 </details>
 
 
-### SQL Practice Questions
+### <o>SQL Practice Questions</o>
 
 
 <b> Q1: How would you retrieve the top 10 customers by total orders?</b>
@@ -112,7 +112,7 @@ Orders Table:
 
 ---
 
-** Q2: Write a query to find the average order value for each customer.
+<b> Q2: Write a query to find the average order value for each customer</b>
 <details>
   <summary>A2:</summary>
   SELECT * FROM Customers WHERE Country = 'USA';
@@ -120,7 +120,7 @@ Orders Table:
 
 ---
 
-** Q3: How would you find the customers who have placed more than 100 orders?
+<b> Q3: How would you find the customers who have placed more than 100 orders?</b>
 <details>
   <summary>A3:</summary>
   SELECT * FROM Customers WHERE Country = 'USA';
@@ -128,7 +128,7 @@ Orders Table:
 
 ---
 
-** Q4: Write a query to find the most popular products (by number of orders).
+<b> Q4: Write a query to find the most popular products (by number of orders)</b>
 <details>
   <summary>A4:</summary>
   SELECT * FROM Customers WHERE Country = 'USA';
@@ -136,7 +136,7 @@ Orders Table:
 
 ---
 
-** Q5: Write a query to find the most popular products (by number of orders).
+<b> Q5: Write a query to find the most popular products (by number of orders)</b>
 
 <details>
   <summary>A5:</summary>
@@ -145,7 +145,7 @@ Orders Table:
 
 ---
 
-** Q6: How would you find the total number of orders for each product?
+<b> Q6: How would you find the total number of orders for each product?</b>
 
 <details>
   <summary>A6:</summary>
@@ -154,7 +154,7 @@ Orders Table:
 
 ---
 
-** Q7: Write a query to find the customers who have not placed an order in the last 6 months.
+<b> Q7: Write a query to find the customers who have not placed an order in the last 6 months</b>
 
 <details>
   <summary>A7:</summary>
@@ -163,7 +163,7 @@ Orders Table:
 
 ---
 
-** Q8: How would you find the customers who have placed orders in the last 6 months but not in the last 3 months?
+<b> Q8: How would you find the customers who have placed orders in the last 6 months but not in the last 3 months?</b>
 
 <details>
   <summary>A8:</summary>
@@ -172,7 +172,7 @@ Orders Table:
 
 ---
 
-** Q9: Write a query to find the total sales for each month.
+<b> Q9: Write a query to find the total sales for each month</b>
 
 <details>
   <summary>A9:</summary>
@@ -181,7 +181,7 @@ Orders Table:
 
 ---
 
-** Q10: How would you find the products that have never been ordered?
+<b> Q10: How would you find the products that have never been ordered?</b>
 
 <details>
   <summary>A10:</summary>
@@ -190,7 +190,7 @@ Orders Table:
 
 ---
 
-** Q11: Write a query to find the average order value for each product category.
+<b> Q11: Write a query to find the average order value for each product category</b>
 
 <details>
   <summary>A11:</summary>
@@ -199,7 +199,7 @@ Orders Table:
 
 ---
 
-** Q12: Write a query to find the customers who have placed orders in every month of the year.
+<b> Q12: Write a query to find the customers who have placed orders in every month of the year</b>
 
 <details>
   <summary>A12:</summary>
@@ -208,7 +208,7 @@ Orders Table:
 
 ---
 
-** Q13: How would you find the total number of orders for each product category?
+<b> Q13: How would you find the total number of orders for each product category?</b>
 
 <details>
   <summary>A13:</summary>
@@ -217,7 +217,7 @@ Orders Table:
 
 ---
 
-** Q14: Write a query to find the customers who have placed orders with a total value greater than $1,000.
+<b> Q14: Write a query to find the customers who have placed orders with a total value greater than $1,000</b>
 
 <details>
   <summary>A14:</summary>
@@ -226,7 +226,7 @@ Orders Table:
 
 ---
 
-** Q15: How would you find the average order value for each customer, grouped by country?
+<b> Q15: How would you find the average order value for each customer, grouped by country?</b>
 
 <details>
   <summary>A15:</summary>
@@ -235,7 +235,7 @@ Orders Table:
 
 ---
 
-** Q16: Write a query to find the top 5 customers by total purchases, grouped by country.
+<b> Q16: Write a query to find the top 5 customers by total purchases, grouped by country</b>
 
 <details>
   <summary>A16:</summary>
@@ -244,7 +244,7 @@ Orders Table:
 
 ---
 
-** Q17: How would you find the products that have been ordered by at least 50 different customers?
+<b> Q17: How would you find the products that have been ordered by at least 50 different customers?</b>
 
 <details>
   <summary>A17:</summary>
@@ -253,7 +253,7 @@ Orders Table:
 
 ---
 
-** Q18: Write a query to find the average order value for each customer, for orders placed in the last 3 months.
+<b> Q18: Write a query to find the average order value for each customer, for orders placed in the last 3 months</b>
 
 <details>
   <summary>A18:</summary>
@@ -262,7 +262,7 @@ Orders Table:
 
 ---
 
-** Q19: How would you find the total number of orders for each product, grouped by month?
+<b> Q19: How would you find the total number of orders for each product, grouped by month?</b>
 
 <details>
   <summary>A19:</summary>
@@ -271,7 +271,7 @@ Orders Table:
 
 ---
 
-** Q20: Write a query to find the customers who have placed orders with a total value greater than $500, grouped by country.
+<b> Q20: Write a query to find the customers who have placed orders with a total value greater than $500, grouped by country</b>
 
 <details>
   <summary>A20:</summary>
@@ -280,7 +280,7 @@ Orders Table:
 
 ---
 
-** Q21: How would you find the average order value for each product, grouped by country?
+<b> Q21: How would you find the average order value for each product, grouped by country?</b>
 
 <details>
   <summary>A21:</summary>
@@ -289,7 +289,7 @@ Orders Table:
 
 ---
 
-** Q22: List the names of all customers who have placed an order.
+<b> Q22: List the names of all customers who have placed an order</b>
 
 <details>
   <summary>A22:</summary>
@@ -298,7 +298,7 @@ Orders Table:
 
 ---
 
-** Q23: List the names of all customers who have placed more than one order.
+<b> Q23: List the names of all customers who have placed more than one order</b>
 
 <details>
   <summary>A23:</summary>
@@ -307,7 +307,7 @@ Orders Table:
 
 ---
 
-** Q24: List the names of all customers who have placed an order in the USA.
+<b> Q24: List the names of all customers who have placed an order in the USA</b>
 
 <details>
   <summary>A24:</summary>
