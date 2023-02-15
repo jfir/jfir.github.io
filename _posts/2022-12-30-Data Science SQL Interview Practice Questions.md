@@ -95,17 +95,20 @@ Orders Table:
 |21| UA100015 |2|11/16/2023|525| Paid |
 |22| UA100016 |7|1/5/2024|525| Paid |
 
-#### SQL Script
+
+### SQL Script
+
 
 <details>
   <summary>SQL Script for Creating and Populating Tables in your own Booking Database</summary>
   [Download](https://nestquest.com/assets/Datasets/create_tables.sql);
 </details>
 
+
 ### SQL Practice Questions
 
-** Q1: How would you retrieve the top 10 customers by total purchases?
 
+** Q1: How would you retrieve the top 10 customers by total purchases?
 <details>
   <summary>A1:</summary>
   SELECT * FROM Customers WHERE Country = 'USA';
@@ -114,7 +117,6 @@ Orders Table:
 ---
 
 ** Q2: Write a query to find the average order value for each customer.
-
 <details>
   <summary>A2:</summary>
   SELECT * FROM Customers WHERE Country = 'USA';
@@ -123,7 +125,6 @@ Orders Table:
 ---
 
 ** Q3: How would you find the customers who have placed more than 100 orders?
-
 <details>
   <summary>A3:</summary>
   SELECT * FROM Customers WHERE Country = 'USA';
@@ -132,7 +133,6 @@ Orders Table:
 ---
 
 ** Q4: Write a query to find the most popular products (by number of orders).
-
 <details>
   <summary>A4:</summary>
   SELECT * FROM Customers WHERE Country = 'USA';
