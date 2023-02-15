@@ -118,7 +118,7 @@ Orders Table:
 
 ---
 
-<b> Q3: How would you find the customers who have placed more than 100 orders?</b>
+<b> Q3: How would you find the customers who have placed more than 4 orders?</b>
 <details>
   <summary>A3:</summary>
   SELECT * FROM Customers WHERE Country = 'USA';
@@ -126,7 +126,7 @@ Orders Table:
 
 ---
 
-<b> Q4: Write a query to find the most popular products (by number of orders)</b>
+<b> Q4: Write a query to find the most popular destination (by number of orders)</b>
 <details>
   <summary>A4:</summary>
   SELECT * FROM Customers WHERE Country = 'USA';
