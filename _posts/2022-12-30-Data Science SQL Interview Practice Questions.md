@@ -97,7 +97,7 @@ Orders Table:
 
 <details>
   <summary>SQL Script for Creating and Populating Tables in your own Booking Database</summary>
-  [Download](https://nestquest.com/assets/Datasets/create_tables.sql);
+  [Download](https://nestquest.com/assets/Datasets/create_tables.sql)
 </details>
 
 
