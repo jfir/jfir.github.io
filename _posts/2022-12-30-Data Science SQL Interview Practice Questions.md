@@ -23,10 +23,10 @@ In this article, I will provide a selection of data science SQL interview practi
 
 Use the following tables to practice writing SQL queries.  
 
-#### <o>Tables</o>
+#### <o>Tables</o>  
 
 
-<g>Customers table:</g>
+<g>Customers table:</g>  
 
 
 | customer_id | first_name | last_name | email | phone|
@@ -43,7 +43,7 @@ Use the following tables to practice writing SQL queries.
 
 
 
-<g>booking table:</g>
+<g>booking table:</g>  
 
 
 | booking_id | origin | destination | flight_date | flight_day | num_passengers | trip_type | length_days | sales_channel |
@@ -72,7 +72,7 @@ Use the following tables to practice writing SQL queries.
 
 
 
-<g>Orders Table:</g>
+<g>Orders Table:</g>  
 
 
 | order_id |booking_id | customer_id | order_date | total_amount | payment_status |
@@ -100,14 +100,14 @@ Use the following tables to practice writing SQL queries.
 |22| UA100016 |7|1/5/2024|525| Paid |
 
 
-#### <o>SQL Script</o>
+#### <o>SQL Script</o>  
 
 
 [Download SQL Script for Creating and Populating Tables in your own Booking Database](https://nestquest.com/assets/Datasets/create_tables.sql)
 
 
 
-#### <o>SQL Practice Questions</o>
+#### <o>SQL Practice Questions</o>  
 
 
 <b> Q1: How would you retrieve the top 10 customers by total orders?</b>
