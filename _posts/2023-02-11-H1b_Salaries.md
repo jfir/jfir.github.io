@@ -8,13 +8,14 @@ thumbnail-img: assets/img/H1b.png
 #cover-img: ["assets/img/My_Environment_Post.png" : "Caption of image", "assets/img/My_Environment_Post.png" : "Caption of image"]  
 tags: [Power BI, Python, Web Scraping, BeautifulSoup]  
 ---  
-<style>  
-r { color: Red }  
-o { color: Orange }  
-g { color: Green }  
-b { color: Blue } 
-f { font-size: 16px } 
-</style>  
+<style>
+r { color: #FF5733 } /* bright orange-red */
+o { color: #FFA500 } /* orange */
+g { color: #4CAF50 } /* green */
+b { color: #2196F3 } /* blue */
+table { font-size: 11px; }
+details { font-size: 14px; }
+</style>
 <!--- -------Introduction-------- --->  
 This project proposes an analytical approach to exploring salary data for different job titles in the United States using data visualization tools such as Power BI. The data analyzed in this project is limited to 2022, and was collected from the source h1bdata.info using Python. The objective of the project is to gain valuable insights into the current job market and assist students and employees in making informed career decisions. The project is divided into 3 dashboards, each of which focuses on a specific aspect of job market analysis. Each dashboard will contain 3 to 4 graphs, maps, or pie charts, providing a visual representation of the salary data. Through a thorough examination of the data, we aim to answer questions regarding the average salaries for various job titles, how salaries vary by location, and the growth trends of specific job markets.
 
