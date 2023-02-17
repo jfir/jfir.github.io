@@ -87,7 +87,6 @@ df.head(3)
 
 
 |     |     employer	                    |    job_title      |	salary	|  location	         | submit_date	|  start_date  |
-| --- | ----------------------------------- | --------------    | --------- | ------------------ | ------------ | ------------ |
 |  1  | FORTRESS INFORMATION SECURITY LLC   | DATA SCIENTIST	| 45,980	| ORLANDO, FL	     | 04/09/2020	| 10/01/2020   |
 |  2  | PERCOLATA CORPORATION	            | DATA SCIENTIST	| 46,060	| PALO ALTO, CA	     | 03/18/2016	| 09/02/2016   |
 |  3  | MY LIFE REGISTRY LLC	            | DATA SCIENTIST	| 47,960	| FORT LEE, NJ	     | 02/18/2015	| 08/20/2015   |

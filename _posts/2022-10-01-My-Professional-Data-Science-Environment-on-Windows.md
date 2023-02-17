@@ -9,10 +9,12 @@ thumbnail-img: assets/img/My_Environment.png
 tags: [VS Code, Markdown, Python, R, MiniConda]
 ---
 <style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-b { color: Blue }
+r { color: #FF5733 } /* bright orange-red */
+o { color: #FFA500 } /* orange */
+g { color: #4CAF50 } /* green */
+b { color: #2196F3 } /* blue */
+table { font-size: 11px; }
+details { font-size: 14px; }
 </style>
 <!--- -------Introduction-------- --->
 Markdown is a way of writing rich-text content for the web using Plaintext formatting syntax. Plaintext is just the regular alphabet, with a few familiar symbols, like asterisks (*) and backticks (`).  

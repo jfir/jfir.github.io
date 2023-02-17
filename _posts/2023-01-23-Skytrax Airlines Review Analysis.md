@@ -8,14 +8,15 @@ thumbnail-img: assets/img/airlines.png
 #cover-img: ["assets/img/My_Environment_Post.png" : "Caption of image", "assets/img/My_Environment_Post.png" : "Caption of image"]  
 tags: [Python, Web Scraping, Skytrax, BeautifulSoup, TextBlob, NLP]  
 ---  
-<style>  
-r { color: Red }  
-o { color: Orange }  
-g { color: Green }  
-b { color: Blue } 
-f { font-size: 16px } 
-</style>  
-<!--- -------Introduction-------- --->  
+<style>
+r { color: #FF5733 } /* bright orange-red */
+o { color: #FFA500 } /* orange */
+g { color: #4CAF50 } /* green */
+b { color: #2196F3 } /* blue */
+table { font-size: 11px; }
+details { font-size: 14px; }
+</style>
+<!--- -------Introduction-------- --->
 Air travel can be a source of stress, even for experienced travelers who are used to completing tasks such as checking bags and finding gates before settling into their plane seats.
 
 As a data scientist, you may be called upon to use your skills to help airlines assess whether there are opportunities to improve the customer journey and turn negative experiences into positive ones. By using data analysis and visualization techniques, companies can quickly and consistently respond to customer feedback in a way that is aligned with their brand values and business objectives.

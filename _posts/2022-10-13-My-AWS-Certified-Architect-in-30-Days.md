@@ -9,9 +9,12 @@ thumbnail-img: assets/img/AWS-SAA-CO3.png # Image used in Fron page Blog
 tags: [AWS, Cloud, SAA-CO3, Certification]
 ---
 <style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
+r { color: #FF5733 } /* bright orange-red */
+o { color: #FFA500 } /* orange */
+g { color: #4CAF50 } /* green */
+b { color: #2196F3 } /* blue */
+table { font-size: 11px; }
+details { font-size: 14px; }
 </style>
 <!--- -------Introduction-------- --->
 I passed the AWS Certified Solutions Architect — Associate exam and I would like to share my journey and the preparation steps I did to pass the exam on my first try.
