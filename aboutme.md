@@ -45,7 +45,10 @@ I love to travel and explore different cultures.
 ### <i class="fas fa-puzzle-piece" aria-hidden="true"></i> My Experience
 {: #puzzle}
 
-**JPMORGAN CHASE**, (Chicago IL, 2013 – PRESENT)  
+**DISCOVER FINANCIAL**, (Riverwoods IL, 2023 – PRESENT)  
+Principal Data Scientist, *Discover Student Loans*
+
+**JPMORGAN CHASE**, (Chicago IL, 2013 – 2022)  
 Senior Data Analytics Analyst, *Global Payments’ Operation*
 
 **JPMORGAN CHASE**, (Elgin IL, 2009 – 2013)  
